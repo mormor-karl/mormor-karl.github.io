@@ -1,0 +1,27 @@
+main:
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+  - title: "Publications"
+    url: /publications/
+  - title: "Outreach"
+    url: /outreach/
+    sublinks:
+      - title: "Event"
+        url: /outreach/events/
+      - title: "Presentations"
+        url: /outreach/presentations/
+      - title: "Blog"
+        url: /outreach/blog/
+  - title: "Resources"
+    url: /resources/
+  - title: "About"
+    url: /about/
+    sublinks:
+      - title: "The Team"
+        url: /about/team/
+      - title: "The Project"
+        url: /about/project/
