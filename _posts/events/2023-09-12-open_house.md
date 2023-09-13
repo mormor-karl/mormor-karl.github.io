@@ -1,5 +1,6 @@
 ---
 title: "Open House at Grandma Karl's"
+excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
