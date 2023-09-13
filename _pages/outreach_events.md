@@ -1,7 +1,7 @@
 ---
 title: "Grandma Karl's Events"
 permalink: /outreach/events/
-layout: tags
+layout: home
 author_profile: false
 ---
 

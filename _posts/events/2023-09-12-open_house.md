@@ -8,7 +8,7 @@ tags:
   - events
 ---
 
-# Open House at Grandma Karl's
+
 
 [Grandma Karl](https://mormor-karl.github.io/) is a project on pseudonymization of research data funded by the Swedish Research Council
 
