@@ -1,8 +1,9 @@
 ---
 title: "Open House at Grandma Karl's"
 categories:
-  - Outreach
+  - Blog
 tags:
+  - outreach
   - events
 ---
 
