@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-[Team - March 2023](/assets/images/IMG_7235.jpeg)
+![Team - March 2023](/assets/images/IMG_7235.jpeg)
 
 ------
 
