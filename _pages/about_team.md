@@ -9,9 +9,11 @@ author_profile: false
 
 ------
 
+<img src="/assets/images/Elena-2023.png" width="200" height="100">
+
 **Current collaborators** in the Mormor Karl project:
 
-| ![](/assets/images/Elena-2023.png) | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) | University of Gothenburg, Sweden |
+| ![](/assets/images/Elena-2023.png)| [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) | University of Gothenburg, Sweden |
 | Picture2 | [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) | University of Gothenburg, Sweden |
 | Picture3 | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) | University of Helsinki, Sweden |
 | Picture3 | [Ricardo Muñoz Sánchez](https://spraakbanken.gu.se/en/about/staff/ricardo) | University of Gothenburg, Sweden |
