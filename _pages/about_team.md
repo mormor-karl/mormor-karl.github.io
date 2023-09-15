@@ -11,8 +11,11 @@ author_profile: false
 
 These are the current collaborators in the Mormor Karl project:
 
-| Picture1 | Name1 | Place1 |
+| Picture1 | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) | University of Gothenburg, Sweden |
 | Picture2 | Name2 | Place2 |
+| Picture3 | Name3 | Place3 |
+| Picture3 | Name3 | Place3 |
+| Picture3 | Name3 | Place3 |
 | Picture3 | Name3 | Place3 |
 
 ------
