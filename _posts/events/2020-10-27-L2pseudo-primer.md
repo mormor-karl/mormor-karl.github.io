@@ -8,4 +8,6 @@ tags:
   - events
 ---
 
-Blog by Elena Volodina: [Pseudonymization of learner essays as a way to meet GDPR requirements](https://spraakbanken.gu.se/blogg/index.php/2020/10/27/pseudonymization-of-learner-essays-as-a-way-to-meet-gdpr-requirements/)
+Blog by Elena Volodina: 
+
+[Pseudonymization of learner essays as a way to meet GDPR requirements](https://spraakbanken.gu.se/blogg/index.php/2020/10/27/pseudonymization-of-learner-essays-as-a-way-to-meet-gdpr-requirements/)
