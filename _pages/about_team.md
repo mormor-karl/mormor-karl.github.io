@@ -12,7 +12,7 @@ These are the current collaborators in the Mormor Karl project:
 * | ![Picture2](/assets/images/...) | [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) | CLASP, University of Gothenburg, Sweden |
 * | ![Picture3](/assets/images/...) | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) | University of Helsinki, Finland |
 * | ![Picture4](/assets/images/...) | [Ricardo Muñoz Sánchez](https://spraakbanken.gu.se/om/personal/ricardo) | Språkbanken, University of Gothenburg, Sweden |
-* | ![Picture5](/assets/images/...) | [Xuan-Son (Sonny) Vu](https://people.cs.umu.se/sonvx/) | Umeå University, Sweden |
+* | ![Picture5](/assets/images/...) | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) | Umeå University, Sweden |
 
 
 The following people have participated in the project in the past:
