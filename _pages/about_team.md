@@ -9,7 +9,7 @@ author_profile: false
 
 ------
 
-<img src="/assets/images/Elena-2023.png"  width="50" height="60" />
+<img src="/assets/images/Elena-2023.png"  width="50" height="70" />
 
 **Current collaborators** in the Mormor Karl project:
 
