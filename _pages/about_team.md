@@ -21,7 +21,7 @@ author_profile: false
 
 | <img src="/assets/images/Ricardo-2023.png"  width="50" height="65" /> | [Ricardo Muñoz Sánchez](https://spraakbanken.gu.se/en/about/staff/ricardo) | University of Gothenburg, Sweden |
 
-| <img src="/assets/images/Sonny-2023.png"  width="50" height="70" /> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) | Umeå university |
+| <img src="/assets/images/Sonny-2023.png"  width="50" height="70" /> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) | Umeå university, Sweden |
 
 ------
 
