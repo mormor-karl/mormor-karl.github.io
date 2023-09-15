@@ -5,6 +5,8 @@ author_profile: false
 ---
 
 
+[Team - March 2023](/assets/images/IMG_7235.jpeg)
+
 ------
 
 These are the current collaborators in the Mormor Karl project:
