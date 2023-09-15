@@ -16,17 +16,12 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 
 **Dates and venue**
 
-**Date**: November, 29, 2023 
-
-**Time**: 9.00 -- 17.00
-
-**Venue**: Univeristy of Gothenburg, Humanisten, J222
-
 The event is a full day, with two coffee breaks that will be served for the registered participants.
 
-**Registration**
- 
-The form is coming soon (Please fill in the following form: <https://forms.office.com/r/U2CDs1n6iV> before __DATE__.) 
+* **Date**: November, 29, 2023 
+* **Time**: 9.00 -- 17.00
+* **Venue**: Univeristy of Gothenburg, Humanisten, J222
+* **Registration**: The form is coming soon (Please fill in the following form: <https://forms.office.com/r/U2CDs1n6iV> before __DATE__.) 
 
 The registration is free and open for researchers, students and companies, but in order to plan for the event, we would like to know whether you are planning to participate in the conference so we can provide coffee for you.
 
