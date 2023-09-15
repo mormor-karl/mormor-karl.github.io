@@ -2,10 +2,10 @@
 title: "Open House at Grandma Karl's"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - events 
 tags:
   - outreach
-  - events
+  - blog
 ---
 
 We cordially invite all those interested in all aspects of pseudonymization and privacy protection of the research data to attend the Open House event organized by the team behind the project [Mormor Karl](https://mormor-karl.github.io/) (or *Grandma Karl* in English). Mormor Karl is a project on pseudonymization of research data funded by the Swedish Research Council. 
