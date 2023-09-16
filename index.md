@@ -5,9 +5,21 @@ layout: single
 permalink: /
 ---
 
-[Mormor Karl is 27 years old: Automatic pseudonymization of research data](https://www.vr.se/english/swecris.html#/project/2022-02311_VR) is a research environment project funded by the Swedish Research Council (VR 2022-02311) during six years: 2023--2028. 
+![Mormor-team-2023](/assets/images/IMG_7235)
 
-The Mormor-project, as we call it, targets several aspects of pseudonymization, aiming to advance Sweden's work on open access to research data:  
+-------
+
+[Grandma Karl is 27 years old: Automatic pseudonymization of research data](https://www.vr.se/english/swecris.html#/project/2022-02311_VR) is a research environment project funded by the Swedish Research Council (VR 2022-02311) during six years: 2023--2028. 
+
+Three collaborating universities are: 
+* ![]() University of Gothenburg, Sweden
+* ![]() University of Helsinki, Finland
+* ![]() Umeå university, Sweden
+
+-------
+
+
+The *Grandma*-project (or *Mormor*-project in Swedish), as we call it, targets several aspects of pseudonymization, aiming to advance Sweden's work on open access to research data:  
 
 1. algorithms to **automatically detect, label and pseudonymize** personal identifiers in freely written texts (essays/blogs), focusing on linguistic challenges such as spelling errors, ambiguous entities, semantic constraints etc 
 
