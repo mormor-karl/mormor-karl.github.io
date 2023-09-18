@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ------
-**Project leader**
+## Project leader
 
 <img src="../assets/images/Elena-2023.png" alt="Elena" width="100"/>  [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena),  [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden 
 
 --------
 
-**Current collaborators**
+## Current collaborators
 
 <img src="../assets/images/Simon-2023.png" alt="Simon" width="100"/>  [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden 
 
@@ -23,13 +23,13 @@ author_profile: true
 
 --------
 
-**Participating organizations**
+## Participating organizations
 
 <img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> <img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> <img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/>   
 
 --------
 
-**Contact**
+## Contact
 
 * Email: mormor.karl at svenska.gu.se
 * Post: Språkbanken Text, SFS department, University of Gothenburg, Box 200, 405 30 Gothenburg
