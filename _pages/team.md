@@ -13,16 +13,19 @@ author_profile: true
 
 **Current collaborators**
 
-* <img src="../assets/images/Simon-2023.png" alt="Simon" width="100"/>  [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden 
-* <img src="../assets/images/Therese-2023-2.png" alt="Therese" width="100"/> [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann)  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland 
-* <img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/>  [Ricardo Muñoz Sanchez](https://rimusa.github.io/) [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden 
-* <img src="../assets/images/Sonny-2023.png" alt="Sonny" width="100"/>  [Xuan-Son Vu](https://people.cs.umu.se/sonvx/)  [Umeå University](https://www.umu.se/institutionen-for-datavetenskap/), Sweden
+<img src="../assets/images/Simon-2023.png" alt="Simon" width="100"/>  [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden 
+
+<img src="../assets/images/Therese-2023-2.png" alt="Therese" width="100"/> [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann)  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland 
+
+<img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/>  [Ricardo Muñoz Sanchez](https://rimusa.github.io/) [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden 
+
+<img src="../assets/images/Sonny-2023.png" alt="Sonny" width="100"/>  [Xuan-Son Vu](https://people.cs.umu.se/sonvx/)  [Umeå University](https://www.umu.se/institutionen-for-datavetenskap/), Sweden
 
 --------
 
 **Participating organizations**
 
-<img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> <img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="100"/> <img src="../assets/images/UmU-logo.png" alt="Umeå University " height="100"/>   
+<img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> <img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> <img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/>   
 
 --------
 
