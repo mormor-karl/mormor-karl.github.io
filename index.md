@@ -28,4 +28,4 @@ The *Grandma*-project (or *Mormor*-project in Swedish), as we call it, targets s
 
 The primary data for the experiments consists of Swedish learner-written essays, collected and manually annotated by us. The results are further be tested on social media domain (through available corpora) and other types of data containing personal information. Natural Language Processing, machine learning, neural networks, word embeddings are some of the methods we are working with. 
 
-![VR logo](/assets/images/VR-logo.png)(https://www.vr.se/english.html)
+![VR logo](/assets/images/VR-logo.png)
