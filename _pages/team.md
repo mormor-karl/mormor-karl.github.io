@@ -1,5 +1,5 @@
 ---
-permalink: /about/team/
+permalink: /team/
 title: "Gradma Karl's Grandchildren"
 author_profile: false
 ---
@@ -15,7 +15,3 @@ The following people have participated in the project in the past:
 
 | Picture4 | Name4 | Place4 |
 | Picture5 | Name5 | Place5 |
-
-
-* [About Us](../)
-* [The Project](../project)

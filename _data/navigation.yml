@@ -7,6 +7,8 @@ main:
 #    url: /tags/
   - title: "Publications"
     url: /publications/
+  - title: "Resources"
+    url: /resources/
   - title: "Outreach"
     url: /outreach/
     sublinks:
@@ -16,12 +18,7 @@ main:
         url: /outreach/presentations/
       - title: "Blog"
         url: /outreach/blog/
-  - title: "Resources"
-    url: /resources/
+  - title: "The Team"
+      url: /team/
   - title: "About"
-    url: /about/
-    sublinks:
-      - title: "The Team"
-        url: /about/team/
-      - title: "The Project"
-        url: /about/project/
+      url: /about/
