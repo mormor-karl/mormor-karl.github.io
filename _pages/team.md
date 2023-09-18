@@ -41,6 +41,6 @@ author_profile: true
 
 **Participating organizations**
 
-|  |  |  |  |  |  
+<img src="../assets/images/GU-logo.png" alt="University of Gothenburg" width="100"/> <img src="../assets/images/HU-logo.png" alt="University of Helsinki" width="100"/> <img src="../assets/images/UmU-logo.png" alt="Umeå University " width="100"/>   
 
 
