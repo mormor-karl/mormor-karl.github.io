@@ -7,7 +7,7 @@ author_profile: true
 ------
 **Project leader**
 
-| <img src="assets/images/Elena-2023.png" alt="Elena" width="100"/> | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) | [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden |
+| <img src="../assets/images/Elena-2023.png" alt="Elena" width="100"/> | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) | [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden |
 
 --------
 
