@@ -1,5 +1,4 @@
 ---
-title: "Mormor Karl"
 author_profile: true
 layout: single
 permalink: /
