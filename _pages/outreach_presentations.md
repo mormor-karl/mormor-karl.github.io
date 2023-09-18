@@ -1,7 +1,7 @@
 ---
 permalink: /outreach/presentations/
 title: "Grandma Karl's Presentations"
-author_profile: false
+author_profile: true
 ---
 
 We have given several presentations to get people to know more about our project. Here you can learn a bit more about them.
