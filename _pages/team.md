@@ -26,4 +26,7 @@ author_profile: true
 | Picture5 | Name5 | Place5 |
 
 --------
+
+**Participating organizations**
+
 |  |  |  |  |  |  
