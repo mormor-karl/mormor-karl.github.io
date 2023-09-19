@@ -11,14 +11,7 @@ main:
     url: /resources/
   - title: "Outreach"
     url: /outreach/
-    sublinks:
-      - title: "Event"
-        url: /outreach/events/
-      - title: "Presentations"
-        url: /outreach/presentations/
-      - title: "Blog"
-        url: /outreach/blog/
   - title: "The Team"
-      url: /team/
+    url: /team/
   - title: "About"
-      url: /about/
+    url: /about/
