@@ -15,7 +15,7 @@ The three collaborating universities are:
 * ![]() University of Helsinki, Finland
 * ![]() Umeå university, Sweden
 
-More on the team see [here](xxx).
+More on the team see [here](https://mormor-karl.github.io/team/).
 
 -------
 
@@ -30,7 +30,7 @@ The *Grandma Karl*-project (or *Mormor Karl*-project in Swedish), as we call it 
 
 The primary data for the experiments consists of Swedish learner-written essays, collected and manually annotated by us. The results are further tested on social media domain (through available corpora) and other types of data containing personal information. Natural Language Processing, machine learning, neural networks, word embeddings are some of the methods we are working with. 
 
-More on the project see [here](xxx).
+More on the project see [here](https://mormor-karl.github.io/about/).
 
 ------
 
