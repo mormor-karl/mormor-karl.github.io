@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Data
-The resources used in Mormor Karl ('Grandma Karl' in English) project consist of several datasets, some of which are under development. Since most of them contain personal information, most of the datasets are not openly avaiable. We will - after thorough legal and ethical considerations - create open datasets that could be used for benchmarking.
+The resources used in Mormor Karl project ('Grandma Karl' in English) consist of several datasets, some of which are under development. Since most of them contain personal information, most of the datasets are not openly avaiable. We will - after thorough legal and ethical considerations - create open datasets that could be used for benchmarking.
 
 ### Primary data -- SweLL (Swedish Language Learner essays)
 
