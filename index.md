@@ -15,7 +15,7 @@ The three collaborating universities are:
 * ![]() University of Helsinki, Finland
 * ![]() Umeå university, Sweden
 
-More on team see [here](xxx).
+More on the team see [here](xxx).
 
 -------
 
