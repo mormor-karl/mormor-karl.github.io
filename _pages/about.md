@@ -4,6 +4,11 @@ title: "About the project"
 author_profile: true
 ---
 
+<!-- Link to a page on 'Personal information handling' -->
+
+<!-- Rename this page to 'The project' 
+add more information about the project -->
+
 ------
 
 ## Research environment and major research questions
