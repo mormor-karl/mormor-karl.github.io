@@ -1,5 +1,5 @@
 ---
-title: "Grandma Karl's Blog"
+title: "Mormor Karl's Blog"
 permalink: /outreach/blog/
 layout: home
 author_profile: true
