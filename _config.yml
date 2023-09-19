@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mormor Karl"
   avatar : "/assets/images/MormorKarl.png"
-  bio    : "This project targets several aspects of **automatic pseudonymization**, aiming to advance Sweden's work on open access to research data: 1. semantic and structural correctness of replacements, 2. effects of pseudonymization on research data and 3. its effectiveness in protecting identities of writers."
+  bio    : "The *Mormor Karl* project (*Grandma Karl* in English) targets several aspects of **automatic pseudonymization**, aiming to advance Sweden's work on open access to research data: 1. semantic and structural correctness of replacements, 2. effects of pseudonymization on research data and 3. its effectiveness in protecting identities of writers."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
