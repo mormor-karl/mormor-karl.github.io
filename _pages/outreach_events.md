@@ -1,5 +1,5 @@
 ---
-title: "Grandma Karl's Events"
+title: "Mormor Karl's Events"
 permalink: /outreach/events/
 layout: home
 author_profile: true
