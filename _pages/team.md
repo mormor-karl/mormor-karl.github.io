@@ -23,7 +23,7 @@ author_profile: true
 
 --------
 
-## PhDd students
+## PhD students
 
 <img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/>  [Ricardo Muñoz Sánchez](https://rimusa.github.io/), [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden 
 
