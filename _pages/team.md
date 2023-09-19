@@ -7,7 +7,7 @@ author_profile: true
 ------
 ## Project leader
 
-| <img src="../assets/images/Elena-2023.png" alt="Elena" width="100"/> | <p>[Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) <br>  [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden </p>|
+| <img src="../assets/images/Elena-2023.png" alt="Elena" width="100"/> | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) <br>  [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> Digital language resources, NLP, second language infrastructure, ICALL|
 
 --------
 
