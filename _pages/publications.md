@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Grandma Karl's Publications"
+title: "Mormor Karl's Publications"
 author_profile: true
 ---
 
