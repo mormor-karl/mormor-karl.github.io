@@ -26,6 +26,12 @@ author_profile: true
 
 --------
 
+## Further contributors
+
+[Nikolai Ilynykh](https://gu-clasp.github.io/people/nikolai-ilinykh/)
+
+--------
+
 ## Participating organizations
 
 <img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> 
@@ -44,11 +50,11 @@ author_profile: true
 
 --------
 
-**Past collaborators**
+<!-- **Past collaborators**
 
 | Picture4 | Name4 | Place4 |
 
-| Picture5 | Name5 | Place5 |
+| Picture5 | Name5 | Place5 | -->
 
 
 
