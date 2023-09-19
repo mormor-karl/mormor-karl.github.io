@@ -11,7 +11,7 @@ author_profile: true
 
 --------
 
-## Current collaborators
+## Core team
 
 <img src="../assets/images/Simon-2023.png" alt="Simon" width="100"/>  [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden 
 
