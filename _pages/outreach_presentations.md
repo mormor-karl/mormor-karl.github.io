@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/presentations/
-title: "Grandma Karl's Presentations"
+title: "Mormor Karl's Presentations"
 author_profile: true
 ---
 
