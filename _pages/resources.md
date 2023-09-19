@@ -1,7 +1,7 @@
 ---
 permalink: /resources/
 title: "Grandma Karl's Resources"
-author_profile: false
+author_profile: true
 ---
 
 We have released several datasets, tools, and documents as part Mormor Karl project. Here you can find them:

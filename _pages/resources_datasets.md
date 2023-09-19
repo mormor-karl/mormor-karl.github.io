@@ -1,7 +1,7 @@
 ---
 permalink: /resources/datasets/
 title: "Grandma Karl's Homemade Datasets"
-author_profile: false
+author_profile: true
 ---
 
 The following datasets have been released and/or expanded as part of the Mormor Karl project:
