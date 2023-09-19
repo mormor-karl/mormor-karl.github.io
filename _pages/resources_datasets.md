@@ -1,6 +1,6 @@
 ---
 permalink: /resources/datasets/
-title: "Grandma Karl's Homemade Datasets"
+title: "Mormor Karl's Homemade Datasets"
 author_profile: true
 ---
 
