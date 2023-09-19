@@ -13,7 +13,7 @@ The resources used in Grandma Karl project consist of several datasets, some of 
 * SweLL-gold corpus: see corpus [metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL) and [article](https://nejlt.ep.liu.se/article/view/1374) 
 * SweLL-pilot corpus: see corpus [metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL) and [article](https://nejlt.ep.liu.se/article/view/1374) 
 
-## Additional data -- learner essays written by L2 Swedish learners in Finland
+## Possible additional data -- learner essays written by L2 Swedish learners in Finland
 
 * Matriculation exams: xxx
 
