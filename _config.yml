@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mormor Karl
-email:
+email: mormor.karl@svenska.gu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  The 'Mormor Karl' project ('Grandma Karl' in English) targets several aspects of **automatic pseudonymization**, aiming to advance Sweden's work on open access to research data, namely: (1) semantic and structural correctness of replacements, (2) effects of pseudonymization on research data and (3) its effectiveness in protecting identities of writers.
+#twitter_username: username
+#github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -95,7 +93,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      #read_time: true
       comments: true
       share: true
       related: true

@@ -32,3 +32,11 @@ add more information about the project -->
 ## Personal information handling
 
 To read how we handle personal and private information about the project, click [here](../personal_info).
+
+--------
+
+## Contact
+
+* Email: [mormor.karl@svenska.gu.se](mailto:mormor.karl@svenska.gu.se)
+* Post: Språkbanken Text, SFS department, University of Gothenburg, Box 200, 405 30 Gothenburg
+* Visiting address: Renströmsgatan 6, Gothenburg (Humanisten)
