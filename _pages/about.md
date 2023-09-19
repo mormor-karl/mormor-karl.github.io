@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About the project"
+title: "The project"
 author_profile: true
 ---
 
@@ -28,3 +28,7 @@ add more information about the project -->
 ![Tasks](../assets/images/Tasks_table.png)
 
 ------
+
+## Personal information handling
+
+To read how we handle personal and private information about the project, click [here](../personal_info).

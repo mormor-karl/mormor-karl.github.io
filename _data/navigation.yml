@@ -9,8 +9,10 @@ main:
 	url: /publications/
   - title: "Resources"
 	url: /resources/
-  - title: "Outreach"
-	url: /outreach/
+  - title: "Activities"
+	url: /activities/
+  - title: "Press"
+	url: /press/
   - title: "The Team"
 	url: /team/
   - title: "About"
