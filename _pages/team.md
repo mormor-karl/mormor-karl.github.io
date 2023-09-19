@@ -26,7 +26,7 @@ author_profile: true
 
 --------
 
-## Further contributors
+## Other contributors
 
 | [Nikolai Ilynykh](https://gu-clasp.github.io/people/nikolai-ilinykh/) |  |  |
 
@@ -34,9 +34,17 @@ author_profile: true
 
 ## Participating organizations
 
-| <img src="../assets/images/GU-logo.jpg" alt="University of Gothenburg" height="100"/> |
-| <img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> |
-| <img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/> |
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 60%">
+
+<img src="../assets/images/GU-logo.jpg" alt="University of Gothenburg" width="100%"/>
+<br><br>
+<img src="../assets/images/HU-logo.png" alt="University of Helsinki" width="100%"/>
+<br><br>
+<img src="../assets/images/UmU-logo.png" alt="Umeå University " width="100%"/>
+
+</div>
 
 --------
 
