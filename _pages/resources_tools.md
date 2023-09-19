@@ -1,6 +1,6 @@
 ---
 permalink: /resources/tools/
-title: "Grandma Karl's Tools"
+title: "Mormor Karl's Tools"
 author_profile: true
 ---
 
