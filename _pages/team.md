@@ -34,11 +34,9 @@ author_profile: true
 
 ## Participating organizations
 
-<img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> 
-
-<img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> 
-
-<img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/>   
+| <img src="../assets/images/GU-logo.jpg" alt="University of Gothenburg" height="100"/> |
+| <img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> |
+| <img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/> |
 
 --------
 

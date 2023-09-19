@@ -1,12 +1,8 @@
 ---
 permalink: /publications/
-title: "Mormor Karl's Publications"
+title: "Project Publications"
 author_profile: true
 ---
-
---------
-
-# Project publications
 
 ------
 **2023**

@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: "Mormor Karl's Resources"
+title: "Project Resources"
 author_profile: true
 ---
 
