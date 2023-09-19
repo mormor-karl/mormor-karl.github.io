@@ -1,6 +1,6 @@
 ---
 permalink: /resources/reports/
-title: "Documentation for Grandma Karl's Resources"
+title: "Documentation for Mormor Karl's Resources"
 author_profile: true
 ---
 
