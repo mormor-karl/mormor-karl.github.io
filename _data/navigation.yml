@@ -6,12 +6,15 @@ main:
 #  - title: "Tags"
 #    url: /tags/
   - title: "Publications"
-    url: /publications/
+	url: /publications/
   - title: "Resources"
-    url: /resources/
-  - title: "Outreach"
-    url: /outreach/
+	url: /resources/
+  - title: "Activities"
+	url: /activities/
+  - title: "Press & media"
+	url: /media/
   - title: "The Team"
-    url: /team/
-  - title: "About"
-    url: /about/
+	url: /team/
+  - title: "The project"
+	url: /project/
+
