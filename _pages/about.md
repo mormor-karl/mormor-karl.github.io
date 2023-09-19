@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Us"
+title: "About the project"
 author_profile: true
 ---
 
