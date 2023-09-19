@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "Grandma Karl's Grandchildren"
+title: "Mormor Karl's Grandchildren"
 author_profile: true
 ---
 
