@@ -28,7 +28,7 @@ author_profile: true
 
 ## Further contributors
 
-[Nikolai Ilynykh](https://gu-clasp.github.io/people/nikolai-ilinykh/)
+| [Nikolai Ilynykh](https://gu-clasp.github.io/people/nikolai-ilinykh/) |  |  |
 
 --------
 
