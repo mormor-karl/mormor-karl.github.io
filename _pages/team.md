@@ -21,14 +21,18 @@ author_profile: true
 
 ## PhD students
 
-| <img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/> | [Ricardo Muñoz Sánchez](https://rimusa.github.io/), [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden |
-| <img src="../assets/images/Maria-2023.png" alt="Maria" width="100"/> | [Maria Irena Szawerna](), [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden |
+| <img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/> | [Ricardo Muñoz Sánchez](https://rimusa.github.io/) <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, detection and mitigation of biases in learner datasets and models|
+| <img src="../assets/images/Maria-2023.png" alt="Maria" width="100"/> | [Maria Irena Szawerna]() <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, authomatic methods for pseudonymization |
 
 --------
 
 ## Participating organizations
 
-<img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> <img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> <img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/>   
+<img src="../assets/images/GU-logo.png" alt="University of Gothenburg" height="100"/> 
+
+<img src="../assets/images/HU-logo.png" alt="University of Helsinki" height="70"/> 
+
+<img src="../assets/images/UmU-logo.png" alt="Umeå University " height="70"/>   
 
 --------
 
