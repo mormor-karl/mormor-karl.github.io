@@ -111,3 +111,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+load_paths:
+  - _sass
+  - node_modules
