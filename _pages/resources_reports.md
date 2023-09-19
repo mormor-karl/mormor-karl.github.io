@@ -1,7 +1,7 @@
 ---
 permalink: /resources/reports/
 title: "Documentation for Grandma Karl's Resources"
-author_profile: false
+author_profile: true
 ---
 
 Here we have collected the documentation for all the resources offered on this website. You can find the actual resources in their respective pages.

@@ -1,7 +1,7 @@
 ---
 permalink: /resources/tools/
 title: "Grandma Karl's Tools"
-author_profile: false
+author_profile: true
 ---
 
 Here you can find the tools and other kinds of software that have been produced as part of the Mormor Karl:
