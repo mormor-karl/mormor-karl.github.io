@@ -13,9 +13,9 @@ The resources used in Mormor Karl project ('Grandma Karl' in English) consist of
 
 * SweLL-gold corpus, 502 essays: see corpus [metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL) and [article](https://nejlt.ep.liu.se/article/view/1374) 
 * SweLL-pilot corpus, 502 essays, consists of three subcorpora, as described in the [article](http://arxiv.org/pdf/1604.06583v1.pdf):
-  ** SpIn: see  [SpIn metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)
-  ** SW1203: see [SW1203 metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
-  ** TISUS: see [TISUS metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-TIS 
+- SpIn: see  [SpIn metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SpIn)
+- SW1203: see [SW1203 metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-SW1203)
+- TISUS: see [TISUS metadata](https://spraakbanken.github.io/swell-release-v1/Metadata-TIS 
 
 ### Possible additional data -- learner essays written by L2 Swedish learners in Finland
 
