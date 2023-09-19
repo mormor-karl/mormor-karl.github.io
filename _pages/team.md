@@ -42,7 +42,7 @@ author_profile: true
 
 ## Contact
 
-* Email: mormor.karl at svenska.gu.se
+* Email: [mormor.karl@svenska.gu.se](mailto:mormor.karl@svenska.gu.se)
 * Post: Språkbanken Text, SFS department, University of Gothenburg, Box 200, 405 30 Gothenburg
 * Visiting address: Renströmsgatan 6, Gothenburg (Humanisten)
 
