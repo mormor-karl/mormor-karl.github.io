@@ -7,21 +7,21 @@ author_profile: true
 ------
 ## Project leader
 
-| <img src="../assets/images/Elena-2023.png" alt="Elena" width="100"/> | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) <br>  [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> Digital language resources, NLP, second language infrastructure, ICALL|
+| <img src="../assets/images/Elena-2023.png" alt="Elena" width="100"/> | [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena) <br>  [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> Digital language resources, L2 infrastructure, NLP, ICALL|
 
 --------
 
 ## Core team
 
 | <img src="../assets/images/Simon-2023.png" alt="Simon" width="100"/> | [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik)<br> [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden <br> NLP, Computational modeling, machine learning |
-| <img src="../assets/images/Therese-2023-2.png" alt="Therese" width="100"/> | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) <br>  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Applied linguistics, language assessment, second language learning |
-| <img src="../assets/images/Sonny-2023.png" alt="Sonny" width="100"/> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) <br>  [Umeå University](https://www.umu.se/institutionen-for-datavetenskap/), Sweden <br> Data Science and Computationl privacy technics|
+| <img src="../assets/images/Therese-2023-2.png" alt="Therese" width="100"/> | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) <br>  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Applied linguistics, language assessment, L2 Swedish |
+| <img src="../assets/images/Sonny-2023.png" alt="Sonny" width="100"/> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) <br>  [Umeå University](https://www.umu.se/institutionen-for-datavetenskap/), Sweden <br> Data Science, Computationl privacy technics|
 
 --------
 
 ## PhD students
 
-| <img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/> | [Ricardo Muñoz Sánchez](https://rimusa.github.io/) <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, detection and mitigation of biases in learner datasets and models|
+| <img src="../assets/images/Ricardo-2023.png" alt="Ricarco" width="100"/> | [Ricardo Muñoz Sánchez](https://rimusa.github.io/) <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, biases in learner datasets and models|
 | <img src="../assets/images/Maria-2023.png" alt="Maria" width="100"/> | [Maria Irena Szawerna]() <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, authomatic methods for pseudonymization |
 
 --------
