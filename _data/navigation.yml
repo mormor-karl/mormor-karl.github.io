@@ -9,13 +9,13 @@ main:
     url: /publications/
   - title: "Resources"
     url: /resources/
-  - title: "Activities"
-    url: /activities/
+  - title: "Events"
+    url: /events/
   - title: "Press"
     url: /press/
   - title: "The Team"
     url: /team/
-  - title: "About"
+  - title: "The Project"
     url: /about/
 
 

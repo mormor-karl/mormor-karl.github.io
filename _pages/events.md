@@ -1,5 +1,5 @@
 ---
-permalink: /activities/
+permalink: /events/
 title: "Getting People to Know Mormor Karl"
 layout: home
 author_profile: true
