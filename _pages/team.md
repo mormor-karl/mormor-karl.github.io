@@ -14,7 +14,7 @@ author_profile: true
 ## Core team
 
 | <img src="../assets/images/Simon-2023.png" alt="Simon" width="100"/> | [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik)<br> [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden <br> NLP, Computational modeling, machine learning |
-| <img src="../assets/images/Therese-2023-2.png" alt="Therese" width="100"/> | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) <br>  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Applied linguistics, language assessment, L2 Swedish |
+| <img src="../assets/images/Therese-2023-2.png" alt="Therese" width="100"/> | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) <br>  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Swedish language, Applied linguistics, Second language acquisition, Learner corpus research|
 | <img src="../assets/images/Sonny-2023.png" alt="Sonny" width="100"/> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) <br>  [Umeå University](https://www.umu.se/institutionen-for-datavetenskap/), Sweden <br> Data Science, Computationl privacy technics|
 
 --------
