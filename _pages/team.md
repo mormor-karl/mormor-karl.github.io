@@ -40,7 +40,7 @@ author_profile: true
 
 <img src="../assets/images/GU-logo.jpg" alt="University of Gothenburg" width="100%"/>
 <br><br>
-<img src="../assets/images/HU-logo.png" alt="University of Helsinki" width="100%"/>
+<img src="../assets/images/HY__LD02_LogoFV_EN_B3____BW.jpg" alt="University of Helsinki" width="100%"/>
 <br><br>
 <img src="../assets/images/UmU-logo.png" alt="Umeå University " width="100%"/>
 
