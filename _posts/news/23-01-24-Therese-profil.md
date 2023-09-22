@@ -1,5 +1,5 @@
 ---
-title: "The profile of the month (HU): Therese Lindström Tiedeman, researcher i Mormor Karl"
+title: "The profile of the month (HU): Therese Lindström Tiedeman"
 excerpt_separator: "<!--more-->"
 categories:
   - news
@@ -10,5 +10,5 @@ tags:
 
 ------
 
-An interview with Therese Lindström Tiedemann, one of the core group researchers in Mormor Karl from Helsinki University. Please, read [here](
+An interview with Therese Lindström Tiedemann, one of the core group researchers in Mormor Karl from the University of Helsinki. Please, read [here](
 https://www.kielipankki.fi/uutiset/manadens-forskare-therese-lindstrom-tiedemann/).
