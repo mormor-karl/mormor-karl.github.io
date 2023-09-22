@@ -1,7 +1,8 @@
 ---
 permalink: /events/
 title: "Getting People to Know Mormor Karl"
-layout: home
+layout: category
+taxonomy: events
 author_profile: true
 ---
 

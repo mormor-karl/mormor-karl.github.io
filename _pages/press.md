@@ -1,6 +1,8 @@
 ---
 permalink: /press/
 title: "Mormor Karl on the News"
+layout: category
+taxonomy: news
 author_profile: true
 ---
 

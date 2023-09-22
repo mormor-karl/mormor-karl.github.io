@@ -5,7 +5,7 @@ categories:
   - events
 tags:
   - outreach
-  - Blog
+  - blog
 ---
 
 ------
