@@ -10,4 +10,4 @@ tags:
 
 ------
 
-A [press-release](https://www.gu.se/nyheter/mormor-karl-ska-gora-personuppgifter-anonyma) for the project at the University of Gothenburg. Please, read [here](https://www.gu.se/nyheter/mormor-karl-ska-gora-personuppgifter-anonyma)
+A press-release for the project at the University of Gothenburg. Please, read [here](https://www.gu.se/nyheter/mormor-karl-ska-gora-personuppgifter-anonyma).
