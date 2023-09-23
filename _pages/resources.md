@@ -21,11 +21,6 @@ The resources used in Mormor Karl project ('Grandma Karl' in English) consist of
 
 ------
 
-### Possible additional data 
-
-* Matriculation exams -- learner essays written by L2 Swedish learners in Finland. More information coming.
-
-------
 
 ### Data from other domains (in Swedish)
 
