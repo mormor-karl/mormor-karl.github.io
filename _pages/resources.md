@@ -43,7 +43,7 @@ As new tools and algorithms will be developed in the project, they will appear h
 
 <!-- We have released several datasets, tools, and documents as part Mormor Karl project. Here you can find them:-->
 
-<!-->
+<!--
 - [Datasets](./datasets/)
 - [Tools and Software](./tools/)
 - [Documentation and Reports](./reports/)
