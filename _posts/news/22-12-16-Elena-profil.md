@@ -1,5 +1,5 @@
 ---
-title: "The profile of the month (SB): Elena Volodina"
+title: "The profile of the month (Nationella Språkbanken): Elena Volodina"
 excerpt_separator: "<!--more-->"
 categories:
   - news

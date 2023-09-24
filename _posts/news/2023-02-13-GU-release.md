@@ -1,5 +1,5 @@
 ---
-title: "GU press release: Mormor Karl"
+title: "Gothenburg University press release: Mormor Karl"
 excerpt_separator: "<!--more-->"
 categories:
   - news

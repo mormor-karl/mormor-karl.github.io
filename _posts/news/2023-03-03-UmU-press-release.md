@@ -1,5 +1,5 @@
 ---
-title: "UmU press release: Mormor Karl"
+title: "Umeå Unuversity press release: Mormor Karl"
 excerpt_separator: "<!--more-->"
 categories:
   - news
