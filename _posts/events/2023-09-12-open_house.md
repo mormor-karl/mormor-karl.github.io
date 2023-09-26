@@ -42,7 +42,7 @@ Coming soon
 
 **Important dates:** 
 
-* October, 2: first call for registrations
+* October, 3: first call for registrations
 * November, 2: second call for registrations
 * November, 15: deadline for registrations
 * November, 29: the Open House event
