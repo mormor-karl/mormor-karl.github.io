@@ -67,7 +67,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * March 21 or 22, 2024: Workshop date 
 
 
-# Invited speakers (coming soon)
+## Invited speakers (coming soon)
 
 <!--
 **Daniel E. Ho** is the William Benjamin Scott and Luna M. Scott Professor of Law at Stanford Law School, Professor of Political Science, Senior Fellow at the Stanford Institute for Economic Policy Research, Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence, and Director of the Regulation, Evaluation, and Governance Lab (RegLab). Ho2 serves on the National Artificial Intelligence Advisory Commission (NAIAC), advising the White House on AI policy, as Senior Advisor on Responsible AI at the U.S. Department of Labor, on the Committee on National Statistics (CNSTAT) of the National Academies of Science, Engineering, and Medicine, and as a Public Member of the Administrative Conference of the United States (ACUS). He has recent interest in privacy and biases in datasets used for training AI algorithms (King et al., 2023), which addresses important questions for pseudonymization.
