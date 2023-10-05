@@ -11,7 +11,8 @@ tags:
 ------
 
 
-_CALD-pseudo – a cross-disciplinary forum for advancing privacy protection of unstructured text data & data openness through pseudonymization._
+_CALD-pseudo - 
+a cross-disciplinary forum for advancing privacy protection of unstructured text data & data openness through pseudonymization._
 
 # [EACL](https://2024.eacl.org/) workshop, Malta, March 21 or 22, 2024
 
@@ -37,13 +38,7 @@ This workshop invites a broad community of researchers in all concerned cross-di
 
 ## Submission information
 
-We will be using the EACL templates for the workshop this year.
-
-  * LaTeX
-  * Microsoft Word
-  * Overleaf
-
-Submissions that do not adhere to the author guidelines will be rejected without review.
+We will be using the [ACL templates](https://github.com/acl-org/acl-style-files) for the workshop (you will find LaTeX and Word templates here). Please, make sure that your submissions take into consideration the following [ACLPUB instructions](https://acl-org.github.io/ACLPUB/formatting.html#style-files). Submissions that do not adhere to the ACLPUB guidelines will be rejected without review.
 
 <!-- 
 **IMPORTANT**: For licensing reasons, all camera-ready papers must include the following sentence as an unmarked (unnumbered) footnote on the first page of the paper: This work is licensed under a Creative Commons Attribution 4.0 International Licence. Licence details: http://creativecommons.org/licenses/by/4.0/. NEW: Please note that the footnote will automatically be added to the final version for the LaTeX template (and Overleaf template once approved).
@@ -58,8 +53,6 @@ Authors are invited to submit _long papers_ (8-12 pages) alternatively _short_ o
 Papers should describe original unpublished work or work-in-progress. Every paper will be reviewed by at least 2 members of the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...". Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, significance and impact of ideas or results.
 
 All accepted papers will be collected into a proceedings volume to be submitted for publication in the EACL volume.
-
-Submission platform ... EACL
 
 
 ## Deadlines
