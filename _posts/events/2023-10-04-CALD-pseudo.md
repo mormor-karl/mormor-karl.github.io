@@ -11,18 +11,15 @@ tags:
 ------
 
 
-_CALD-pseudo - 
-a cross-disciplinary forum for advancing privacy protection of unstructured text data & data openness through pseudonymization._
+# CALD-pseudo workshop at [EACL 2024](https://2024.eacl.org/)
+
+_a cross-disciplinary forum for advancing privacy protection of unstructured text data & data openness through **pseudonymization**._
 
 ------
 
-# [EACL](https://2024.eacl.org/) workshop
-## Malta, March 21 or 22, 2024
-
-------
-
-## Venue 
-Hotel Radisson Blu, St. Julians, in Malta [link](https://2024.eacl.org/venue)
+**Venue**: Hotel Radisson Blu, St. Julians, in Malta [link](https://2024.eacl.org/venue)
+**Date**: Malta, March 21 or 22, 2024
+**Registration**: coming soon
 
 <!-- # Registration -->
 
