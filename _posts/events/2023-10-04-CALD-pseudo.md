@@ -92,21 +92,30 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 ------
 
 ## Program committee (coming soon)
+* Ahrenberg Lars, Linköping university, Sweden
+* Dannélls Ddana, University of Gothenburg, Sweden
+* Dobnik Simon, University of Gothenburg, Sweden 
+* Lindström Tiedemann Therese, University of Helsinki, Finland
+* Lison Pierre, Norwegian Computing Center, Norway 
+* Lindén Krister, University of Helsinki, Finland
+* Megyesi Beáta, Stockholm University, Sweden
+* Volodina Elena, University of Gothenburg, Sweden 
+* Vu Xuan-Son, Umeå University, Sweden
+
+
 <!--
-* Ahrenberg Lars, Linköping university, Sweden (NLP, NER)
+
 * Ainiala Terhi, University of Helsinki, Finland (Finnish, onomastics)
 * Aldrin Emilia, Halmstad university, Sweden (Swedish linguistics, onomastics)
 * Arhar Holdt Špela, University of Ljubljana, Slovenia (digital language infrastructure)
 * Dalianis Hercules, Stockholm university, Sweden (NLP, pseudonymization)
-* Dobnik Simon, University of Gothenburg, Sweden (language modeling, ethics in LLMs)
-* Fort Karën, Sorbonne University, France (NLP, language resources, ethics in NLP)
+
+
 * Grouin Cyril, LIMSI, CNRS, Université Paris-Saclay, France (NLP, data privacy)
 * Habernal Ivan, Technical University of Darmstadt, Germany (NLP, data privacy)
 * Hildén Raili, University of Helsinki, Finland (Language assessment, language education)
 * Kosem Iztok, University of Ljubljana, Slovenia (language resources, digital infrastructure)
-* Lindström Tiedemann Therese, University of Helsinki, Finland (Scandinavian, general & applied linguistics, learner corpus research)
-* Lison Pierre, Norwegian Computing Center, Norway (NLP, anonymization, LLMs)
-* Megyesi Beáta, Stockholm University, Sweden (NLP, pseudonymization)
+
 * Olsen Sussi, CST, University of Copenhagen, Denmark (NLP, language resources)
 * Øvrelid Lilja, University of Oslo, Sweden (NLP, anonymization, language modeling)
 * Papadopoulou Anthi, Norwegian Computing Center, Norway (NLP, anonymization, LLMs)
@@ -114,8 +123,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * de Smedt Koenraad, University of Bergen, Norway (NLP, language resources)
 * Tiedemann Jörg, University of Helsinki, Finland (NLP, language modeling, data privacy)
 * Velupillai Sumithra, King’s College, London, UK (NLP, language modeling, data privacy)
-* Volodina Elena, University of Gothenburg, Sweden (NLP, language resources, pseudonymization, learner corpus research)
-* Vu Xuan-Son, Umeå University, Sweden (NLP, language modeling, data privacy)
+* 
 -->
 
 ------
