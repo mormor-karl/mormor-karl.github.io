@@ -91,7 +91,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 ------
 
-## Program committee (coming soon)
+## Program committee (preliminary)
 * Ahrenberg Lars, Linköping university, Sweden
 * Dannélls Ddana, University of Gothenburg, Sweden
 * Dobnik Simon, University of Gothenburg, Sweden 
