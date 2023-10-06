@@ -17,7 +17,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 ------
 
-**Venue**: [Hotel Radisson Blu](https://2024.eacl.org/venue), St. Julians, Malta
+**Venue**: [Hotel Radisson Blu, St. Julians, Malta](https://2024.eacl.org/venue)
 
 **Date**: March 21 or 22, 2024
 
@@ -93,6 +93,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 ## Program committee (preliminary)
 * Ahrenberg Lars, Linköping university, Sweden
+* Ainiala Terhi, University of Helsinki, Finland
 * Arhar Holdt Špela, University of Ljubljana, Slovenia
 * Dalianis Hercules, Stockholm university, Sweden
 * Dannélls Dana, University of Gothenburg, Sweden
