@@ -99,6 +99,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Dannélls Dana, University of Gothenburg, Sweden
 * Dobnik Simon, University of Gothenburg, Sweden
 * Grouin Cyril, LIMSI, CNRS, Université Paris-Saclay, France
+* Hämäläinen, Lasse, University of Helsinki, Finland
 * Henriksson Aron, Stockholm university, Sweden
 * Kokkinakis Dimitrios, University of Gothenburg, Sweden
 * Lindström Tiedemann Therese, University of Helsinki, Finland
