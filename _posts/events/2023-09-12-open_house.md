@@ -15,7 +15,7 @@ We cordially invite all those interested in all aspects of pseudonymization and 
 <!--more-->
 ------
 
-**Dates and venue**
+## Dates and venue
 
 * **Date**: November, 29, 2023 
 * **Time**: 9.00 -- 17.00
@@ -34,9 +34,28 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 
 ------
 
-**Program**
+## Invited speakers (confirmed)
 
-Coming soon
+**Boel Nelson**, Aarhus university, Denmark -- differential privacy
+
+**Karoline Marko**, University of Graz, Austria -- forensic linguistics, discourse analysis, authorship analysis 
+
+
+
+------
+
+## Program
+
+Preliminary contents of the event:
+
+1. Three invited talks on 
+* NLP and text privacy
+* differential privacy
+* linguistic features, forensic linguistics and authorship
+
+2. A panel on pseudonymization with experts from several concerned fields
+
+3. Presentations from the project Mormor Karl
 
 ------
 
