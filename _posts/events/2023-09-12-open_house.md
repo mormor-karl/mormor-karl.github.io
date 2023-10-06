@@ -38,7 +38,7 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 
 **Boel Nelson**, Aarhus university, Denmark -- differential privacy
 
-**Karoline Marko**, University of Graz, Austria -- forensic linguistics, discourse analysis, authorship analysis 
+**Karoline Marko**, University of Graz, Austria -- forensic linguistics, authorship analysis 
 
 
 
