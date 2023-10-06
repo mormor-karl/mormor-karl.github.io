@@ -93,10 +93,12 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 ## Program committee (preliminary)
 * Ahrenberg Lars, Linköping university, Sweden
+* Arhar Holdt Špela, University of Ljubljana, Slovenia
 * Dalianis Hercules, Stockholm university, Sweden
 * Dannélls Dana, University of Gothenburg, Sweden
 * Dobnik Simon, University of Gothenburg, Sweden
 * Grouin Cyril, LIMSI, CNRS, Université Paris-Saclay, France
+* Henriksson Aron, Stockholm university, Sweden
 * Kokkinakis Dimitrios, University of Gothenburg, Sweden
 * Lindström Tiedemann Therese, University of Helsinki, Finland
 * Lison Pierre, Norwegian Computing Center, Norway 
@@ -109,9 +111,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 <!--
 * Ainiala Terhi, University of Helsinki, Finland (Finnish, onomastics)
 * Aldrin Emilia, Halmstad university, Sweden (Swedish linguistics, onomastics)
-* Arhar Holdt Špela, University of Ljubljana, Slovenia (digital language infrastructure)
 
-* Habernal Ivan, Technical University of Darmstadt, Germany (NLP, data privacy)
 * Hildén Raili, University of Helsinki, Finland (Language assessment, language education)
 * Kosem Iztok, University of Ljubljana, Slovenia (language resources, digital infrastructure)
 
