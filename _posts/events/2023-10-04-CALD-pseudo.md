@@ -107,6 +107,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Lindén Krister, University of Helsinki, Finland
 * Megyesi Beáta, Stockholm university, Sweden
 * Nelson Boel, Aarhus university, Denmark
+* Nordman Lieselott, University of Helsinki, Finland
 * Pilán Ildikó, Norwegian Computing Center, Norway
 * Vakili Thomas, Stockholm university, Sweden
 * Volodina Elena, University of Gothenburg, Sweden 
