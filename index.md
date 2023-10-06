@@ -35,3 +35,5 @@ More on the project see [here](https://mormor-karl.github.io/about/).
 ------
 
 [![VR logo](/assets/images/VR-logo.png)](https://www.vr.se/english.html)
+
+<meta name="google-site-verification" content="NFnKOjmJoiFwhHZbXweNTPCPuMGNcqhbNgwAG2Tisxw" />
