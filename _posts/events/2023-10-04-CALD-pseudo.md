@@ -1,5 +1,5 @@
 ---
-title: "CALD-pseudo: Computational Approaches to Language Data Pseudonymization"
+title: "Computational Approaches to Language Data Pseudonymization"
 excerpt_separator: "<!--more-->"
 categories:
   - events
