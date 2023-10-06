@@ -53,7 +53,7 @@ Preliminary contents of the event:
 * differential privacy
 * linguistic features, forensic linguistics and authorship
 
-2. A panel on pseudonymization with experts from several concerned fields
+2. A discussion panel on pseudonymization with experts from several concerned fields
 
 3. Presentations from the project Mormor Karl
 
