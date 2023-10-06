@@ -17,9 +17,9 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 ------
 
-**Venue**: Hotel Radisson Blu, St. Julians, in Malta [link](https://2024.eacl.org/venue)
+**Venue**: [Hotel Radisson Blu](https://2024.eacl.org/venue), St. Julians, Malta
 
-**Date**: Malta, March 21 or 22, 2024
+**Date**: March 21 or 22, 2024
 
 **Registration**: coming soon
 
