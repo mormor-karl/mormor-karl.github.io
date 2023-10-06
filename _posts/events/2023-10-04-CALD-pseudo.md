@@ -106,6 +106,8 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Lison Pierre, Norwegian Computing Center, Norway 
 * Lindén Krister, University of Helsinki, Finland
 * Megyesi Beáta, Stockholm university, Sweden
+* Nelson Boel, Aarhus university, Denmark
+* Pilán Ildikó, Norwegian Computing Center, Norway
 * Vakili Thomas, Stockholm university, Sweden
 * Volodina Elena, University of Gothenburg, Sweden 
 * Vu Xuan-Son, Umeå university, Sweden
@@ -121,7 +123,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Olsen Sussi, CST, University of Copenhagen, Denmark (NLP, language resources)
 * Øvrelid Lilja, University of Oslo, Sweden (NLP, anonymization, language modeling)
 * Papadopoulou Anthi, Norwegian Computing Center, Norway (NLP, anonymization, LLMs)
-* Pilán Ildikó, Norwegian Computing Center, Norway (NLP, anonymization, LLMs)
+* 
 * de Smedt Koenraad, University of Bergen, Norway (NLP, language resources)
 * Tiedemann Jörg, University of Helsinki, Finland (NLP, language modeling, data privacy)
 * Velupillai Sumithra, King’s College, London, UK (NLP, language modeling, data privacy)
