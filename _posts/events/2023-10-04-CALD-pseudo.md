@@ -109,6 +109,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Nelson Boel, Aarhus university, Denmark
 * Nordman Lieselott, University of Helsinki, Finland
 * Pilán Ildikó, Norwegian Computing Center, Norway
+* Scheffler Tatjana, Ruhr University Bochum, Germany
 * Vakili Thomas, Stockholm university, Sweden
 * Volodina Elena, University of Gothenburg, Sweden 
 * Vu Xuan-Son, Umeå university, Sweden
