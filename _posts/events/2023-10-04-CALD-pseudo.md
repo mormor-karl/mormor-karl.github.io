@@ -111,6 +111,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Megyesi Beáta, Stockholm university, Sweden
 * Nelson Boel, Aarhus university, Denmark
 * Nordman Lieselott, University of Helsinki, Finland
+* Ochs Sebastian, Technical University of Darmstadt, Germany 
 * Pilán Ildikó, Norwegian Computing Center, Norway
 * Scheffler Tatjana, Ruhr University Bochum, Germany
 * Vakili Thomas, Stockholm university, Sweden
