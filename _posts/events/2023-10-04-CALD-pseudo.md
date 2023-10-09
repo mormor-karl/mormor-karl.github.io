@@ -94,6 +94,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 ## Program committee (preliminary)
 * Ahrenberg Lars, Linköping university, Sweden
 * Ainiala Terhi, University of Helsinki, Finland
+* Aldrin Emilia, Halmstad university, Sweden
 * Arhar Holdt Špela, University of Ljubljana, Slovenia
 * Dalianis Hercules, Stockholm university, Sweden
 * Dannélls Dana, University of Gothenburg, Sweden
