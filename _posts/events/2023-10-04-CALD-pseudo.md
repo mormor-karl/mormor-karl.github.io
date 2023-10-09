@@ -106,6 +106,8 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Lindström Tiedemann Therese, University of Helsinki, Finland
 * Lison Pierre, Norwegian Computing Center, Norway 
 * Lindén Krister, University of Helsinki, Finland
+* Ljunglöf Peter, Chalmers University of Technology / University of Gothenburg, Sweden
+* Marko Karoline, University of Graz, Austria
 * Megyesi Beáta, Stockholm university, Sweden
 * Nelson Boel, Aarhus university, Denmark
 * Nordman Lieselott, University of Helsinki, Finland
