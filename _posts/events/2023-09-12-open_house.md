@@ -67,7 +67,7 @@ Preliminary contents of the event:
 3. **Presentations from the project Mormor Karl** 
    * Elena Volodina: "Why Mormor Karl? And why is 'grandma Karl' 27 years old?"
    * Simon Dobnik:
-   * Therese Lindström Tiedemann:
+   * Therese Lindström Tiedemann: When Sverige is better than Sweden and Helsingfors is better than Helsinki.
    * Xuan-Son Vu:
    * Maria Szawerna:
    * Ricardo Muñoz Sanchez: 
