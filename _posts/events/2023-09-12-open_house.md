@@ -20,9 +20,7 @@ We cordially invite all those interested in all aspects of pseudonymization and 
 * **Date**: November, 29, 2023 
 * **Time**: 9.00 -- 17.00
 * **Venue**: Univeristy of Gothenburg, Humanisten, J222
-* **Registration**: The form is coming soon
-
-<!-- (Please fill in the following form: <https://forms.office.com/r/U2CDs1n6iV> before __DATE__.) -->
+* **Registration**: <!-- (Please fill in the following [form](https://forms.office.com/e/QEXjDzfSZY) by the end of November, 13, 2023.) -->
 
 The registration is free and open for researchers, students and companies, but in order to plan for the event, we would like to know whether you are planning to participate in the conference so we can provide coffee for you.
 
@@ -58,20 +56,24 @@ Prior to joining Aarhus University, Boel worked as a postdoc focusing on differe
 
 Preliminary contents of the event:
 
-1. Three invited talks on 
+1. **Three invited talks** on 
 * NLP and text privacy
 * differential privacy
 * linguistic features, forensic linguistics and authorship
 
-2. A discussion panel on pseudonymization with experts from several concerned fields
+2. **A discussion panel** on pseudonymization with experts from several concerned fields
+   Panelists: TBA
 
-3. Presentations from the project Mormor Karl 
+3. **Presentations from the project Mormor Karl** 
    * Elena Volodina: "Why Mormor Karl? And why is 'grandma Karl' 27 years old?"
    * Simon Dobnik:
    * Therese Lindström Tiedemann:
    * Xuan-Son Vu:
    * Maria Szawerna:
    * Ricardo Muñoz Sanchez: 
+
+4. **Poster presentations by participants and mingling**
+   Coming soon
 
 ------
 
