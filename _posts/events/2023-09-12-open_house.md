@@ -36,15 +36,19 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 
 ## Invited speakers (confirmed)
 
-**Boel Nelson**, Aarhus university, Denmark -- differential privacy
+**Boel Nelson, Aarhus university, Denmark (differential privacy)** 
 
-**BIO**: Boel Nelson is a Marie Skłodowska-Curie postdoctoral fellow in the Logic and Semantics group at Aarhus University. She currently leads the MSCA funded project Provable Privacy for Metadata ([ProPriM](https://cordis.europa.eu/project/id/101064140)). Boel’s research interests include data privacy, detection and mitigation of side-channels, and privacy enhancing technologies.
+Boel Nelson is a Marie Skłodowska-Curie postdoctoral fellow in the Logic and Semantics group at Aarhus University. She currently leads the MSCA funded project Provable Privacy for Metadata ([ProPriM](https://cordis.europa.eu/project/id/101064140)). Boel’s research interests include data privacy, detection and mitigation of side-channels, and privacy enhancing technologies.
 
 Prior to joining Aarhus University, Boel worked as a postdoc focusing on differential privacy in the Algorithms and Complexity section at University of Copenhagen, where she was also a member of Basic Algorithms Research Copenhagen (BARC). Before, she worked as a postdoc in the Logic and Semantics group at Aarhus University, where she conducted research on anonymous communication. Boel earned her PhD on the topic of differential privacy from Chalmers University of Technology.
 
 -------
 
-**Karoline Marko**, University of Graz, Austria -- forensic linguistics, authorship analysis 
+**Karoline Marko, University of Graz, Austria (forensic linguistics, authorship analysis)**
+
+
+------
+
 
 
 
