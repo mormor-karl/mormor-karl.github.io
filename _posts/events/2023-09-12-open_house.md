@@ -1,5 +1,5 @@
 ---
-title: "Open House at Grandma Karl's"
+title: "Open House at Mormor Karl's"
 excerpt_separator: "<!--more-->"
 categories:
   - events
@@ -30,7 +30,7 @@ The registration is free and open for researchers, students and companies, but i
 
 Accessibility of research data is critical for advances in many research fields but textual data often cannot be shared due to the personal and sensitive information which it contains, e.g names, political opinions, sensitive personal information and medical data. General Data Protection Regulation, GDPR (EU Commission, 2016), suggests pseudonymization as a solution to secure open access to research data but we need to learn more about pseudonymization as an approach before adopting it for manipulation of research data (Volodina et al., 2023). The main challenge is how to effectively pseudonymize data so that such individuals cannot be identified but at the same time the data is still usable for the natural language processing tasks for which it was collected and for other types of research.
 
-During the workshop day, a number of invited speakers from Sweden, Scandinavia and elsewhere will present their research on data pseudonymization and privacy preservation; Grandma Karl researchers will showcase research problems they will be working with in the next five years, and a panel discussion will involve panelists and audience in a timely discussion on pseudonymization and open access to research data.
+During the workshop day, a number of invited speakers from Sweden, Scandinavia and elsewhere will present their research on data pseudonymization and privacy preservation; Mormor Karl researchers will showcase research problems they will be working with in the next five years, and a panel discussion will involve panelists and audience in a timely discussion on pseudonymization and open access to research data.
 
 ------
 
@@ -61,7 +61,13 @@ Preliminary contents of the event:
 
 2. A discussion panel on pseudonymization with experts from several concerned fields
 
-3. Presentations from the project Mormor Karl
+3. Presentations from the project Mormor Karl 
+   * Elena Volodina: "Why Mormor Karl? And why is 'grandma Karl' 27 years old?"
+   * Simon Dobnik:
+   * Therese Lindström Tiedemann:
+   * Xuan-Son Vu:
+   * Maria Szawerna:
+   * Ricardo Muñoz Sanchez: 
 
 ------
 
