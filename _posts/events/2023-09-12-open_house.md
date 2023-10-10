@@ -49,7 +49,7 @@ Prior to joining Aarhus University, Boel worked as a postdoc focusing on differe
 
 ------
 
-
+**Third speaker - TBA (NLP and privacy)**
 
 
 ------
