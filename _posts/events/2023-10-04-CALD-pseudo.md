@@ -103,6 +103,7 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 * Hämäläinen, Lasse, University of Helsinki, Finland
 * Henriksson Aron, Stockholm university, Sweden
 * Kokkinakis Dimitrios, University of Gothenburg, Sweden
+* Lassus Jannika, University of Helsinki, Finland
 * Lindström Tiedemann Therese, University of Helsinki, Finland
 * Lison Pierre, Norwegian Computing Center, Norway 
 * Lindén Krister, University of Helsinki, Finland
