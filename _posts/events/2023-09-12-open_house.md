@@ -19,7 +19,7 @@ We cordially invite all those interested in all aspects of pseudonymization and 
 
 _____________________________________________________________________________________
 
-[Dates and venue](#dates-and--venue)
+[Dates and venue](#dates-and-venue)
 
 [Description](#description)
 
