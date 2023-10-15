@@ -26,8 +26,8 @@ ________________________________________________________________________________
 [Invited speakers](#invited-speakers)
 
 - [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy)
-- [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-(forensic-linguistics-authorship-analysis))
-- [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-(nlp-deception-privacy))
+- [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis)
+- [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-nlp-deception-privacy)
 
 [Program](#program)
 
