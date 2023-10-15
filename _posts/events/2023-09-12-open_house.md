@@ -10,13 +10,14 @@ tags:
 
 ------
 
+## Call for participation
+
 We cordially invite all those interested in all aspects of pseudonymization and privacy protection of the research data to attend the Open House event organized by the team behind the project [Mormor Karl](https://mormor-karl.github.io/) (*Grandma Karl* in English). Mormor Karl is a project on pseudonymization of research data funded by the Swedish Research Council during 2023--2028. 
 
 <!--more-->
 ------
 
 _____________________________________________________________________________________
-## Contents
 
 [Dates and venue](#dates-and--venue)
 
@@ -48,6 +49,8 @@ The registration is free and open for researchers, students and companies, but i
 
 ------
 
+[Back to top](#call-for-participation)
+
 ## Description
 
 Accessibility of research data is critical for advances in many research fields but textual data often cannot be shared due to the personal and sensitive information which it contains, e.g names, political opinions, sensitive personal information and medical data. General Data Protection Regulation, GDPR (EU Commission, 2016), suggests pseudonymization as a solution to secure open access to research data but we need to learn more about pseudonymization as an approach before adopting it for manipulation of research data (Volodina et al., 2023). The main challenge is how to effectively pseudonymize data so that such individuals cannot be identified but at the same time the data is still usable for the natural language processing tasks for which it was collected and for other types of research.
@@ -57,6 +60,8 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 ------
 
 ## Invited speakers
+
+[Back to top](#call-for-participation)
 
 ### Boel Nelson (differential privacy)
 *Aarhus university, Denmark* 
@@ -70,6 +75,8 @@ Boel Nelson is a Marie Skłodowska-Curie postdoctoral fellow in the Logic and Se
 Prior to joining Aarhus University, Boel worked as a postdoc focusing on differential privacy in the Algorithms and Complexity section at University of Copenhagen, where she was also a member of Basic Algorithms Research Copenhagen (BARC). Before, she worked as a postdoc in the Logic and Semantics group at Aarhus University, where she conducted research on anonymous communication. Boel earned her PhD on the topic of differential privacy from Chalmers University of Technology.
 
 -------
+
+[Back to top](#call-for-participation)
 
 ### Karoline Marko (forensic linguistics, authorship analysis)
 *University of Graz, Austria*
@@ -96,6 +103,8 @@ Karoline Marko has obtained her PhD in 2017 and is currently a postdoctoral rese
 
 ------
 
+[Back to top](#call-for-participation)
+
 ### Rada Mihalcea (NLP, deception, privacy)
 *University of Michigan, United States*
 
@@ -105,6 +114,8 @@ Karoline Marko has obtained her PhD in 2017 and is currently a postdoctoral rese
 
 
 ------
+
+[Back to top](#call-for-participation)
 
 ## Program
 
@@ -131,6 +142,8 @@ Preliminary contents of the event:
 
 ------
 
+[Back to top](#call-for-participation)
+
 ## Important dates 
 
 * October, 17: first call for registrations
@@ -139,6 +152,8 @@ Preliminary contents of the event:
 * November, 29: the Open House event
 
 ------
+
+[Back to top](#call-for-participation)
 
 ## Organizers
 
@@ -150,11 +165,10 @@ Preliminary contents of the event:
 
 ------
 
+[Back to top](#call-for-participation)
+
 ## Contact
 
 mormor.karl at svenska.gu.se
 
-**Acknowledgments**
-
-Project [Mormor Karl](https://mormor-karl.github.io) funded through the Swedish Research Council.
 
