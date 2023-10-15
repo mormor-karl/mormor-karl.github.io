@@ -59,7 +59,7 @@ Authorship analysis is based on the idea that the social contexts in which langu
 * Wright, D. (2013). Stylistic variation within genre conventions in the Enron email corpus: developing a textsensitive methodology for authorship research.
 * Wright, D. (2017). Using word n-grams to identify authors and idiolects: a corpus approach to a forensic linguistic problem. International Journal of Corpus Linguistics, 22(2), 212-214.
 
-*BIO*
+**BIO**
 
 Karoline Marko has obtained her PhD in 2017 and is currently a postdoctoral researcher at the University of Graz. She has specialized in the field of Forensic Linguistics and her research interests include authorship analysis and forensic discourse analysis. In 2020, she became the coordinator of the Forensic Linguistics Certificate at the University of Graz and since 2022, she has been teaching a course on Forensic Linguistics to students of law. 
 
