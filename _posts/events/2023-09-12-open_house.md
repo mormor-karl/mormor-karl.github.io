@@ -29,8 +29,11 @@ ________________________________________________________________________________
 - [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-(nlp-deception-privacy))
 
 [Program](#program)
+
 [Important dates](#important-dates)
+
 [Organizers](#organizers)
+
 [Contact](#contact)
 
 
