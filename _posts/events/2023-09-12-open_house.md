@@ -42,7 +42,26 @@ Prior to joining Aarhus University, Boel worked as a postdoc focusing on differe
 
 -------
 
-**Karoline Marko, University of Graz, Austria (forensic linguistics, authorship analysis)**
+**Karoline Marko**, University of Graz, Austria (forensic linguistics, authorship analysis)
+
+**Authorship analysis, personality traits, and the manipulation of linguistic features**
+
+Authorship analysis is based on the idea that the social contexts in which language is acquired leaves traces in an individual’s language use and that in turn, these traces can provide hints at the sociodemographic, physical, and contextual variables that caused them (Fobbe, 2021). For example, language can contain hints at an individual’s age, gender, social background, including educational and professional backgrounds (e.g., Ehrhardt, 2018), mental and psychological disorders (e.g., Gawda, 2022; Hunter & Grant, 2022), and to some degree also personality traits (e.g., Marengo et al., 2017; Moreno et al., 2021). However, the identification of features as well as their relation to personality traits and sociodemographic features is not straight-forward. One complication is caused by the potential of manipulation of linguistic features: the use of some features can more consciously be manipulated than others; some individuals are apt at adapting their writing styles to that of their interlocutor/addressee or have a generally non-salient style, while others develop a more salient writing style and are thus more easily identifiable (Wright, 2013, 2017). This presentation will provide some insights into linguistic features that can be connected to specific sociodemographic features and personality traits, shed light onto linguistic features that lend themselves more easily for manipulation than others, and address the issue of individuals’ awareness of their own writing style.
+
+*References*
+
+* Ehrhardt, S. (2018). Authorship attribution analysis. In M. Rathert & J. Visconti (Eds.), Handbook of communication in the legal sphere (pp. 169-200). Berlin: de Gruyter.
+* Fobbe, E. (2021). Forensische Linguistik. Eine kriminaltechnische Disziplin in Deutschland. SIAK – Zeitschrift für Polizeiwissenschaft und polizeiliche Praxis, 4, 18-27.
+* Gawda, B. (2022). The differentiation of narrative styles in individuals with high psychopathic deviate. Journal of Psycholinguistic Research, 51(1), 75-92.
+* Hunter, M. & Grant, T. (2022). Killer stance: an investigation of the relationship between attitudinal resources and psychological traits in the writings of four serial murderers. Language and Law=Linguagem e Direito, 9(1), 48-72.
+* Marengo, D., Giannotta, F. & Settanni, M. (2017). Assessing personality using emoji: an exploratory study. Personality and Individual Differences, 112, 74-78.
+* Moreno, J. et al. (2021). Can personality traits me measured analyzing written language? A meta-analytic study on computational methods. Personality and Individual Differences, 177, 1-12.
+* Wright, D. (2013). Stylistic variation within genre conventions in the Enron email corpus: developing a textsensitive methodology for authorship research.
+* Wright, D. (2017). Using word n-grams to identify authors and idiolects: a corpus approach to a forensic linguistic problem. International Journal of Corpus Linguistics, 22(2), 212-214.
+
+*BIO*
+
+Karoline Marko has obtained her PhD in 2017 and is currently a postdoctoral researcher at the University of Graz. She has specialized in the field of Forensic Linguistics and her research interests include authorship analysis and forensic discourse analysis. In 2020, she became the coordinator of the Forensic Linguistics Certificate at the University of Graz and since 2022, she has been teaching a course on Forensic Linguistics to students of law. 
 
 
 ------
