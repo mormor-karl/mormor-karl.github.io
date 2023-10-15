@@ -17,8 +17,6 @@ We cordially invite all those interested in all aspects of pseudonymization and 
 <!--more-->
 ------
 
-_____________________________________________________________________________________
-
 [Dates and venue](#dates-and-venue)
 
 [Description](#description)
