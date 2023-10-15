@@ -15,6 +15,25 @@ We cordially invite all those interested in all aspects of pseudonymization and 
 <!--more-->
 ------
 
+_____________________________________________________________________________________
+## Contents
+
+[Dates and venue](#dates-and--venue)
+
+[Description](#description)
+
+[Invited speakers](#invited-speakers)
+
+- [Boel Nelson (differential privacy)](#boel-nelson-(differential-privacy))
+- [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-(forensic-linguistics-authorship-analysis))
+- [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-(nlp-deception-privacy))
+
+[Program](#program)
+[Important dates](#important-dates)
+[Organizers](#organizers)
+[Contact](#contact)
+
+
 ## Dates and venue
 
 * **Date**: November, 29, 2023 
@@ -26,15 +45,22 @@ The registration is free and open for researchers, students and companies, but i
 
 ------
 
+## Description
+
 Accessibility of research data is critical for advances in many research fields but textual data often cannot be shared due to the personal and sensitive information which it contains, e.g names, political opinions, sensitive personal information and medical data. General Data Protection Regulation, GDPR (EU Commission, 2016), suggests pseudonymization as a solution to secure open access to research data but we need to learn more about pseudonymization as an approach before adopting it for manipulation of research data (Volodina et al., 2023). The main challenge is how to effectively pseudonymize data so that such individuals cannot be identified but at the same time the data is still usable for the natural language processing tasks for which it was collected and for other types of research.
 
 During the workshop day, a number of invited speakers from Sweden, Scandinavia and elsewhere will present their research on data pseudonymization and privacy preservation; Mormor Karl researchers will showcase research problems they will be working with in the next five years, and a panel discussion will involve panelists and audience in a timely discussion on pseudonymization and open access to research data.
 
 ------
 
-## Invited speakers (confirmed)
+## Invited speakers
 
-**Boel Nelson** *Aarhus university, Denmark (differential privacy)* 
+### Boel Nelson (differential privacy)
+*Aarhus university, Denmark* 
+
+**TITLE:** TBA
+
+**BIO**
 
 Boel Nelson is a Marie Skłodowska-Curie postdoctoral fellow in the Logic and Semantics group at Aarhus University. She currently leads the MSCA funded project Provable Privacy for Metadata ([ProPriM](https://cordis.europa.eu/project/id/101064140)). Boel’s research interests include data privacy, detection and mitigation of side-channels, and privacy enhancing technologies.
 
@@ -42,9 +68,10 @@ Prior to joining Aarhus University, Boel worked as a postdoc focusing on differe
 
 -------
 
-**Karoline Marko** *University of Graz, Austria (forensic linguistics, authorship analysis)*
+### Karoline Marko (forensic linguistics, authorship analysis)
+*University of Graz, Austria*
 
-**Authorship analysis, personality traits, and the manipulation of linguistic features**
+**TITLE: Authorship analysis, personality traits, and the manipulation of linguistic features**
 
 Authorship analysis is based on the idea that the social contexts in which language is acquired leaves traces in an individual’s language use and that in turn, these traces can provide hints at the sociodemographic, physical, and contextual variables that caused them (Fobbe, 2021). For example, language can contain hints at an individual’s age, gender, social background, including educational and professional backgrounds (e.g., Ehrhardt, 2018), mental and psychological disorders (e.g., Gawda, 2022; Hunter & Grant, 2022), and to some degree also personality traits (e.g., Marengo et al., 2017; Moreno et al., 2021). However, the identification of features as well as their relation to personality traits and sociodemographic features is not straight-forward. One complication is caused by the potential of manipulation of linguistic features: the use of some features can more consciously be manipulated than others; some individuals are apt at adapting their writing styles to that of their interlocutor/addressee or have a generally non-salient style, while others develop a more salient writing style and are thus more easily identifiable (Wright, 2013, 2017). This presentation will provide some insights into linguistic features that can be connected to specific sociodemographic features and personality traits, shed light onto linguistic features that lend themselves more easily for manipulation than others, and address the issue of individuals’ awareness of their own writing style.
 
@@ -66,7 +93,12 @@ Karoline Marko has obtained her PhD in 2017 and is currently a postdoctoral rese
 
 ------
 
-**Third speaker - TBA (NLP and privacy)**
+### Rada Mihalcea (NLP, deception, privacy)
+*University of Michigan, United States*
+
+**TITLE:** TBA
+
+**BIO** TBA
 
 
 ------
@@ -96,7 +128,7 @@ Preliminary contents of the event:
 
 ------
 
-**Important dates:** 
+## Important dates 
 
 * October, 17: first call for registrations
 * November, 2: second call for registrations
@@ -105,7 +137,7 @@ Preliminary contents of the event:
 
 ------
 
-**Organizers**
+## Organizers
 
 * Elena Volodina, University of Gothenburg, Sweden
 * Simon Dobnik, University of Gothenburg, Sweden
@@ -115,7 +147,11 @@ Preliminary contents of the event:
 
 ------
 
-**Contact**
+## Contact
 
 mormor.karl at svenska.gu.se
+
+**Acknowledgments**
+
+Project [Mormor Karl](https://mormor-karl.github.io) funded through the Swedish Research Council.
 
