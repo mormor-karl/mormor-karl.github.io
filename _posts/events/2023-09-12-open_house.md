@@ -149,7 +149,7 @@ Preliminary contents of the event:
 
 * October, 17: first call for registrations
 * November, 2: second call for registrations
-* November, 15: deadline for registrations
+* November, 13: deadline for registrations
 * November, 29: the Open House event
 
 ------
