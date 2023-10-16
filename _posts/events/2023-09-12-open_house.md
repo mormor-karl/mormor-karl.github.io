@@ -65,7 +65,9 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 ### Boel Nelson (differential privacy)
 *Aarhus university, Denmark* 
 
-**TITLE:** TBA
+**TITLE: Differential privacy: principled foundations, and trade-offs in applications**
+ 
+Differential privacy is a formal definition of privacy both recognized for its theoretical strength (2017 Gödel Prize, 2021 ACM Paris Kanellakis Theory and Practice Award), and deployed at scale by companies such as Google and Apple. Conceptually, differential privacy stands out by being defined as a property of an algorithm, rather than a property of output data. This shift in defining privacy allows differential privacy to achieve several desirable properties, including privacy guarantees that compose under multiple data releases. Still, differential privacy is no silver bullet—any application of differential privacy requires striking an adequate trade-off between accuracy and privacy. As such, differential privacy still presents many open challenges, not the least when it comes to providing meaningful privacy guarantees for real use cases. 
 
 **BIO**
 
