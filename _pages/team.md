@@ -22,7 +22,7 @@ author_profile: true
 ## PhD students
 
 | <img src="../assets/images/Ricardo-2023.png" alt="Ricardo" width="100"/> | [Ricardo Muñoz Sánchez](https://rimusa.github.io/) <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, biases in learner datasets and models|
-| <img src="../assets/images/Maria-2023.png" alt="Maria" width="100"/> | [Maria Irena Szawerna]() <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, authomatic methods for pseudonymization |
+| <img src="../assets/images/Maria-2023.png" alt="Maria" width="100"/> | [Maria Irena Szawerna]() <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, automatic methods for pseudonymization |
 
 --------
 
