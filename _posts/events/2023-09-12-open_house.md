@@ -135,7 +135,7 @@ Preliminary contents of the event:
    * Simon Dobnik:
    * Therese Lindström Tiedemann: "When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*."
    * Xuan-Son Vu: "Privacy preserving ML /AI: regulations, research, and solutions"
-   * Maria Szawerna:
+   * Maria Szawerna: "Sense and Sensitivity: what do we need to turn private information into pseudonyms?"
    * Ricardo Muñoz Sanchez: 
 
 4. **Poster presentations by participants and mingling**
