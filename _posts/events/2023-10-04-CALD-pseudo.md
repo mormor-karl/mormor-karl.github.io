@@ -37,14 +37,16 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 [Make a submission](#make-a-submission)
 
+[Important dates](#important-dates)
+
 [Invited speakers](#invited-speakers)
 
 - [Anders Søgaard](#anders-søgaard-university-of-copenhagen-denmark)
-- [Ildikó Pilán](#ildiko-pilan-the-norwegian-computing-center-norway)
+- [Ildikó Pilán](#ildikó-pilán-the-norwegian-computing-center-norway)
 
 [Program](#program)
 
-[Important dates](#important-dates)
+[Program committee](#program-committee)
 
 [Organizers](#organizers)
 
@@ -127,6 +129,13 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 **Ildikó Pilán** has a PhD in computational linguistics and is a Senior Research Scientist from the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). The fields her expertise is immediately concerned with are Natural Language Processing, Machine Learning, privacy protection, data privacy, Intelligent Computer-Assisted Language Learning.
 
+------
+
+[Back to top](#dates-and-venue)
+
+## Program  
+
+TBA
 
 ------
 
