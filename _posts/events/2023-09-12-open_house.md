@@ -130,7 +130,14 @@ Preliminary contents of the event:
 2. **A discussion panel** on pseudonymization with experts from several concerned fields
    Panelists: TBA
 
-3. **Presentations from the project Mormor Karl** 
+   <!--
+   * Hercules Dalianis (SU, NLP and pseudonymization)
+   * Ylva Byrman (GU, linguistics)
+   * Peter Ljunglöf (GU, privacy preservation)
+   * Tommy Löfstedt (UmU, XXX)
+  -->
+
+4. **Presentations from the project Mormor Karl** 
    * Elena Volodina: "Why Mormor Karl? And why is 'grandma Karl' 27 years old?"
    * Simon Dobnik:
    * Therese Lindström Tiedemann: "When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*."
@@ -138,7 +145,7 @@ Preliminary contents of the event:
    * Maria Szawerna: "Sense and Sensitivity: what do we need to turn private information into pseudonyms?"
    * Ricardo Muñoz Sanchez: 
 
-4. **Poster presentations by participants and mingling**
+5. **Poster presentations by participants and mingling**
    Coming soon
 
 ------
