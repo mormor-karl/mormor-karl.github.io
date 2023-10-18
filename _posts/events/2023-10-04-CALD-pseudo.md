@@ -43,7 +43,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 - [Anders Søgaard](#anders-søgaard-university-of-copenhagen-denmark)
 - [Ildikó Pilán](#ildikó-pilán-the-norwegian-computing-center-norway)
 
-[Program](#program)
+<!-- [Program](#program) -->
 
 [Program committee](#program-committee)
 
