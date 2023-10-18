@@ -83,8 +83,6 @@ Authors are invited to submit _long papers_ (8-12 pages) alternatively _short_ o
 
 ------
 
-[Back to top](#dates-and-venue)
-
 ## Make a submission
 
 Papers should describe original unpublished work or work-in-progress. Every paper will be reviewed by at least 2 members of the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...". Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, significance and impact of ideas or results.
