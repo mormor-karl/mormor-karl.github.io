@@ -35,7 +35,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 [Submission information](#submission-information)
 
-[Make a submission](#make-a-submission)
+<!-- [Make a submission](#make-a-submission)-->
 
 [Important dates](#important-dates)
 
