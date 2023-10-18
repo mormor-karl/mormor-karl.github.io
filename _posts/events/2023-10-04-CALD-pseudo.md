@@ -29,6 +29,24 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 ------
 
+[Workshop Topic and Content](#workshop-topic-and-content)
+
+[Submission information](#submission-information)
+
+[Invited speakers](#invited-speakers)
+
+- [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy)
+- [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis)
+- [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-nlp-deception-privacy)
+
+[Program](#program)
+
+[Important dates](#important-dates)
+
+[Organizers](#organizers)
+
+___________________
+
 ## Workshop Topic and Content
 Accessibility of research data is critical for advances in many research fields but textual data often cannot be shared due to the personal and sensitive information which it contains, e.g names, political opinions, sensitive personal information and medical data. General Data Protection Regulation, GDPR (EU Commission, 2016), suggests pseudonymization as a solution to secure open access to research data but we need to learn more about pseudonymization as an approach before adopting it for manipulation of research data (Volodina et al., 2023). The main challenge is how to effectively pseudonymize data so that such individuals cannot be identified, while at the same time keeping the data usable for research (e.g. in computational linguistics, linguistics) and natural language processing tasks for which it was collected.
 This workshop invites a broad community of researchers in all concerned cross-disciplinary fields to jointly discuss challenges within pseudonymization, such as
@@ -43,6 +61,8 @@ This workshop invites a broad community of researchers in all concerned cross-di
 * and numerous other open questions.
 
 ------
+
+[Back to top](#cald-pseudo-workshop-at-eacl-2024-https2024eaclorg)
 
 ## Submission information
 
