@@ -17,6 +17,8 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 ------
 
+## Dates and venue
+
 **Venue**: [Hotel Radisson Blu, St. Julians, Malta](https://2024.eacl.org/venue)
 
 **Date**: March 21 or 22, 2024
@@ -33,11 +35,12 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 [Submission information](#submission-information)
 
+[Make a submission](#make-a-submission)
+
 [Invited speakers](#invited-speakers)
 
-- [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy)
-- [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis)
-- [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-nlp-deception-privacy)
+- [Anders Søgaard](#anders-søgaard-university-of-copenhagen-denmark)
+- [Ildikó Pilán](#ildiko-pilan-the-norwegian-computing-center-norway)
 
 [Program](#program)
 
@@ -62,7 +65,7 @@ This workshop invites a broad community of researchers in all concerned cross-di
 
 ------
 
-[Back to top](#cald-pseudo-workshop-at-eacl-2024-https2024eaclorg)
+[Back to top](#dates-and-venue)
 
 ## Submission information
 
@@ -78,6 +81,8 @@ Authors are invited to submit _long papers_ (8-12 pages) alternatively _short_ o
 
 ------
 
+[Back to top](#dates-and-venue)
+
 ## Make a submission
 
 Papers should describe original unpublished work or work-in-progress. Every paper will be reviewed by at least 2 members of the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...". Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, significance and impact of ideas or results.
@@ -86,7 +91,9 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 ------
 
-## Deadlines
+[Back to top](#dates-and-venue)
+
+## Important dates
 * October 20, 2023: First call for workshop papers 
 * November 15, 2023: Second call for workshop papers
 * December 11, 2023: Third call for workshop papers 
@@ -99,19 +106,33 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 ------
 
-## Invited speakers (coming soon)
+## Invited speakers
 
-<!--
-**Daniel E. Ho** is the William Benjamin Scott and Luna M. Scott Professor of Law at Stanford Law School, Professor of Political Science, Senior Fellow at the Stanford Institute for Economic Policy Research, Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence, and Director of the Regulation, Evaluation, and Governance Lab (RegLab). Ho2 serves on the National Artificial Intelligence Advisory Commission (NAIAC), advising the White House on AI policy, as Senior Advisor on Responsible AI at the U.S. Department of Labor, on the Committee on National Statistics (CNSTAT) of the National Academies of Science, Engineering, and Medicine, and as a Public Member of the Administrative Conference of the United States (ACUS). He has recent interest in privacy and biases in datasets used for training AI algorithms (King et al., 2023), which addresses important questions for pseudonymization.
--->
 
-<!--
-**Ildikó Pilán** has a PhD in computational linguistics and is a Senior Research Scientist from the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup3 (e.g. Lison et al., 2021; Pilán et al., 2022). The fields her expertise is immediately concerned with are Natural Language Processing, Machine Learning, privacy protection, data privacy, Intelligent Computer-Assisted Language Learning.
--->
+[Back to top](#dates-and-venue)
+
+### Anders Søgaard, University of Copenhagen, Denmark
+
+**Title** TBA
+
+**BIO** TBA
 
 ------
 
-## Program committee (preliminary)
+[Back to top](#dates-and-venue)
+
+### Ildikó Pilán, the Norwegian Computing Center, Norway
+
+**Title** TBA
+
+**Ildikó Pilán** has a PhD in computational linguistics and is a Senior Research Scientist from the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). The fields her expertise is immediately concerned with are Natural Language Processing, Machine Learning, privacy protection, data privacy, Intelligent Computer-Assisted Language Learning.
+
+
+------
+
+[Back to top](#dates-and-venue)
+
+## Program committee 
 * Ahrenberg Lars, Linköping university, Sweden
 * Ainiala Terhi, University of Helsinki, Finland
 * Aldrin Emilia, Halmstad university, Sweden
@@ -141,29 +162,28 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 
 <!--
-* Ainiala Terhi, University of Helsinki, Finland (Finnish, onomastics)
-* Aldrin Emilia, Halmstad university, Sweden (Swedish linguistics, onomastics)
-
 * Hildén Raili, University of Helsinki, Finland (Language assessment, language education)
 * Kosem Iztok, University of Ljubljana, Slovenia (language resources, digital infrastructure)
 
-* Olsen Sussi, CST, University of Copenhagen, Denmark (NLP, language resources)
 * Øvrelid Lilja, University of Oslo, Sweden (NLP, anonymization, language modeling)
 * Papadopoulou Anthi, Norwegian Computing Center, Norway (NLP, anonymization, LLMs)
-* 
+
 * de Smedt Koenraad, University of Bergen, Norway (NLP, language resources)
-* Tiedemann Jörg, University of Helsinki, Finland (NLP, language modeling, data privacy)
 * Velupillai Sumithra, King’s College, London, UK (NLP, language modeling, data privacy)
-* 
 -->
 
 ------
+
+[Back to top](#dates-and-venue)
 
 ## Organizers
 * [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
 * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland
 * [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden
 * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden
+
+## Contact
+mormor.karl@svenska.gu.se
 
 ------
 
