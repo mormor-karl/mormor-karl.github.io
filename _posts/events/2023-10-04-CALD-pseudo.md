@@ -162,13 +162,13 @@ TBA
 * Ochs Sebastian, Technical University of Darmstadt, Germany 
 * Pilán Ildikó, Norwegian Computing Center, Norway
 * Scheffler Tatjana, Ruhr University Bochum, Germany
+* Torra Vicenc, Umeå university, Sweden
 * Vakili Thomas, Stockholm university, Sweden
 * Volodina Elena, University of Gothenburg, Sweden 
 * Vu Xuan-Son, Umeå university, Sweden
 
 
 <!--
-* Hildén Raili, University of Helsinki, Finland (Language assessment, language education)
 * Kosem Iztok, University of Ljubljana, Slovenia (language resources, digital infrastructure)
 
 * Øvrelid Lilja, University of Oslo, Sweden (NLP, anonymization, language modeling)
