@@ -161,6 +161,7 @@ TBA
 * Nordman Lieselott, University of Helsinki, Finland
 * Ochs Sebastian, Technical University of Darmstadt, Germany 
 * Pilán Ildikó, Norwegian Computing Center, Norway
+* Sánchez Ruenes David, University of Rovira i Virgili, Spain
 * Scheffler Tatjana, Ruhr University Bochum, Germany
 * Torra Vicenc, Umeå university, Sweden
 * Vakili Thomas, Stockholm university, Sweden
