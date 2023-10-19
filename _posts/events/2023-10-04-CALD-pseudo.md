@@ -164,6 +164,7 @@ TBA
 * Scheffler Tatjana, Ruhr University Bochum, Germany
 * Torra Vicenc, Umeå university, Sweden
 * Vakili Thomas, Stockholm university, Sweden
+* Vydiswaran VG Vinod, University of Michigan, USA 
 * Volodina Elena, University of Gothenburg, Sweden 
 * Vu Xuan-Son, Umeå university, Sweden
 
