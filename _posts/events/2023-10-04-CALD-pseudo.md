@@ -114,7 +114,10 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 
 **Title** TBA
 
-**BIO** TBA
+**BIO** 
+
+Anders Søgaard is Full Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. He is also affiliated with the Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. He was previously at University of Potsdam, Amazon and Google Research. He has won eight best paper awards and several prestigious grants.
+
 
 ------
 
