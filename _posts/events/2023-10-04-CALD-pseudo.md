@@ -78,7 +78,7 @@ We will be using the [ACL templates](https://github.com/acl-org/acl-style-files)
 The footnote can be added by adding the following piece of code before the abstract: $\let\thefootnote\relax\footnotetext{This work is licensed under a Creative Commons Attribution 4.0 International Licence. Licence details: http://creativecommons.org/licenses/by/4.0/.} $
 -->
 
-Authors are invited to submit _long papers_ (8-12 pages) alternatively _short_ or _demo_ papers (4-7 pages), page count not including references. Please indicate one relevant paper type at submission time. Only pdf files will be accepted. Submissions will be managed through the electronic conference management system **(link will be added soon)**. Final camera-ready versions of accepted papers will be given an additional page to address reviewer comments.
+Authors are invited to submit _long papers_ (8 pages) alternatively _short_ or _demo_ papers (4 pages), page count not including references. Please indicate one relevant paper type at submission time. Only pdf files will be accepted. Submissions will be managed through the electronic conference management system [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/). Final camera-ready versions of accepted papers will be given an additional page to address reviewer comments.
 
 ------
 
