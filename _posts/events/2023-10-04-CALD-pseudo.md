@@ -93,11 +93,13 @@ All accepted papers will be collected into a proceedings volume to be submitted 
 [Back to top](#dates-and-venue)
 
 ## Important dates
+<!--  
 * October 22, 2023: First call for workshop papers 
-<!-- * November 15, 2023: Second call for workshop papers
-* December 11, 2023: Third call for workshop papers -->
-* December 18, 2023: Workshop paper due 
-* January 17, 2024: Direct Submission deadline (pre-reviewed ARR & main conference)
+* November 15, 2023: Second call for workshop papers
+* December 11, 2023: Third call for workshop papers 
+-->
+* December 18, 2023: Workshop paper deadliine 
+* January 17, 2024: Re-submission of pre-reviewed ARR papers
 * January 20, 2024: Notification of acceptance 
 * January 30, 2024: Camera-ready papers due 
 <!-- * February 7, 2024: Proceedings due -->
@@ -126,8 +128,6 @@ Anders Søgaard is Full Professor in Natural Language Processing and Machine Lea
 ### Ildikó Pilán, the Norwegian Computing Center, Norway
 
 **Title** TBA
-
-**Ildikó Pilán** 
 
 Ildikó Pilán is a Senior Research Scientist at the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). The fields her expertise are Natural Language Processing, Machine Learning, privacy protection, data privacy, Intelligent Computer-Assisted Language Learning.
 
