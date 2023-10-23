@@ -127,7 +127,7 @@ Anders Søgaard is Full Professor in Natural Language Processing and Machine Lea
 
 ### Ildikó Pilán, the Norwegian Computing Center, Norway
 
-**Title** TBA
+**Title (preliminary)** Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how
 
 Ildikó Pilán is a Senior Research Scientist at the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). The fields her expertise are Natural Language Processing, Machine Learning, privacy protection, data privacy, Intelligent Computer-Assisted Language Learning.
 
