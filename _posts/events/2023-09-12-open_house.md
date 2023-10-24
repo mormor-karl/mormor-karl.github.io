@@ -62,7 +62,7 @@ tags:
 
 | PANELISTS |
 |---|
-| * [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (SU, NLP and pseudonymization) <br> * [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (GU, linguistics, forensic linguistics) <br> * [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (GU, privacy preservation, data and model biases)|
+| [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (SU, NLP and pseudonymization) <br> [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (GU, linguistics, forensic linguistics) <br> [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (GU, privacy preservation, data and model biases)|
 
 ## Invited speakers
 
