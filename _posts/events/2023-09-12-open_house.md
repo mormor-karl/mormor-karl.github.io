@@ -10,8 +10,8 @@ tags:
 
 ------
 
-
-| ## Call for participation |
+## Call for participation
+|  |
 |---|
 |We cordially invite all those interested in all aspects of pseudonymization and privacy protection of the research data to attend the Open House event organized by the team behind the project [Mormor Karl](https://mormor-karl.github.io/) (*Grandma Karl* in English). Mormor Karl is a project on pseudonymization of research data funded by the Swedish Research Council during 2023--2028. |
 
