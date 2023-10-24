@@ -75,7 +75,7 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 |13.00-13.50| _Karoline Marko_ (Invited talk) <br>**Authorship analysis, personality traits, and the manipulation of linguistic features**|
 |13.50-14.30| COFFEE BREAK. Poster browsing|
 |14.30-15.20| _Rada Mihalcea (online)_ (Invited talk) <br>**TBA**|
-|15.20-17.00| _Hercules Dalianis, Peter Ljunglöf, Ylva Burman_  (Panel discussion) <br> **What is "privacy"? For you...** |
+|15.20-17.00| _Hercules Dalianis, Peter Ljunglöf, Ylva Burman_  (Panel discussion)<br> Moredators: Simon Dobnik and Elena Volodina <br> **What is "privacy"? For you...** |
 
 **POSTERS**: TBA
 
