@@ -19,13 +19,15 @@ tags:
 <!--more-->
 ------
 
-| Contents|
+## Contents
+
+| |
 |--|
 |[Dates and venue](#dates-and-venue) <br> [Description](#description) <br> [Program](#program)  <br> [Invited speakers](#invited-speakers) <br> - [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy) <br> - [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis) <br> - [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-nlp-deception-privacy) <br> [Important dates](#important-dates) <br> [Organizers](#organizers) <br> [Contact](#contact) |
 
 -----
 
-| Dates and venue |
+| ## Dates and venue |
 |--|
 | **Date**: November, 29, 2023 <br> **Time**: 9.00 -- 17.00 <br> **Venue**: Univeristy of Gothenburg, Humanisten, J222 <br> **Registration**: Please fill in the following [form](https://forms.office.com/e/QEXjDzfSZY) by the end of November, 13, 2023. <br> The registration is free and open for researchers, students and companies, but in order to plan for the event, we would like to know whether you are planning to participate in the conference so we can provide coffee for you.|
 
