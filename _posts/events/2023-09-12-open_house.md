@@ -32,7 +32,8 @@ tags:
 
 [Back to top](#call-for-participation)
 
- ## Description
+
+## Description 
 
 | |
 |--|
@@ -67,9 +68,6 @@ tags:
 
 [Back to top](#call-for-participation)
 
-<!-- ### Boel Nelson (differential privacy)
-*Aarhus university, Denmark* -->
-
 | Boel Nelson (differential privacy), Aarhus university, Denmark|
 |---|
 |**TITLE: Differential privacy: principled foundations, and trade-offs in applications** <br>Differential privacy is a formal definition of privacy both recognized for its theoretical strength (2017 Gödel Prize, 2021 ACM Paris Kanellakis Theory and Practice Award), and deployed at scale by companies such as Google and Apple. Conceptually, differential privacy stands out by being defined as a property of an algorithm, rather than a property of output data. This shift in defining privacy allows differential privacy to achieve several desirable properties, including privacy guarantees that compose under multiple data releases. Still, differential privacy is no silver bullet—any application of differential privacy requires striking an adequate trade-off between accuracy and privacy. As such, differential privacy still presents many open challenges, not the least when it comes to providing meaningful privacy guarantees for real use cases. |
@@ -95,6 +93,7 @@ tags:
 [Back to top](#call-for-participation)
 
 ## Important dates 
+
 | |
 |--|
 |* October, 17: first call for registrations <br> * November, 2: second call for registrations <br> * November, 13: deadline for registrations <br> * November, 29: the Open House event |
@@ -102,6 +101,7 @@ tags:
 [Back to top](#call-for-participation)
 
 ## Organizers
+
 | |
 |--|
 | * Elena Volodina, University of Gothenburg, Sweden <br> * Simon Dobnik, University of Gothenburg, Sweden <br> * Therese Lindström Tiedemann, University of Helsinki, Finland <br> * Ricardo Muñoz Sánchez, University of Gothenburg, Sweden <br> * Maria Irena Szawerna, Sweden <br> * Xuan-Son Vu, Umeå University, Sweden|
