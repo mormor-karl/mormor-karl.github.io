@@ -61,16 +61,18 @@ tags:
 
 
 |**PANELISTS**|
+|---|
 | * [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (SU, NLP and pseudonymization) <br> * [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (GU, linguistics, forensic linguistics) <br> * [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (GU, privacy preservation, data and model biases)|
 
 ## Invited speakers
 
 [Back to top](#call-for-participation)
 
-### Boel Nelson (differential privacy)
-*Aarhus university, Denmark* 
+<!-- ### Boel Nelson (differential privacy)
+*Aarhus university, Denmark* -->
 
-||
+| Boel Nelson (differential privacy), Aarhus university, Denmark|
+|---|
 |**TITLE: Differential privacy: principled foundations, and trade-offs in applications** <br>Differential privacy is a formal definition of privacy both recognized for its theoretical strength (2017 Gödel Prize, 2021 ACM Paris Kanellakis Theory and Practice Award), and deployed at scale by companies such as Google and Apple. Conceptually, differential privacy stands out by being defined as a property of an algorithm, rather than a property of output data. This shift in defining privacy allows differential privacy to achieve several desirable properties, including privacy guarantees that compose under multiple data releases. Still, differential privacy is no silver bullet—any application of differential privacy requires striking an adequate trade-off between accuracy and privacy. As such, differential privacy still presents many open challenges, not the least when it comes to providing meaningful privacy guarantees for real use cases. |
 |**BIO** <br> Boel Nelson is a Marie Skłodowska-Curie postdoctoral fellow in the Logic and Semantics group at Aarhus University. She currently leads the MSCA funded project Provable Privacy for Metadata ([ProPriM](https://cordis.europa.eu/project/id/101064140)). Boel’s research interests include data privacy, detection and mitigation of side-channels, and privacy enhancing technologies. <br> Prior to joining Aarhus University, Boel worked as a postdoc focusing on differential privacy in the Algorithms and Complexity section at University of Copenhagen, where she was also a member of Basic Algorithms Research Copenhagen (BARC). Before, she worked as a postdoc in the Logic and Semantics group at Aarhus University, where she conducted research on anonymous communication. Boel earned her PhD on the topic of differential privacy from Chalmers University of Technology.|
 
