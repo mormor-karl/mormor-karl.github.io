@@ -22,7 +22,7 @@ tags:
 
 | |
 |--|
-|[Dates and venue](#dates-and-venue) <br> [Description](#description) <br> [Program](#program)  <br> [Invited speakers](#invited-speakers) <br> - Boel Nelson (differential privacy) <br> - Karoline Marko (forensic linguistics, authorship analysis) <br> - Rada Mihalcea (NLP, deception, privacy) <br> [Important dates](#important-dates) <br> [Organizers](#organizers) <br> [Contact](#contact) |
+|[Dates and venue](#dates-and-venue) <br> [Description](#description) <br> [Program](#program)  <br> [Invited speakers](#invited-speakers) <br> - Boel Nelson (differential privacy) <br> - Karoline Marko (forensic linguistics, authorship analysis) <br> - Rada Mihalcea (NLP, deception, privacy) <br> [Important dates](#important-dates) <br> [Organizers](#organizers) |
 
 ## Dates and venue
 
