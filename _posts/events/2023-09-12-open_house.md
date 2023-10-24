@@ -29,7 +29,7 @@ tags:
 |--|
 | **Date**: November, 29, 2023 <br> **Time**: 9.00 -- 17.00 <br> **Venue**: Univeristy of Gothenburg, Humanisten, J222 <br> **Registration**: Please fill in the following [form](https://forms.office.com/e/QEXjDzfSZY) by the end of November, 13, 2023. <br> The registration is free and open for researchers, students and companies, but in order to plan for the event, we would like to know whether you are planning to participate in the conference so we can provide coffee for you.|
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 ## Description 
@@ -38,7 +38,7 @@ tags:
 |--|
 |Accessibility of research data is critical for advances in many research fields but textual data often cannot be shared due to the personal and sensitive information which it contains, e.g names, political opinions, sensitive personal information and medical data. General Data Protection Regulation, GDPR (EU Commission, 2016), suggests pseudonymization as a solution to secure open access to research data but we need to learn more about pseudonymization as an approach before adopting it for manipulation of research data (Volodina et al., 2023). The main challenge is how to effectively pseudonymize data so that such individuals cannot be identified but at the same time the data is still usable for the natural language processing tasks for which it was collected and for other types of research.<br> <br> During the workshop day, a number of invited speakers from Sweden, Scandinavia and USA will present their research on data pseudonymization and privacy preservation; Mormor Karl researchers will showcase research problems they will be working with in the next five years, and a panel discussion will involve panelists and audience in a timely discussion on pseudonymization and open access to research data.|
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 ## Program
@@ -67,7 +67,7 @@ tags:
 
 ## Invited speakers
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 | Boel Nelson (differential privacy), Aarhus university, Denmark|
@@ -77,7 +77,7 @@ tags:
 
 -------
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 | Karoline Marko (forensic linguistics, authorship analysis), University of Graz, Austria|
@@ -88,7 +88,7 @@ tags:
 
 -----
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 |Rada Mihalcea (NLP, deception, privacy), University of Michigan, United States|
@@ -96,7 +96,7 @@ tags:
 |**TITLE:** TBA|
 |**BIO** TBA|
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 ## Important dates 
@@ -105,7 +105,7 @@ tags:
 |--|
 |* October, 17: first call for registrations <br> * November, 2: second call for registrations <br> * November, 13: deadline for registrations <br> * November, 29: the Open House event |
 
-<span style="font-size:12">[Back to top](#call-for-participation)</span>
+<span style="font-size:10">[Back to top](#call-for-participation)</span>
 
 
 ## Organizers
