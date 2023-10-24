@@ -62,8 +62,8 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 [Back to top](#call-for-participation)
 
 ## Program
-
-|9.00 |Opening. _Elena Volodina_: <br>**Who is Mormor Karl and why is he 27 years old?**|
+|--|--|
+| 9.00 | Opening. _Elena Volodina_: <br>**Who is Mormor Karl and why is he 27 years old?** |
 |9.20-10.10| Invited talk. _Boel Nelson_:<br>**Differential privacy: principled foundations, and trade-offs in applications**|
 |10.10-10.40| COFFEE BREAK. Poster browsing|
 |10.40-12.00| **Mormor Karl talk**
