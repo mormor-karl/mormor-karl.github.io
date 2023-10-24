@@ -21,13 +21,13 @@ We cordially invite all those interested in all aspects of pseudonymization and 
 
 [Description](#description)
 
+[Program](#program)
+
 [Invited speakers](#invited-speakers)
 
 - [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy)
 - [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis)
 - [Rada Mihalcea (NLP, deception, privacy)](#rada-mihalcea-nlp-deception-privacy)
-
-[Program](#program)
 
 [Important dates](#important-dates)
 
