@@ -68,7 +68,7 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 | 9.00 |  _Elena Volodina_ (Opening) <br>**Who is Mormor Karl and why is he 27 years old?** |
 |9.20-10.10| _Boel Nelson_ (Invited talk)<br>**Differential privacy: principled foundations, and trade-offs in applications**|
 |10.10-10.40| COFFEE BREAK. Poster browsing|
-|10.40-12.00| **Mormor Karl talk** <br> _Elena Volodina_: How Karl can be a grandma at 27? <br> _Ricardo Muñoz Sanchez_: Names and biases <br> _Therese Lindström Tiedemann_: When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*.   <br> _Xuan-Son Vu_: Privacy preserving ML /AI: regulations, research, and solutions  <br> _Maria Szawerna_: Sense and Sensitivity: what do we need to turn private information into pseudonyms? <br> _Simon Dobnik_: Language models, computational semantics and meaning representation (Stripping Language models)|
+|10.40-12.00| **Mormor Karl talks** <br> _Elena Volodina_: How Karl can be a grandma at 27? <br> _Ricardo Muñoz Sanchez_: Names and biases <br> _Therese Lindström Tiedemann_: When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*.   <br> _Xuan-Son Vu_: Privacy preserving ML /AI: regulations, research, and solutions  <br> _Maria Szawerna_: Sense and Sensitivity: what do we need to turn private information into pseudonyms? <br> _Simon Dobnik_: Language models, computational semantics and meaning representation (Stripping Language models)|
 |||
 |12.00-13.00| Lunch in the lobby. Poster browsing|
 |||
