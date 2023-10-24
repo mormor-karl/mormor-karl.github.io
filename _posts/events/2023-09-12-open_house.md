@@ -81,8 +81,8 @@ During the workshop day, a number of invited speakers from Sweden, Scandinavia a
 
 **PANELISTS**:
    * [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (SU, NLP and pseudonymization)
-   * [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (GU, linguistics)
-   * [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (GU, privacy preservation)
+   * [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (GU, linguistics, forensic linguistics)
+   * [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (GU, privacy preservation, data and model biases)
  
 ------
 
