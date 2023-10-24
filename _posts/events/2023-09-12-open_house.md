@@ -57,10 +57,10 @@ tags:
 |14.30-15.20| _Rada Mihalcea (online)_ (Invited talk) <br>**TBA**|
 |15.20-17.00| _Hercules Dalianis, Peter Ljunglöf, Ylva Burman_  (Panel discussion) <br> **What is "privacy"? For you...** <br> Moderators: Simon Dobnik and Elena Volodina |
 |||
-||**POSTERS**: TBA|
+|**POSTERS**| TBA|
 
 
-|**PANELISTS**|
+| PANELISTS |
 |---|
 | * [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (SU, NLP and pseudonymization) <br> * [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (GU, linguistics, forensic linguistics) <br> * [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (GU, privacy preservation, data and model biases)|
 
