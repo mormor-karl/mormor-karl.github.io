@@ -106,7 +106,7 @@ tags:
 ## Organizers
 | |
 |--|
-| * Elena Volodina, University of Gothenburg, Sweden <br> * Simon Dobnik, University of Gothenburg, Sweden <br> * Therese Lindström Tiedemann, University of Helsinki, Finland <br> * Ricardo Muñoz Sánchez, University of Gothenburg, Sweden <br> * Xuan-Son Vu, Umeå University, Sweden|
+| * Elena Volodina, University of Gothenburg, Sweden <br> * Simon Dobnik, University of Gothenburg, Sweden <br> * Therese Lindström Tiedemann, University of Helsinki, Finland <br> * Ricardo Muñoz Sánchez, University of Gothenburg, Sweden <br> * Maria Irena Szawerna, Sweden <br> * Xuan-Son Vu, Umeå University, Sweden|
 
 ## Contact
 
