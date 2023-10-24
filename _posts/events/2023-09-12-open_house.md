@@ -67,8 +67,6 @@ tags:
 
 ## Invited speakers
 
------
-
 [Back to top](#call-for-participation)
 
 | Boel Nelson (differential privacy), Aarhus university, Denmark|
