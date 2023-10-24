@@ -10,20 +10,20 @@ tags:
 
 ------
 
-## Call for participation
 
-We cordially invite all those interested in all aspects of pseudonymization and privacy protection of the research data to attend the Open House event organized by the team behind the project [Mormor Karl](https://mormor-karl.github.io/) (*Grandma Karl* in English). Mormor Karl is a project on pseudonymization of research data funded by the Swedish Research Council during 2023--2028. 
+| ## Call for participation |
+|---|
+|We cordially invite all those interested in all aspects of pseudonymization and privacy protection of the research data to attend the Open House event organized by the team behind the project [Mormor Karl](https://mormor-karl.github.io/) (*Grandma Karl* in English). Mormor Karl is a project on pseudonymization of research data funded by the Swedish Research Council during 2023--2028. |
 
 <!--more-->
 ------
 
-[Dates and venue](#dates-and-venue)
-
-[Description](#description)
-
-[Program](#program)
-
-[Invited speakers](#invited-speakers)
+| |
+|--|
+|[Dates and venue](#dates-and-venue) <br>
+[Description](#description) <br>
+[Program](#program)  <br>
+[Invited speakers](#invited-speakers) |
 
 - [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy)
 - [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis)
