@@ -28,9 +28,7 @@ tags:
 
 |  |
 |--|
-| **Date**: November, 29, 2023 <br> **Time**: 9.00 -- 17.00 <br> **Venue**: Univeristy of Gothenburg, Humanisten, J222
- <br> **Registration**: Please fill in the following [form](https://forms.office.com/e/QEXjDzfSZY) by the end of November, 13, 2023.|
-|The registration is free and open for researchers, students and companies, but in order to plan for the event, we would like to know whether you are planning to participate in the conference so we can provide coffee for you.|
+| **Date**: November, 29, 2023 <br> **Time**: 9.00 -- 17.00 <br> **Venue**: Univeristy of Gothenburg, Humanisten, J222 <br> **Registration**: Please fill in the following [form](https://forms.office.com/e/QEXjDzfSZY) by the end of November, 13, 2023. <br> The registration is free and open for researchers, students and companies, but in order to plan for the event, we would like to know whether you are planning to participate in the conference so we can provide coffee for you.|
 
 ------
 
