@@ -20,10 +20,7 @@ tags:
 
 | |
 |--|
-|[Dates and venue](#dates-and-venue) <br>
-[Description](#description) <br>
-[Program](#program)  <br>
-[Invited speakers](#invited-speakers) |
+|[Dates and venue](#dates-and-venue) <br> [Description](#description) <br> [Program](#program)  <br> [Invited speakers](#invited-speakers) |
 
 - [Boel Nelson (differential privacy)](#boel-nelson-differential-privacy)
 - [Karoline Marko (forensic linguistics, authorship analysis)](#karoline-marko-forensic-linguistics-authorship-analysis)
