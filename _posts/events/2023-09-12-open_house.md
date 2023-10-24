@@ -46,15 +46,16 @@ tags:
 |  |  |
 |--|--|
 | 9.00 |  _Elena Volodina_ (Opening) <br>**Who is Mormor Karl and why is he 27 years old?** |
-|9.20-10.10| _Boel Nelson_ (Invited talk)<br>**Differential privacy: principled foundations, and trade-offs in applications**|
-|10.10-10.40| COFFEE BREAK. Poster browsing|
-|10.40-12.00| **Mormor Karl talks** <br> _Elena Volodina_: How Karl can be a grandma at 27? <br> _Ricardo Muñoz Sanchez_: Names and biases <br> _Therese Lindström Tiedemann_: When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*.   <br> _Xuan-Son Vu_: Privacy preserving ML /AI: regulations, research, and solutions  <br> _Maria Szawerna_: Sense and Sensitivity: what do we need to turn private information into pseudonyms? <br> _Simon Dobnik_: Language models, computational semantics and meaning representation (Stripping Language models)|
+|9.10-10.00| _Boel Nelson_ (Invited talk)<br>**Differential privacy: principled foundations, and trade-offs in applications**|
+|10.00-10.30| COFFEE BREAK. Poster browsing|
+|10.30-12.00| **Mormor Karl talks** <br> _Elena Volodina_: How Karl can be a grandma at 27? <br> _Ricardo Muñoz Sanchez_: Names and biases <br> _Therese Lindström Tiedemann_: When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*.   <br> _Xuan-Son Vu_: Privacy preserving ML /AI: regulations, research, and solutions  <br> _Maria Szawerna_: Sense and Sensitivity: what do we need to turn private information into pseudonyms? <br> _Simon Dobnik_: Language models, computational semantics and meaning representation (Stripping Language models)|
 |||
 |12.00-13.00| Lunch in the lobby. Poster browsing|
 |||
 |13.00-13.50| _Karoline Marko_ (Invited talk) <br>**Authorship analysis, personality traits, and the manipulation of linguistic features**|
 |13.50-14.30| COFFEE BREAK. Poster browsing|
 |14.30-15.20| _Rada Mihalcea (online)_ (Invited talk) <br>**TBA**|
+|15.20-15.30| BREAK |
 |15.20-17.00| _Hercules Dalianis, Peter Ljunglöf, Ylva Burman_  (Panel discussion) <br> **What is "privacy"? For you...** <br> Moderators: Simon Dobnik and Elena Volodina |
 |||
 |**POSTERS**| TBA|
