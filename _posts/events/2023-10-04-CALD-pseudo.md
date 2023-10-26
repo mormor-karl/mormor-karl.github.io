@@ -59,7 +59,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 | |
 |--|
-|Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories: <br><br> * __Full papers__ (up to 8 pages) for substantial contributions <br> * __Short__ or __demo papers__ (up to 4 pages) for ongoing or preliminary work <br><br> All submissions must be in PDF format must follow the EACL 2024 guidelines described in the ARR CfP [https://aclrollingreview.org/cfp](https://aclrollingreview.org/cfp), be in pdf, and use the official ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files) <br><br> * __Direct submission deadline__: December 18, 2023 at [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> * __Deadline for registration of ARR reviewed papers__: January 17, 2023. (Further instructions will follow.) <br><br> We also invite authors of papers on the topics of the workshop accepted to Findings to reach out to the organizing committee of CALD-pseudo to present them at the workshop. <br> Every paper will be reviewed by at least 2 members of the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...". Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, significance and impact of ideas or results.
+|Authors are invited to submit by December 18, 2023 original and unpublished research papers in the following categories: <br><br> __Full papers__ (up to 8 pages) for substantial contributions <br> __Short__ or __demo papers__ (up to 4 pages) for ongoing or preliminary work <br><br> All submissions must be in PDF format must follow the EACL 2024 guidelines described in the ARR CfP [https://aclrollingreview.org/cfp](https://aclrollingreview.org/cfp), be in pdf, and use the official ACL style templates available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files) <br><br> __Direct submission deadline__: December 18, 2023 at [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> __Deadline for registration of ARR reviewed papers__: January 17, 2023. (Further instructions will follow.) <br><br> We also invite authors of papers on the topics of the workshop accepted to Findings to reach out to the organizing committee of CALD-pseudo to present them at the workshop. <br> Every paper will be reviewed by at least 2 members of the program committee. As reviewing will be blind, please ensure that papers are anonymous. Self-references that reveal the author's identity, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith previously showed (Smith, 1991) ...". Submissions will be judged on appropriateness, clarity, originality/innovativeness, correctness/soundness, meaningful comparison, significance and impact of ideas or results.
 <br> Final camera-ready versions of accepted papers will be given an additional page to address reviewer comments.|
 
 
@@ -100,9 +100,10 @@ Internal deadlines:
 
 ## Program  
 
-TBA
+|  |
+|--|
+|TBA|
 
-------
 
 [Back to top](#dates-and-venue)
 
@@ -112,7 +113,6 @@ TBA
 |--|
 | * Ahrenberg Lars, Linköping university, Sweden <br> * Ainiala Terhi, University of Helsinki, Finland <br> * Aldrin Emilia, Halmstad university, Sweden <br> * Arhar Holdt Špela, University of Ljubljana, Slovenia <br> * Dalianis Hercules, Stockholm university, Sweden <br> * Dannélls Dana, University of Gothenburg, Sweden <br> * Dobnik Simon, University of Gothenburg, Sweden <br> * Grouin Cyril, LIMSI, CNRS, Université Paris-Saclay, France <br> * Hämäläinen, Lasse, University of Helsinki, Finland <br> * Henriksson Aron, Stockholm university, Sweden <br> * Kokkinakis Dimitrios, University of Gothenburg, Sweden <br> * Lassus Jannika, University of Helsinki, Finland <br> * Lindström Tiedemann Therese, University of Helsinki, Finland <br> * Lison Pierre, Norwegian Computing Center, Norway <br> * Lindén Krister, University of Helsinki, Finland <br> * Ljunglöf Peter, Chalmers University of Technology / University of Gothenburg, Sweden <br> * Marko Karoline, University of Graz, Austria <br> * Megyesi Beáta, Stockholm university, Sweden <br> * Nelson Boel, Aarhus university, Denmark <br> * Nordman Lieselott, University of Helsinki, Finland <br> * Ochs Sebastian, Technical University of Darmstadt, Germany <br> * Pilán Ildikó, Norwegian Computing Center, Norway <br> * Sánchez Ruenes David, University of Rovira i Virgili, Spain <br> * Scheffler Tatjana, Ruhr University Bochum, Germany <br> * Torra Vicenc, Umeå university, Sweden <br> * Vakili Thomas, Stockholm university, Sweden <br> * Vydiswaran VG Vinod, University of Michigan, USA <br> * Volodina Elena, University of Gothenburg, Sweden <br> * Vu Xuan-Son, Umeå university, Sweden |
 
-
 <!--
 * Kosem Iztok, University of Ljubljana, Slovenia (language resources, digital infrastructure)
 * Øvrelid Lilja, University of Oslo, Sweden (NLP, anonymization, language modeling)
@@ -121,21 +121,19 @@ TBA
 * Velupillai Sumithra, King’s College, London, UK (NLP, language modeling, data privacy)
 -->
 
-
 [Back to top](#dates-and-venue)
 
-| Anti-harassment policy |
-|--|
-| CALD-pseudo workshop adheres to the ACL’s anti-harassment policy [https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). |
 
 ## Organizers
 
 |  |
 |--|
 |* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>  * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br> * [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden <br> * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
-||
 |**Contact** mormor.karl@svenska.gu.se|
 
+| Anti-harassment policy |
+|--|
+| CALD-pseudo workshop adheres to the ACL’s anti-harassment policy [https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). |
 
 | Acknowledgments |
 |--|
