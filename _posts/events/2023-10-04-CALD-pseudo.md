@@ -124,6 +124,10 @@ TBA
 
 [Back to top](#dates-and-venue)
 
+| Anti-harassment policy |
+|--|
+| CALD-pseudo workshop adheres to the ACL’s anti-harassment policy [https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). |
+
 ## Organizers
 
 |  |
