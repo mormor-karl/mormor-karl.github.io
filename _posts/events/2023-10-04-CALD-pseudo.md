@@ -8,13 +8,11 @@ tags:
   - blog
 ---
 
-------
 
 # CALD-pseudo workshop at [EACL 2024](https://2024.eacl.org/)
 
 _a cross-disciplinary forum for advancing privacy protection of unstructured text data & data openness through **pseudonymization**._
 
-------
 
 ## Dates and venue
 
