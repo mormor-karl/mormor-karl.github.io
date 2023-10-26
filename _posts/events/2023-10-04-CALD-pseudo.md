@@ -35,7 +35,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 ## Call for papers
 
 |  |
-[--|
+|--|
 |We invite submissions to the first edition of the CALD-pseudo workshop on **C**omputational **A**pproaches to **L**anguage **D**ata **Pseudo**nymization, to be held at EACL 2024 on March 21 or 22, 2024.|
 
 | Description |
@@ -52,7 +52,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |* _reidentification_ studies, e.g. adversarial learning techniques that attempt to breach the privacy protections of pseudonymized data; |
 |* constructing datasets for automatic pseudonymization, including _methodological and ethical aspects_ of those;|
 |* approaches to the _evaluation_ of automatic pseudonymization both in concealing the private information and preserving the semantics of the non-personal data;|
-|* pseudonymization tools and software: evaluating the available tools and software for pseudonymization in different languages, and their ease of use, scalability, and performance;|
+|* pseudonymization _tools and software_: evaluating the available tools and software for pseudonymization in different languages, and their ease of use, scalability, and performance;|
 |* and numerous other open questions.|
 
 [Back to top](#dates-and-venue)
