@@ -94,7 +94,7 @@ tags:
 |Rada Mihalcea (NLP, deception, privacy), University of Michigan, United States|
 |--|
 |**TITLE:** TBA|
-|**BIO** TBA|
+|**BIO** <br> Rada Mihalcea is the Janice M. Jenkins Professor of Computer Science and Engineering at the University of Michigan and the Director of the Michigan Artificial Intelligence Lab. Her research interests are in natural language processing, including multilingual natural language processing, computational social sciences, multimodal processing. She is an ACM Fellow, a AAAI Fellow, and served as ACL President (2018-2022 Vice/Past). She is the recipient of a Sarah Goddard Power award (2019) for her contributions to diversity in science, an honorary citizen of her hometown of Cluj-Napoca, Romania (2013), and the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009).|
 
 <span style="font-size:10">[Back to top](#call-for-participation)</span>
 
