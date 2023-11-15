@@ -63,7 +63,7 @@ tags:
 
 | PANELISTS |
 |---|
-| [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (Stockholm university, Sweden) NLP and pseudonymization <br> [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (University of Gothenburg, Sweden) Linguistics, forensic linguistics <br> [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (Chalmers University of Technology, Sweden) NLP, privacy preservation, data and model biases<br> [Boel Nilsson](#invited-speakers) (Aarhus university, Denmark) Differential privacy|
+| [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (Stockholm university, Sweden) NLP and pseudonymization <br> [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (University of Gothenburg, Sweden) Linguistics, forensic linguistics <br> [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (Chalmers University of Technology, Sweden) NLP, privacy preservation, data and model biases<br> [Boel Nilsson](#invited-speakers) (Aarhus university, Denmark) Differential privacy<br> [Karoline Marko](#invited-speakers) (University of Graz, Austria) Authorship attribution|
 
 ## Invited speakers
 
