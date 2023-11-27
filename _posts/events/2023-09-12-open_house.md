@@ -103,7 +103,7 @@ tags:
 
 | |
 |--|
-|* October, 17: first call for registrations <br> * November, 2: second call for registrations <br> * November, 13: deadline for registrations <br> * November, 29: the Open House event |
+|* October, 17: first call for registrations <br> * November, 2: second call for registrations <br> * November, 16: deadline for registrations <br> * November, 29: the Open House event |
 
 <span style="font-size:10">[Back to top](#call-for-participation)</span>
 
