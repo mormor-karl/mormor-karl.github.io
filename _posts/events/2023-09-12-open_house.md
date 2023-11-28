@@ -56,12 +56,12 @@ tags:
 |13.50-14.30| COFFEE BREAK. |
 |14.30-15.20| _Rada Mihalcea (online)_ (Invited talk) <br>**Lessons from a Decade of Research on Automatic Deception Detection**|
 |15.20-15.30| BREAK |
-|15.20-17.00| _Hercules Dalianis, Peter Ljunglöf, Ylva Burman_  (Panel discussion) <br> **What is "privacy"? For you...** <br> Moderators: Simon Dobnik and Elena Volodina |
+|15.20-17.00| _Boel Nelson, Hercules Dalianis, Karoline Marko, Peter Ljunglöf, Ylva Byrman_  (Panel discussion) <br> **What is "privacy"? For you...** <br> Moderators: Simon Dobnik and Elena Volodina |
 
 
 | PANELISTS |
 |---|
-| [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (Stockholm university, Sweden) NLP and pseudonymization <br> [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (University of Gothenburg, Sweden) Linguistics, forensic linguistics <br> [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (Chalmers University of Technology, Sweden) NLP, privacy preservation, data and model biases<br> [Boel Nelson](#invited-speakers) (Aarhus university, Denmark) Differential privacy<br> [Karoline Marko](#invited-speakers) (University of Graz, Austria) Authorship attribution|
+| [Boel Nelson](#invited-speakers) (Aarhus university, Denmark) Differential privacy <br> [Hercules Dalianis](https://www.su.se/english/profiles/hercules-1.182939) (Stockholm university, Sweden) NLP and pseudonymization <br> [Karoline Marko](#invited-speakers) (University of Graz, Austria) Authorship attribution <br> [Peter Ljunglöf](https://spraakbanken.gu.se/en/about/staff/peter) (Chalmers University of Technology, Sweden) NLP, privacy preservation, data and model biases <br> [Ylva Byrman](https://www.gu.se/en/about/find-staff/ylvabyrman) (University of Gothenburg, Sweden) Linguistics, forensic linguistics |
 
 ## Invited speakers
 
