@@ -56,7 +56,7 @@ tags:
 |13.50-14.30| COFFEE BREAK. |
 |14.30-15.20| _Rada Mihalcea (online)_ (Invited talk) <br>**Lessons from a Decade of Research on Automatic Deception Detection**|
 |15.20-15.30| BREAK |
-|15.20-17.00| _Boel Nelson, Hercules Dalianis, Karoline Marko, Peter Ljunglöf, Ylva Byrman_  (Panel discussion) <br> **What is "privacy"? For you...** <br> Moderators: Simon Dobnik and Elena Volodina |
+|15.20-17.00| _Boel Nelson, Hercules Dalianis, Karoline Marko, Peter Ljunglöf, Ylva Byrman_  (Panel discussion) <br> **Data Privacy and its Risks** <br> Moderators: Simon Dobnik and Elena Volodina |
 
 
 | PANELISTS |
