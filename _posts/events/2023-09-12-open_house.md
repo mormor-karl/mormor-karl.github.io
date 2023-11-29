@@ -48,7 +48,7 @@ tags:
 | 9.00 |  _Elena Volodina_ (Opening) <br>**Who is Mormor Karl and why is he 27 years old?** |
 |9.10-10.00| _Boel Nelson_ (Invited talk) - chair: Sonny Vu <br>**Differential privacy: principled foundations, and trade-offs in applications**| 
 |10.00-10.30| COFFEE BREAK.|
-|10.30-12.00| **Mormor Karl talks** <br> _Elena Volodina_: Mormor Karl's Research Agenda  <br> _Maria Irena Szawerna_: Sense and Sensitivity: what do we need to turn private information into pseudonyms? <br> _Therese Lindström Tiedemann_: When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*. <br> _Ricardo Muñoz Sánchez_: Name Biases in Automated Essay Assessment <br> _Simon Dobnik_: Language models, computational semantics and meaning representation <br> _Xuan-Son Vu_: Privacy preserving ML / AI: regulations, research, and solutions |
+|10.30-12.00| **Mormor Karl talks** <br> _Elena Volodina_: Mormor Karl's Research Agenda  <br> _Maria Irena Szawerna_: Sense and Sensitivity: what do we need to turn private information into pseudonyms? <br> _Therese Lindström Tiedemann_: When *Sverige* is better than *Sweden* and *Helsingfors* is better than *Helsinki*. <br> _Ricardo Muñoz Sánchez_: Name Biases in Automated Essay Assessment <br> _Simon Dobnik_: Language models, computational semantics and meaning representation <br> _Xuan-Son Vu_: Privacy preserving ML / AI: problems, regulations, research, and solutions |
 |||
 |12.00-13.00| Lunch in the lobby.|
 |||
