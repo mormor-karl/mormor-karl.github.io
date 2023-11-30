@@ -128,9 +128,9 @@ Internal deadlines:
 
 |  |
 |--|
-|**Scientific committee**|
-|* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden (general chair)<br>  * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br> * [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden (publication chair)<br> * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
-|**Local committee**|
+|**General co-chairs**|
+|* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>  * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br> * [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden (publication chair)<br> * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
+|**Organizing co-chairs**|
 |* [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <!-- <br>* [Vipul Raheja](https://vipulraheja.github.io/), Grammarly, USA (sponsor chair)-->|
 |**Contact** mormor.karl@svenska.gu.se|
 
