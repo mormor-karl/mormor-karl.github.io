@@ -10,12 +10,14 @@ tags:
 
 ------
 
-A blog by Elena Volodina based on the results from the SweLL project and described in detail in the COLING-2020 article. 
+We are currently looking for another PhD student for the project, official title Doctoral researcher. The position is 3 years full time at the University of Helsinki and will be in Scandinavian languages or general linguistics. For more information please see the announcement below and if you have any questions please contact Therese Lindström Tiedemann.
 
 <!--more-->
 
 ------
 
-See [the blog](https://spraakbanken.gu.se/blogg/index.php/2020/10/27/pseudonymization-of-learner-essays-as-a-way-to-meet-gdpr-requirements/).
+See [Announcement in English](https://jobs.helsinki.fi/job/Helsinki-Doctoral-Researcher-in-Scandinavian-languages-or-general-linguistics/783336602/?feedId=350602&utm_source=CareerSite_UniversityOfHelsinki)
+
+[Announcement in Swedish](https://jobs.helsinki.fi/job/Helsinki-Doktorand-i-nordiska-spr%C3%A5k-eller-allm%C3%A4n-lingvistik/783336502/?feedId=350602&utm_source=CareerSite_UniversityOfHelsinki)
 
 ------
