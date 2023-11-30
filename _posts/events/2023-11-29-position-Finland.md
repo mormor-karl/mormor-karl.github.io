@@ -1,5 +1,5 @@
 ---
-title: "Doctoral researcher positioon in Helsinki"
+title: "Doctoral researcher position in Helsinki"
 excerpt_separator: "<!--more-->"
 categories:
   - events
