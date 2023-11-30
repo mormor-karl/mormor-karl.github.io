@@ -4,7 +4,11 @@ layout: single
 permalink: /
 ---
 
-![Mormor-team-2023](/assets/images/IMG_7235.jpeg)
+<!--![Mormor-team-2023](/assets/images/IMG_7235.jpeg)-->
+
+![Mormor-team-2023](/assets/images/2023-nov-mormor.JPG)
+
+
 
 -------
 
