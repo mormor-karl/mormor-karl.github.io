@@ -18,7 +18,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  |
 |--|
-|**Venue**: [Hotel Radisson Blu, St. Julians, Malta](https://2024.eacl.org/venue) <br> **Date**: March 21 or 22, 2024 <br> **Submission deadline**: December 18 <br> **Submission website**: [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> **Registration**: coming soon |
+|**Venue**: [Hotel Radisson Blu, St. Julians, Malta](https://2024.eacl.org/venue) <br> **Date**: March 21 or 22, 2024 <br> **Submission deadline**: December 18, 2023 Anywhere on Earth (AoE) <br> **Submission website**: [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> **Registration**: coming soon |
 
 <!-- # Program -->
 
@@ -69,7 +69,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  |
 |--|
-|* December 18, 2023: Workshop paper deadline <br> * January 17, 2024: Re-submission of pre-reviewed ARR papers <br> * January 20, 2024: Notification of acceptance <br>  * January 30, 2024: Camera-ready papers due <br> * March 21 or 22, 2024: Workshop date |
+|* December 18, 2023 (AoE): Workshop paper deadline <br> * January 17, 2024: Re-submission of pre-reviewed ARR papers <br> * January 20, 2024: Notification of acceptance <br>  * January 30, 2024: Camera-ready papers due <br> * March 21 or 22, 2024: Workshop date |
 
 <!--  
 Internal deadlines:
