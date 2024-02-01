@@ -50,7 +50,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |<span style="font-size:20px"> 13:50-14:00   | **Short Break** </span> |
 |<span style="font-size:20px"> | **Session 2** Chair: *TBA* </span>     |
 | 14:00-14:45 |*TBA*|
-||Assessing authenticity and anonymity of synthetic user-generated content in the medical domain -- _Tomohiro Nishiyama, Lisa Raithel, Roland Roller, Pierre Zweigenbaum and Eiji ARAMAKI_|
+||Assessing authenticity and anonymity of synthetic user-generated content in the medical domain -- _Tomohiro Nishiyama, Lisa Raithel, Roland Roller, Pierre Zweigenbaum and Eiji Aramaki_|
 ||Deidentifying a Norwegian clinical corpus - An effort to create a privacy-preserving Norwegian large clinical language model -- _Phuong Ngo, Miguel Tejedor, Therese Olsen Svenning, Taridzo Chomutare, Andrius Budrionis and Hercules Dalianis_|
 ||When Is a Name Sensitive? Eponyms in Clinical Text and Implications for De-Identification -- _Thomas Vakili, Tyr Hullmann, Aron Henriksson and Hercules Dalianis_ |
 |<span style="font-size:20px"> 14:45-15:15   | **Coffee Break** </span> |
