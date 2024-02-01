@@ -34,7 +34,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |  | Program |
 |----|--|
 | 09:00-09:10 |Opening Remark - *Elena Volodina*|
-|| **Invited talk 1**  Chair: *Elena Volodina*  \\ [*Anders Søgaard*](#invited-speakers) - TBA|
+|| **Invited talk 1**  Chair: *Elena Volodina*  <br> [*Anders Søgaard*](#invited-speakers) - TBA|
 | 09:10-10:00 |[*Anders Søgaard*](#invited-speakers) - TBA|
 |10:00-10:30   | **Coffee Break** |
 | | **Session 1** Chair: *Maria Irena Szawerna*  |
