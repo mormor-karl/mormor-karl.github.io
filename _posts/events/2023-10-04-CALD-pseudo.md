@@ -39,11 +39,11 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |<span style="font-size:20px"> 10:00-10:30   | **Coffee Break** </span> |
 |<span style="font-size:20px">  | **Session 1** Chair: *TBA* </span>     |
 | 10:30-12:00 |*TBA*|
-||PSILENCE: A Pseudonymization Tool for International Law -- Luis Adrián Cabrera-Diego and Akshita Gheewala|
-||Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- 
-Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas|
-||Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts --
-Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang |
+||PSILENCE: A Pseudonymization Tool for International Law -- _Luis Adrián Cabrera-Diego and Akshita Gheewala_|
+||Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- _Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas_|
+||Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts -- _Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang_ |
+||Handling Name Errors of a BERT-Based De-Identification System: Insights from Stratified Sampling and Markov-based Pseudonymization -- _Dalton Simancek and VG Vinod Vydiswaran_|
+||Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches -- _Maria Sierro, Begoña Altuna and Itziar Gonzalez-Dios_|
 |<span style="font-size:20px"> 12:00-13:00   | **Lunch Break** </span> |
 |<span style="font-size:20px">  | **Invited talk 2** Chair: *TBA* </span>  |
 | 13:00-13:50 |Invited Speaker 2 - [*Ildikó Pilán*](#invited-speakers)|
