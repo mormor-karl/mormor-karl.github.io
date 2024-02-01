@@ -34,11 +34,10 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |  | Program |
 |----|--|
 | 09:00-09:10 |Opening Remark - *Elena Volodina*|
-|| **Invited talk 1**  Chair: *Elena Volodina*  |
+|| **Invited talk 1**  Chair: *Elena Volodina*  \\ [*Anders Søgaard*](#invited-speakers) - TBA|
 | 09:10-10:00 |[*Anders Søgaard*](#invited-speakers) - TBA|
 |10:00-10:30   | **Coffee Break** |
 | | **Session 1** Chair: *Maria Irena Szawerna*  |
-| 10:30-12:00 |*TBA*|
 |10:30-10:50|PSILENCE: A Pseudonymization Tool for International Law -- _Luis Adrián Cabrera-Diego and Akshita Gheewala_|
 |10:50-11:10|Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- _Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas_|
 |11:10-11:30|Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts -- _Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang_ |
