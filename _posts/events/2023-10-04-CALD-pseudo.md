@@ -25,9 +25,43 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 | Quick links |
 |--|
-|[Call for papers](#call-for-papers) <br> [Submission information](#submission-information) <br> [Important dates](#important-dates) <br> [Invited speakers](#invited-speakers) <br> - Anders Søgaard, Denmark <br> - Ildikó Pilán, Norway <br> [Program committee](#program-committee) <br> [Organizers](#organizers)|
+|[Program](#program) <br>[Call for papers](#call-for-papers) <br> [Submission information](#submission-information) <br> [Important dates](#important-dates) <br> [Invited speakers](#invited-speakers) <br> - Anders Søgaard, Denmark <br> - Ildikó Pilán, Norway <br> [Program committee](#program-committee) <br> [Organizers](#organizers)|
 
 <!-- [Program](#program) -->
+
+## Program  
+
+|  | Program |
+|----|--|
+|<span style="font-size:20px"> **Opening Session** </span> |  |
+|**9:00-9:10** |Workshop Presentation - *Elena Volodina*|
+|**9:10-10:00**|Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)|
+|--|--|
+|<span style="font-size:20px"> **Session 1** | Chair: *TBA** </span>|
+
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Program</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>9:00-9:10</td>
+    <td>Opening Session - *Elena Volodina*</td>
+  </tr>
+  <tr>
+    <td>9:10-10:00</td>
+    <td>Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)</td>
+  </tr>
+  <tr>
+    <td colspan="2">Coffee Break</td>
+  </tr>
+</tbody>
+</table>
+
+[Back to top](#dates-and-venue)
 
 
 ## Call for papers
@@ -95,15 +129,6 @@ Internal deadlines:
 |--|
 |**Title (preliminary)** Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how|
 |**BIO** <br> Ildikó Pilán is a Senior Research Scientist at the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). Her fields of expertise include Natural Language Processing, Machine Learning, privacy protection, data privacy, medical text processing and Intelligent Computer-Assisted Language Learning.|
-
-[Back to top](#dates-and-venue)
-
-## Program  
-
-|  |
-|--|
-|TBA|
-
 
 [Back to top](#dates-and-venue)
 
