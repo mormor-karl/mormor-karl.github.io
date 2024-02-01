@@ -33,33 +33,27 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  | Program |
 |----|--|
-|<span style="font-size:20px"> **Opening Session** </span> |  |
-|**9:00-9:10** |Workshop Presentation - *Elena Volodina*|
-|**9:10-10:00**|Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)|
-|--|--|
-|<span style="font-size:20px"> **Session 1** | Chair: *TBA** </span>|
+|<span style="font-size:20px"> **Session 1** </span> | Chair: *TBA* </span>  |
+| 09:00-09:10 |Opening Remark - *Elena Volodina*|
+| 09:10-10:00 |Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)|
+|<span style="font-size:20px"> 10:00-10:30   | **Coffee Break** </span> |
+|<span style="font-size:20px"> **Session 2** | Chair: *TBA* </span>     |
+| 10:30-12:00 |*TBA*|
+|<span style="font-size:20px"> 12:00-13:00   | **Lunch Break** </span> |
+|<span style="font-size:20px"> **Session 3** | Chair: *TBA* </span>  |
+| 13:00-13:50 |Invited Speaker 2 - [*Ildikó Pilán*](#invited-speakers)|
+|<span style="font-size:20px"> 13:50-14:00   | **Short Break** </span> |
+|<span style="font-size:20px"> **Session 4** | Chair: *TBA* </span>     |
+| 14:00-14:45 |*TBA*|
+|<span style="font-size:20px"> 14:45-15:15   | **Coffee Break** </span> |
+|<span style="font-size:20px"> **Session 5** | Chair: *TBA* </span>     |
+| 15:15-15:55 |*TBA*|
+|<span style="font-size:20px"> 15:55-16:00   | **Short Break** </span> |
+|<span style="font-size:20px"> **Session 6** | Chair: *TBA* </span>     |
+| 16:00-17:00 | Panel |
+|<span style="font-size:20px"> **Evening** |   |
+| TBA | Diner at *TBD* |
 
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Program</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>9:00-9:10</td>
-    <td>Opening Session - *Elena Volodina*</td>
-  </tr>
-  <tr>
-    <td>9:10-10:00</td>
-    <td>Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)</td>
-  </tr>
-  <tr>
-    <td colspan="2">Coffee Break</td>
-  </tr>
-</tbody>
-</table>
 
 [Back to top](#dates-and-venue)
 
