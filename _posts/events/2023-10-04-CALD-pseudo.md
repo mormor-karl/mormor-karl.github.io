@@ -33,23 +33,32 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  | Program |
 |----|--|
-|<span style="font-size:20px"> **Session 1** </span> | Chair: *TBA* </span>  |
 | 09:00-09:10 |Opening Remark - *Elena Volodina*|
+|<span style="font-size:20px"> </span> | **Invited talk 1**  Chair: *TBA* </span>  |
 | 09:10-10:00 |Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)|
 |<span style="font-size:20px"> 10:00-10:30   | **Coffee Break** </span> |
-|<span style="font-size:20px"> **Session 2** | Chair: *TBA* </span>     |
+|<span style="font-size:20px">  | **Session 1** Chair: *TBA* </span>     |
 | 10:30-12:00 |*TBA*|
+||PSILENCE: A Pseudonymization Tool for International Law -- Luis Adrián Cabrera-Diego and Akshita Gheewala|
+||Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- 
+Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas|
+||Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts --
+Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang |
 |<span style="font-size:20px"> 12:00-13:00   | **Lunch Break** </span> |
-|<span style="font-size:20px"> **Session 3** | Chair: *TBA* </span>  |
+|<span style="font-size:20px">  | **Invited talk 2** Chair: *TBA* </span>  |
 | 13:00-13:50 |Invited Speaker 2 - [*Ildikó Pilán*](#invited-speakers)|
 |<span style="font-size:20px"> 13:50-14:00   | **Short Break** </span> |
-|<span style="font-size:20px"> **Session 4** | Chair: *TBA* </span>     |
+|<span style="font-size:20px"> | **Session 2** Chair: *TBA* </span>     |
 | 14:00-14:45 |*TBA*|
+|||
+|||
 |<span style="font-size:20px"> 14:45-15:15   | **Coffee Break** </span> |
-|<span style="font-size:20px"> **Session 5** | Chair: *TBA* </span>     |
+|<span style="font-size:20px"> | **Session 3**  Chair: *TBA* </span>     |
 | 15:15-15:55 |*TBA*|
 |<span style="font-size:20px"> 15:55-16:00   | **Short Break** </span> |
-|<span style="font-size:20px"> **Session 6** | Chair: *TBA* </span>     |
+||Detecting Personal Identifiable Information in Swedish Learner Essays -- __Maria Irena Szawerna__, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina |
+||Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- __Ricardo Muñoz Sánchez__, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina|
+|<span style="font-size:20px"> | **Session 4: Panel discussion** Chair: *TBA* </span>     |
 | 16:00-17:00 | Panel |
 |<span style="font-size:20px"> **Evening** |   |
 | TBA | Diner at *TBD* |
