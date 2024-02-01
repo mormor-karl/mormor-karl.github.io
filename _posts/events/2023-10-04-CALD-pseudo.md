@@ -56,9 +56,9 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |<span style="font-size:20px"> 14:45-15:15   | **Coffee Break** </span> |
 |<span style="font-size:20px"> | **Session 3**  Chair: *TBA* </span>     |
 | 15:15-15:55 |*TBA*|
+||Detecting Personal Identifiable Information in Swedish Learner Essays -- _Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina_ |
+||Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- _Ricardo Muñoz Sánchez, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina_|
 |<span style="font-size:20px"> 15:55-16:00   | **Short Break** </span> |
-||Detecting Personal Identifiable Information in Swedish Learner Essays -- __Maria Irena Szawerna__, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina |
-||Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- __Ricardo Muñoz Sánchez__, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina|
 |<span style="font-size:20px"> | **Session 4: Panel discussion** Chair: *TBA* </span>     |
 | 16:00-17:00 | Panel |
 |<span style="font-size:20px"> **Evening** |   |
