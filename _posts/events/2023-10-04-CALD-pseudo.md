@@ -33,9 +33,8 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  | Program |
 |----|--|
-| 09:00-09:10 |Opening Remark - *Elena Volodina*|
-|| **Invited talk 1**  Chair: *Elena Volodina*  <br> [*Anders Søgaard*](#invited-speakers) - TBA|
-| 09:10-10:00 |[*Anders Søgaard*](#invited-speakers) - TBA|
+| 09:00-09:10 |Opening Remarks - *Elena Volodina*|
+|09:10-10:00 | **Invited talk 1**  Chair: *Elena Volodina*  <br> [*Anders Søgaard*](#invited-speakers) - TBA|
 |10:00-10:30   | **Coffee Break** |
 | | **Session 1** Chair: *Maria Irena Szawerna*  |
 |10:30-10:50|PSILENCE: A Pseudonymization Tool for International Law -- _Luis Adrián Cabrera-Diego and Akshita Gheewala_|
@@ -44,8 +43,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |11:30-11:45|Handling Name Errors of a BERT-Based De-Identification System: Insights from Stratified Sampling and Markov-based Pseudonymization -- _Dalton Simancek and VG Vinod Vydiswaran_|
 |11:45-12:00|Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches -- _Maria Sierro, Begoña Altuna and Itziar Gonzalez-Dios_|
 | 12:00-13:00   | **Lunch Break** |
-| | **Invited talk 2** Chair: *Elena Volodina* |
-| 13:00-13:50 |[*Ildikó Pilán*](#invited-speakers) -- Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how|
+|13:00-13:50 | **Invited talk 2** Chair: *Elena Volodina* <br> [*Ildikó Pilán*](#invited-speakers) -- Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how|
 | 13:50-14:00   | **Short Break** |
 | | **Session 2** Chair: *Ricardo Muñoz Sánchez*   |
 |14:00-14:15|Assessing authenticity and anonymity of synthetic user-generated content in the medical domain -- _Tomohiro Nishiyama, Lisa Raithel, Roland Roller, Pierre Zweigenbaum and Eiji Aramaki_|
