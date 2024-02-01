@@ -34,35 +34,33 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |  | Program |
 |----|--|
 | 09:00-09:10 |Opening Remark - *Elena Volodina*|
-|| **Invited talk 1**  Chair: *TBA*  |
-| 09:10-10:00 |Invited Speaker 1 - [*Anders Søgaard*](#invited-speakers)|
+|| **Invited talk 1**  Chair: *Elena Volodina*  |
+| 09:10-10:00 |[*Anders Søgaard*](#invited-speakers) - TBA|
 |10:00-10:30   | **Coffee Break** |
-| | **Session 1** Chair: *TBA*  |
+| | **Session 1** Chair: *Maria Irena Szawerna*  |
 | 10:30-12:00 |*TBA*|
-||PSILENCE: A Pseudonymization Tool for International Law -- _Luis Adrián Cabrera-Diego and Akshita Gheewala_|
-||Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- _Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas_|
-||Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts -- _Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang_ |
-||Handling Name Errors of a BERT-Based De-Identification System: Insights from Stratified Sampling and Markov-based Pseudonymization -- _Dalton Simancek and VG Vinod Vydiswaran_|
-||Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches -- _Maria Sierro, Begoña Altuna and Itziar Gonzalez-Dios_|
+|10:30-10:50|PSILENCE: A Pseudonymization Tool for International Law -- _Luis Adrián Cabrera-Diego and Akshita Gheewala_|
+|10:50-11:10|Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- _Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas_|
+|11:10-11:30|Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts -- _Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang_ |
+|11:30-11:45|Handling Name Errors of a BERT-Based De-Identification System: Insights from Stratified Sampling and Markov-based Pseudonymization -- _Dalton Simancek and VG Vinod Vydiswaran_|
+|11:45-12:00|Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches -- _Maria Sierro, Begoña Altuna and Itziar Gonzalez-Dios_|
 | 12:00-13:00   | **Lunch Break** |
-| | **Invited talk 2** Chair: *TBA* |
-| 13:00-13:50 |Invited Speaker 2 - [*Ildikó Pilán*](#invited-speakers)|
+| | **Invited talk 2** Chair: *Elena Volodina* |
+| 13:00-13:50 |[*Ildikó Pilán*](#invited-speakers) -- Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how|
 | 13:50-14:00   | **Short Break** |
-| | **Session 2** Chair: *TBA*   |
-| 14:00-14:45 |*TBA*|
-||Assessing authenticity and anonymity of synthetic user-generated content in the medical domain -- _Tomohiro Nishiyama, Lisa Raithel, Roland Roller, Pierre Zweigenbaum and Eiji Aramaki_|
-||Deidentifying a Norwegian clinical corpus - An effort to create a privacy-preserving Norwegian large clinical language model -- _Phuong Ngo, Miguel Tejedor, Therese Olsen Svenning, Taridzo Chomutare, Andrius Budrionis and Hercules Dalianis_|
-||When Is a Name Sensitive? Eponyms in Clinical Text and Implications for De-Identification -- _Thomas Vakili, Tyr Hullmann, Aron Henriksson and Hercules Dalianis_ |
+| | **Session 2** Chair: *Ricardo Muñoz Sánchez*   |
+|14:00-14:15|Assessing authenticity and anonymity of synthetic user-generated content in the medical domain -- _Tomohiro Nishiyama, Lisa Raithel, Roland Roller, Pierre Zweigenbaum and Eiji Aramaki_|
+|14:15-14:30|Deidentifying a Norwegian clinical corpus - An effort to create a privacy-preserving Norwegian large clinical language model -- _Phuong Ngo, Miguel Tejedor, Therese Olsen Svenning, Taridzo Chomutare, Andrius Budrionis and Hercules Dalianis_|
+|14:30-14:45|When Is a Name Sensitive? Eponyms in Clinical Text and Implications for De-Identification -- _Thomas Vakili, Tyr Hullmann, Aron Henriksson and Hercules Dalianis_ |
 | 14:45-15:15   | **Coffee Break** |
 | | **Session 3**  Chair: *TBA* |
-| 15:15-15:55 |*TBA*|
-||Detecting Personal Identifiable Information in Swedish Learner Essays -- _Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina_ |
-||Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- _Ricardo Muñoz Sánchez, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina_|
+|15:15-15:35|Detecting Personal Identifiable Information in Swedish Learner Essays -- _Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina_ |
+|15:35-15:55|Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- _Ricardo Muñoz Sánchez, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina_|
 | 15:55-16:00   | **Short Break** |
-| | **Session 4: Panel discussion** Chair: *TBA*  |
-| 16:00-17:00 | Panel |
+| | **Session 4: Panel discussion** Chair: *Elena Volodina*  |
+| 16:00-17:00 | Panel with Ildikó Pilán, Anders Søgaard, TBA |
 | |  **Evening**   |
-| TBA | Diner at *TBD* |
+| | Joint dinner for those who want to follow. Place  *TBD* |
 
 
 [Back to top](#dates-and-venue)
