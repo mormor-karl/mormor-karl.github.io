@@ -54,7 +54,6 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |15:15-15:35|Detecting Personal Identifiable Information in Swedish Learner Essays -- _Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina_ |
 |15:35-15:55|Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- _Ricardo Muñoz Sánchez, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina_|
 | 15:55-16:00   | **Short Break** |
-|  |  |
 | 16:00-17:00| **Session 4. Panel discussion.** Chair: *Elena Volodina* <br>  Panelists: Ildikó Pilán, Anders Søgaard, TBA|
 | **Evening** |  Joint post-workshop dinner for those who want to follow. Place  *TBD*|
 
