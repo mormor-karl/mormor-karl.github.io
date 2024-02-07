@@ -25,7 +25,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 | Quick links |
 |--|
-|[Program](#program) <br>[Call for papers](#call-for-papers) <br> [Submission information](#submission-information) <br> [Important dates](#important-dates) <br> [Invited speakers](#invited-speakers) <br> - Anders Søgaard, Denmark <br> - Ildikó Pilán, Norway <br> [Program committee](#program-committee) <br> [Organizers](#organizers)|
+|[Program](#program) <br> [Invited speakers](#invited-speakers) <br> - Anders Søgaard, Denmark <br> - Ildikó Pilán, Norway <br> [Call for papers](#call-for-papers) <br> [Submission information](#submission-information) <br> [Important dates](#important-dates) <br> [Program committee](#program-committee) <br> [Organizers](#organizers)|
 
 <!-- [Program](#program) -->
 
@@ -35,7 +35,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |----|--|
 ||**Place**: Corinthia hotel, Room: Gardjola 3|
 | 09:00-09:10 |Opening Remarks - *Elena Volodina*|
-|09:10-10:00 | **Invited talk 1.**  Chair: *Elena Volodina*  <br> [*Anders Søgaard*](#invited-speakers) - TBA|
+|09:10-10:00 | **Invited talk 1.**  Chair: *Elena Volodina*  <br> [*Anders Søgaard*](#invited-speakers) - NLP is Dead - Now What?|
 ||**Session 1.** Chair: *Maria Irena Szawerna*  |
 |10:00-10:15|Handling Name Errors of a BERT-Based De-Identification System: Insights from Stratified Sampling and Markov-based Pseudonymization -- _Dalton Simancek and VG Vinod Vydiswaran_|
 |10:15-10:30|Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches -- _Maria Sierro, Begoña Altuna and Itziar Gonzalez-Dios_|
@@ -56,9 +56,30 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |14:50-15:10|Detecting Personal Identifiable Information in Swedish Learner Essays -- _Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina_ |
 |15:10-15:30|Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- _Ricardo Muñoz Sánchez, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina_|
 | 15:30-16:00   | **Coffee Break** |
-| 16:00-17:00| **Session 5. Panel discussion.** Chair: *Elena Volodina* <br>  Panelists: Ildikó Pilán, Thomas Vakili, TBA|
+| 16:00-17:00| **Session 5. Panel discussion.** Chair: *Elena Volodina* <br>  Panelists (preliminary): Ildikó Pilán, Thomas Vakili, TBA|
 | **Evening** |  Joint post-workshop dinner for those who want to follow. Place  *TBD*|
 
+
+[Back to top](#dates-and-venue)
+
+
+## Invited speakers
+
+[Back to top](#dates-and-venue)
+
+| Anders Søgaard, University of Copenhagen, Denmark|
+|--|
+|**NLP is Dead - Now What?**|
+|For decades, the NLP community was on a mission to get computers to understand language. To the extent the goal of the mission was defined, our mission is complete. Now what? There’s still a ton of open problems, of course. Pseudonymization is one of them. Others include bias mitigation, performance parity, or getting things to run on-device. None of these problems are NLP problems, but they are all inter-dependent. Does their locus leave room for a raison d'être for the remnants of NLP?|
+| **BIO** <br> Anders Søgaard is Full Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. He is also affiliated with the Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. He was previously at University of Potsdam, Amazon and Google Research. He has won eight best paper awards and several prestigious grants|
+
+[Back to top](#dates-and-venue)
+
+| Ildikó Pilán, the Norwegian Computing Center, Norway |
+|--|
+|**Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how**|
+|In this talk, we will walk through the different steps involved in the process of concealing personal information. We will start by looking at methods for which pieces of personal information to detect and how. We will then discuss strategies for rewriting these and, finally, we will look at approaches proposed for evaluating the resulting redacted text in terms of privacy protection and utility preservation. We will discuss previous work inspired by Named Entity Recognition as well as more recent approaches employing Large Language Models. We will also explore the differences between pseudonymization and anonymization highlighting the remaining challenges in performing these automatically.|
+|**BIO** <br> Ildikó Pilán is a Senior Research Scientist at the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). Her fields of expertise include Natural Language Processing, Machine Learning, privacy protection, data privacy, medical text processing and Intelligent Computer-Assisted Language Learning.|
 
 [Back to top](#dates-and-venue)
 
@@ -112,24 +133,6 @@ Internal deadlines:
 * February 7, 2024: Proceedings due
 -->
 
-
-## Invited speakers
-
-[Back to top](#dates-and-venue)
-
-| Anders Søgaard, University of Copenhagen, Denmark|
-|--|
-|**Title** TBA|
-| **BIO** <br> Anders Søgaard is Full Professor in Natural Language Processing and Machine Learning, Dpt. of Computer Science, University of Copenhagen. He is also affiliated with the Pioneer Centre for Artificial Intelligence, Dpt. of Philosophy, and Center for Social Data Science. He was previously at University of Potsdam, Amazon and Google Research. He has won eight best paper awards and several prestigious gran
-
-[Back to top](#dates-and-venue)
-
-| Ildikó Pilán, the Norwegian Computing Center, Norway |
-|--|
-|**Title (preliminary)** Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how|
-|**BIO** <br> Ildikó Pilán is a Senior Research Scientist at the Norwegian Computing Center, Norway. Her most impactful research comes from linguistic complexity studies within the domain of language learning, and recently from the area of anonymization and pseudonymization where she has been actively working on preparing datasets, benchmarks and models for automatic anonymization and pseudonymization of Norwegian and English data in the project Cleanup (e.g. Lison et al., 2021; Pilán et al., 2022). Her fields of expertise include Natural Language Processing, Machine Learning, privacy protection, data privacy, medical text processing and Intelligent Computer-Assisted Language Learning.|
-
-[Back to top](#dates-and-venue)
 
 ## Program committee 
 
