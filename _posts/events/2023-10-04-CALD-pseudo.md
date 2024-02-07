@@ -35,7 +35,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |----|--|
 ||**Place**: Corinthia hotel, Room: Gardjola 3|
 | 09:00-09:10 |Opening Remarks - *Elena Volodina*|
-|09:10-10:00 | **Invited talk 1.**  Chair: *Elena Volodina*  <br> [*Anders Søgaard*](#invited-speakers)  **NLP is Dead - Now What?**|
+|09:10-10:00 | **Invited talk 1.**  Chair: *Elena Volodina*  <br> [Anders Søgaard](#invited-speakers)  **NLP is Dead - Now What?**|
 ||**Session 1.** Chair: *Maria Irena Szawerna*  |
 |10:00-10:15|Handling Name Errors of a BERT-Based De-Identification System: Insights from Stratified Sampling and Markov-based Pseudonymization -- _Dalton Simancek and VG Vinod Vydiswaran_|
 |10:15-10:30|Automatic Detection and Labelling of Personal Data in Case Reports from the ECHR in Spanish: Evaluation of Two Different Annotation Approaches -- _Maria Sierro, Begoña Altuna and Itziar Gonzalez-Dios_|
@@ -45,7 +45,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 |11:20-11:40|Extending off-the-shelf NER Systems to Personal Information Detection in Dialogues with a Virtual Agent: Findings from a Real-Life Use Case -- _Mario Mina, Carlos Rodríguez, Aitor Gonzalez-Agirre and Marta Villegas_|
 |11:40-12:00|Data Anonymization for Privacy-Preserving Large Language Model Fine-Tuning on Call Transcripts -- _Shayna Gardiner, Tania Habib, Kevin Humphreys, Frederic Mailhot, Anne Paling, Preston Thomas and Nathan Zhang_ |
 | 12:00-13:00   | **Lunch Break** |
-|13:00-13:50 | **Invited talk 2.** Chair: *Elena Volodina* <br> [*Ildikó Pilán*](#invited-speakers) **Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how**|
+|13:00-13:50 | **Invited talk 2.** Chair: *Elena Volodina* <br> [Ildikó Pilán](#invited-speakers) **Pseudonymisation and related techniques: a quest for determining what personal information to rewrite and how**|
 | 13:50-14:00   | **Short Break** |
 | | **Session 3.** Chair: *Ricardo Muñoz Sánchez*   |
 |14:00-14:15|Assessing authenticity and anonymity of synthetic user-generated content in the medical domain -- _Tomohiro Nishiyama, Lisa Raithel, Roland Roller, Pierre Zweigenbaum and Eiji Aramaki_|
