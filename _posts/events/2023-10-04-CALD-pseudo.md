@@ -31,9 +31,10 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 ## Program  
 
-|  | Program |
+**Location/room**: Corinthia hotel, Room: Gardjola 3
+
+|  |  |
 |----|--|
-||**Place**: Corinthia hotel, Room: Gardjola 3|
 | 09:00-09:10 |Opening Remarks - *Elena Volodina*|
 |09:10-10:00 | **Invited talk 1.**  Chair: *Elena Volodina*  <br> [Anders Søgaard](#invited-speakers)  **NLP is Dead - Now What?**|
 ||**Session 1.** Chair: *Maria Irena Szawerna*  |
