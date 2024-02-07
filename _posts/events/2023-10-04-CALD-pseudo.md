@@ -18,7 +18,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  |
 |--|
-|**Venue**: [Hotel Radisson Blu, St. Julians, Malta](https://2024.eacl.org/venue) <br> **Date**: March 21 or 22, 2024 <br> **Submission deadline**: December 18, 2023 Anywhere on Earth (AoE) <br> **Submission website**: [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> **Registration**: coming soon |
+|**Venue**: [Hotel Radisson Blu, St. Julians, Malta](https://2024.eacl.org/venue) <br> **Date**: March 21, 2024 <br> **Submission deadline**: December 18, 2023 Anywhere on Earth (AoE) <br> **Submission website**: [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> **Registration**: coming soon |
 
 <!-- # Program -->
 
@@ -86,7 +86,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  |
 |--|
-|We invite submissions to the first edition of the CALD-pseudo workshop on **C**omputational **A**pproaches to **L**anguage **D**ata **Pseudo**nymization, to be held at EACL 2024 on March 21 or 22, 2024.|
+|We invite submissions to the first edition of the CALD-pseudo workshop on **C**omputational **A**pproaches to **L**anguage **D**ata **Pseudo**nymization, to be held at EACL 2024 on March 21, 2024.|
 
 | Description |
 |--|
@@ -121,7 +121,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  |
 |--|
-|* December 18, 2023 (AoE): Workshop paper deadline <br> * January 19, 2024: Re-submission of pre-reviewed ARR papers <br> * January 22, 2024: Notification of acceptance <br>  * January 30, 2024: Camera-ready papers due <br> * March 21 or 22, 2024: Workshop date |
+|* December 18, 2023 (AoE): Workshop paper deadline <br> * January 19, 2024: Re-submission of pre-reviewed ARR papers <br> * January 22, 2024: Notification of acceptance <br>  * January 30, 2024: Camera-ready papers due <br> * March 21, 2024: Workshop date |
 
 <!--  
 Internal deadlines:
