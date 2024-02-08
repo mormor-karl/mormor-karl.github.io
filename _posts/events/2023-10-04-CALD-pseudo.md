@@ -168,4 +168,4 @@ Internal deadlines:
 
 | Acknowledgments |
 |--|
-|The workshop is organized within the project [Grandma Karl is 27 years old](https://mormor-karl.github.io/) and is supported by a research grant on pseudonymization from the [Swedish Research Council](https://www.vr.se/english/swecris.html#/project/2022-02311_VR).|
+|The workshop is organized within the research environment project [Grandma Karl is 27 years old](https://mormor-karl.github.io/) and is supported by a research grant on pseudonymization from the [Swedish Research Council](https://www.vr.se/english/swecris.html#/project/2022-02311_VR).|
