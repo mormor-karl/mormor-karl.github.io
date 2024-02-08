@@ -154,10 +154,12 @@ Internal deadlines:
 
 |  |
 |--|
+|**General chairs**|
+|* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden|
 |**General co-chairs**|
-|* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>  * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br> * [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden (publication chair)<br> * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
+|* [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden (publication chair)<br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>  * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
 |**Organizing co-chairs**|
-|* [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <!-- <br>* [Vipul Raheja](https://vipulraheja.github.io/), Grammarly, USA (sponsor chair)-->|
+|* [David Alfter](https://www.gu.se/en/about/find-staff/davidalfter), University of Gothenburg, Sweden <br> * [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <!-- <br>* [Vipul Raheja](https://vipulraheja.github.io/), Grammarly, USA (sponsor chair)-->|
 |**Contact** mormor.karl@svenska.gu.se|
 
 | Anti-harassment policy |
