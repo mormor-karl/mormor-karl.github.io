@@ -154,7 +154,7 @@ Internal deadlines:
 
 |  |
 |--|
-|**General chairs**|
+|**General chair**|
 |* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden|
 |**General co-chairs**|
 |* [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden (publication chair)<br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>  * [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
