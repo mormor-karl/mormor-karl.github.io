@@ -18,7 +18,7 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 |  |
 |--|
-|**Venue**: [Hotel Corinthia, St. George's Bay, Malta](https://www.corinthia.com/en-gb/st-georges-bay/) <br> **Date**: March 21, 2024 <br> **Submission deadline**: December 18, 2023 Anywhere on Earth (AoE) <br> **Submission website**: [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> **Registration**: coming soon |
+|**Venue**: [Hotel Corinthia, St. George's Bay, Malta](https://www.corinthia.com/en-gb/st-georges-bay/) <br> **Date**: March 21, 2024 <br> **Submission deadline**: December 18, 2023 Anywhere on Earth (AoE) <br> **Submission website**: [https://softconf.com/eacl2024/CALD-pseudo-2024/](https://softconf.com/eacl2024/CALD-pseudo-2024/) <br> **Registration**: [https://2024.eacl.org/registration](https://2024.eacl.org/registration) |
 
 <!-- # Program -->
 
