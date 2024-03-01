@@ -29,6 +29,12 @@ add more information about the project -->
 
 ------
 
+## Internal
+
+* Zotero library: [https://www.zotero.org/groups/5152608/mormorkarl](https://www.zotero.org/groups/5152608/mormorkarl)
+
+------
+
 <!--
 ## Personal information handling
 
