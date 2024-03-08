@@ -29,6 +29,28 @@ add more information about the project -->
 
 ------
 
+## Overview per year (de facto)
+
+# 2024
+* One accepted poster at an onomastics workshop ICOS (Finland)
+* One accepted and presented article at LREC-Coling (Italy, May)
+* Two accepted and presented articles at CALD-pseudo workshop (Malta, March)
+* CALD-pseudo workshop @ EACL, Malta (21 March) with 10 accepted papers and two keynotes (Ildikó Pilán, Anders Søgaard)
+* Announcement and employment of a PhD student in Linguistics (Finland, Helsinki), from February 2024
+
+# 2023
+* Open House, Gothenburg (November) with invited speakers and panelists (Rada Mihalcea, Boel Nelson, Karoline Marko; Hercules Dalianis, Peter Ljunglöf, Ylva Byrman)
+* Re-annotation of SweLL-pilot to follow SweLL-gold pseudonymization format
+* Application for an ACL workshop (approved)
+* Announcement and employment of a PhD student in NLP (Sweden, Gothenburg) from 1 October 2023
+* An article at IEEE
+* NLP4CALL workshop (Faroe Islands, May) with a keynote on pseudonymization (Pierre Lison)
+* Project kick-off (Gothenburg, March) with an invited speaker Pierre Lison
+* Formalities and admin (budgets, contracts, etc)
+
+------
+
+
 ## Internal
 
 * Zotero library: [https://www.zotero.org/groups/5152608/mormorkarl](https://www.zotero.org/groups/5152608/mormorkarl)
