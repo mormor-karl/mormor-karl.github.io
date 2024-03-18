@@ -13,6 +13,9 @@ tags:
 
 _a cross-disciplinary forum for advancing privacy protection of unstructured text data & data openness through **pseudonymization**._
 
+## Proceedings
+
+ACL proceedings is out: [https://aclanthology.org/volumes/2024.caldpseudo-1/](https://aclanthology.org/volumes/2024.caldpseudo-1/)
 
 ## Dates and venue
 
