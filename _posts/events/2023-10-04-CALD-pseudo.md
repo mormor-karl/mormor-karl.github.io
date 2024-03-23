@@ -60,7 +60,7 @@ EACL workshop proceedings is out: [https://aclanthology.org/volumes/2024.caldpse
 |14:50-15:10|Detecting Personal Identifiable Information in Swedish Learner Essays -- _Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina_ |
 |15:10-15:30|Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring -- _Ricardo Muñoz Sánchez, Simon Dobnik, Maria Szawerna, Therese Lindström Tiedemann and Elena Volodina_|
 | 15:30-16:00   | **Coffee Break** |
-| 16:00-17:00| **Session 5. Panel discussion.** Chair: *Elena Volodina* <br>  Panelists (preliminary): Ildikó Pilán, Thomas Vakili, TBA|
+| 16:00-17:00| **Session 5. Panel discussion.** Chair: *Elena Volodina* <br>  Panelists (preliminary): Ildikó Pilán and Thomas Vakili|
 | **Evening** |  Joint post-workshop dinner for those who want to follow. Place  [Restaurant Gozitan](https://gozitan-restaurant.com/)|
 
 
