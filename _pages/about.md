@@ -32,7 +32,7 @@ add more information about the project -->
 ## Overview per year (de facto)
 
 ### 2024
-* Ongoing: planning a CEFR-reassessment of SweLL-gold essays (Therese and Elena; potentially Ricardo for automatic essay assessment; if portal: Maria)
+* Ongoing: a CEFR-reassessment of SweLL-gold essays (Therese and Elena; potentially Ricardo for automatic essay assessment; if portal: Maria)
 * One accepted poster at an onomastics workshop ICOS (Finland)
 * One accepted and presented article at LREC-Coling (Italy, May)
 * Two accepted and presented articles at CALD-pseudo workshop (Malta, March)
@@ -47,6 +47,7 @@ add more information about the project -->
 * An article at IEEE
 * NLP4CALL workshop (Faroe Islands, May) with a keynote on pseudonymization (Pierre Lison)
 * Project kick-off (Gothenburg, March) with an invited speaker Pierre Lison
+* Webpage on github: [https://mormor-karl.github.io/about/](https://mormor-karl.github.io/about/)
 * Formalities and admin (budgets, contracts, etc)
 
 ------
