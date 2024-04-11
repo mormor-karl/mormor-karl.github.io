@@ -1,14 +1,11 @@
 ---
-title: "CALD-pseudo "
+title: "Computational Approaches to Language Data Pseudonymization — a post-workshop report"
 excerpt_separator: "<!--more-->"
 categories:
   - events
 tags:
   - blog
 ---
-
-
-# Computational Approaches to Language Data Pseudonymization — a post-workshop report
 
 It is 8:45 AM, local time, at Hotel Corinthia in Malta, and we are testing out our Zoom room, setting up the table for the panel discussion, and fighting off the nagging worry as to whether everything will go according to the plan. As more and more presenters and participants trickle in into the room, we take a deep breath and kick off the first [Computational Approaches to Language Data Pseudonymization workshop](https://mormor-karl.github.io/events/CALD-pseudo/). 
 
