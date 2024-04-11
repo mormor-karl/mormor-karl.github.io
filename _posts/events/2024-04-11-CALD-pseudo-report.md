@@ -11,6 +11,7 @@ It is 8:45 AM, local time, at Hotel Corinthia in Malta, and we are testing out o
 
 Hosted at EACL 2024, the workshop was entirely devoted to pseudonymization (or “student minimization”, as the automatic speech recognition “understood” it), anonymization, data privacy and related concepts. We had received 15 submissions, out of which 10 were accepted for a presentation at the workshop, representing a variety of domains, approaches, and languages. With a respectable audience to witness the presentations, both on site and online, we were happy to see such interest in this topic!
 
+![Elena presenting](../assets/images/elena-2024.JPG)
 <img src="../assets/images/elena-2024.JPG" alt="Elena presenting"/>
 
 During the workshop we had the opportunity to listen to two invited talks: one by Anders Søgaard and one by Ildikó Pilán. We rounded off the day with a discussion panel featuring Ildikó and Thomas Vakili  — both the talks, the discussion, and all the [wonderful papers](https://aclanthology.org/2024.caldpseudo-1.0/) have certainly left us with some food for thought and ideas for the future (myself, I definitely wrote down a bunch of things to consider in the future and cite in my work in progress…). 
