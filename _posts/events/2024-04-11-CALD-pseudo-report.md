@@ -24,4 +24,4 @@ We were also thrilled to see a community emerge in front of our eyes — many of
 
 We are definitely looking forward to future opportunities for similar events and are hoping to see many of the participants at other venues, as we are very excited to see what results they will be presenting then!
 
-We are also extending our thanks to all of the organizers and reviewers that have made this workshop possible, as well as to those who have submitted and those who have presented at the workshop, and to our audience — it would not have been possible without you!
+We also extend our thanks to all of the organizers and reviewers that have made this workshop possible, as well as to those who have submitted and those who have presented at the workshop, and to our audience — it would not have been possible without you!
