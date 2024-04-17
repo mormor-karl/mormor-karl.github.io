@@ -8,10 +8,10 @@ author_profile: true
 
 **2024**
 
-* Ricardo Muñoz Sánchez, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann and Elena Volodina. (2024) Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring. In Proceedings of the the EACL workshop Computational Approaches to Language Data Pseudonymization (CALD-pseudo-2024). EACL, Malta, 2024. Association for Language Technology. [link coming soon]
-* Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina. (2024) Detecting Personal Identifiable Information in Swedish Learner Essays. In Proceedings of the the EACL workshop Computational Approaches to Language Data Pseudonymization (CALD-pseudo-2024). EACL, Malta, 2024. Association for Language Technology. [link]
-* Volodina Elena, Simon Dobnik, Therese Lindström Tiedemann, Xuan-Son Vu, David Alfter, Maria Irena Szawerna, Ricardo Muñoz Sánchez. (2024) Proceedings of the EACL workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo), Editors. EACL, Malta, 2024. Association for Language Technology. [link]
-* Szawerna, Maria Irena , Simon Dobnik, Therese Lindström Tiedemann, Ricardo Muñoz Sánchez, Xuan-Son Vu and Elena Volodina. (2024) Pseudonymization Categories across Domain Boundaries. In Proceedings of LREC-Coling 2024. [link coming soon]
+* Ricardo Muñoz Sánchez, Simon Dobnik, Maria Irena Szawerna, Therese Lindström Tiedemann and Elena Volodina. (2024). [Did the Names I Used within My Essay Affect My Score? Diagnosing Name Biases in Automated Essay Scoring](https://aclanthology.org/2024.caldpseudo-1.10/). In Proceedings of the the EACL workshop Computational Approaches to Language Data Pseudonymization (CALD-pseudo-2024). EACL, Malta, 2024. Association for Language Technology. 
+* Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, Therese Lindström Tiedemann and Elena Volodina. (2024). [Detecting Personal Identifiable Information in Swedish Learner Essays](https://aclanthology.org/2024.caldpseudo-1.7/). In Proceedings of the the EACL workshop Computational Approaches to Language Data Pseudonymization (CALD-pseudo-2024). EACL, Malta, 2024. Association for Language Technology.
+* Volodina Elena, Simon Dobnik, Therese Lindström Tiedemann, Xuan-Son Vu, David Alfter, Maria Irena Szawerna, Ricardo Muñoz Sánchez. (2024). [Proceedings of the EACL workshop on Computational Approaches to Language Data Pseudonymization (CALD-pseudo)](https://aclanthology.org/2024.caldpseudo-1.0/), Editors. EACL, Malta, 2024. Association for Language Technology.
+* Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, Ricardo Muñoz Sánchez, Xuan-Son Vu and Elena Volodina. (2024) Pseudonymization Categories across Domain Boundaries. In Proceedings of LREC-Coling 2024. [link coming soon]
 
 
 **2023**
