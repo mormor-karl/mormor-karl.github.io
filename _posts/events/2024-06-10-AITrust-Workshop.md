@@ -16,10 +16,12 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 
 
 ## Dates and venue
-
-|  |
-|--|
-|**Venue**:  |
+### Important dates
+* June 21, 2024: First call for workshop one-page abstracts
+* September 1, 2024: One-page abstracts submission deadline
+* September 10, 2024: Accepted abstracts notification
+* September 15, 2024: Participant submissions
+* November 19, 2024: Event day
 
 <!-- # Program -->
 
@@ -38,7 +40,9 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 <!--  
 Internal deadlines (TBA):
 * June 21, 2024: First call for workshop one-page abstracts
-* (TBA)
+* September 1, 2024: One-page abstracts submission deadline
+* September 10, 2024: Accepted abstracts notification
+* September 15, 2024: Participant submissions
 * November 19, 2024: Event day
 -->
 
@@ -64,7 +68,7 @@ Internal deadlines (TBA):
 |**General chair**|
 |* [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
 |**General co-chairs**|
-|* [Lili Jiang](https://people.cs.umu.se/lili.jiang/), Umeå university, Sweden<br>*[Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>*[Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden <br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>* [Johanna Björklund](https://www.umu.se/personal/johanna-bjorklund/), Umeå university, Sweden|
+|* [Lili Jiang](https://people.cs.umu.se/lili.jiang/), Umeå university, Sweden<br>* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>* [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden <br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>* [Johanna Björklund](https://www.umu.se/personal/johanna-bjorklund/), Umeå university, Sweden|
 |**Organizing co-chairs**|
 |* [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <!-- <br>-->|
 |**Contact** mormor.karl@svenska.gu.se|
