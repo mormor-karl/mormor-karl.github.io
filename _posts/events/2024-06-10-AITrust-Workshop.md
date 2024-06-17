@@ -92,8 +92,7 @@ Internal deadlines (TBA):
 |**General co-chairs**|
 |* [Lili Jiang](https://people.cs.umu.se/lili.jiang/), Umeå university, Sweden<br>* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>* [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden <br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>* [Johanna Björklund](https://www.umu.se/personal/johanna-bjorklund/), Umeå university, Sweden|
 |**Organizing co-chairs**|
-|* [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <br>* [Greta Lisa Södergård
-](https://researchportal.helsinki.fi/en/persons/greta-lisa-s%C3%B6derg%C3%A5rd) <!-- <br>-->|
+|* [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <br>* [Lisa Södergård](https://researchportal.helsinki.fi/en/persons/greta-lisa-s%C3%B6derg%C3%A5rd) <!-- <br>-->|
 |**Contact** mormor.karl@svenska.gu.se|
 
 | Anti-harassment policy |
