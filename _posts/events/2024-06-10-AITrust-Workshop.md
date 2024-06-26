@@ -70,15 +70,16 @@ Internal deadlines (TBA):
 
 
 ## Program committee 
-(TBA)
 
-<!--
-* Kosem Iztok, University of Ljubljana, Slovenia (language resources, digital infrastructure)
-* Øvrelid Lilja, University of Oslo, Sweden (NLP, anonymization, language modeling)
-* Papadopoulou Anthi, Norwegian Computing Center, Norway (NLP, anonymization, LLMs)
-* de Smedt Koenraad, University of Bergen, Norway (NLP, language resources)
-* Velupillai Sumithra, King’s College, London, UK (NLP, language modeling, data privacy)
--->
+* Elena Volodina, University of Gothenburg, Sweden
+* Johanna Björklund, Umeå university, Sweden
+* Simon Dobnik, University of Gothenburg, Sweden
+* Lili Jiang, Umeå university, Sweden
+* Xuan-Son Vu, Umeå university, Sweden
+* Therese Lindström Tiedemann, University of Helsinki, Finland
+* Ricardo Muñoz Sánchez, University of Gothenburg, Sweden
+* Maria Irena Szawerna, University of Gothenburg, Sweden
+* Lisa, Södergård, University of Helsinki, Finland
 
 [Back to top](#dates-and-venue)
 
