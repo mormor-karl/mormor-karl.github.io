@@ -28,8 +28,6 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 
 <!-- [Program](#program) -->
 
-## Program  
-(TBA)
 
 [Back to top](#dates-and-venue)
 
