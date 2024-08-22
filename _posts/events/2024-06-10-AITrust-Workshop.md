@@ -17,9 +17,9 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 
 ## Dates and venue
 ### Important dates
-* June 27, 2024: First call for workshop one-page abstracts
-* September 1, 2024: One-page abstract submission deadline
-* September 10, 2024: Accepted abstract notification
+* Aug 23, 2024: First call for workshop one-page abstracts
+* September 6, 2024: One-page abstract submission deadline
+* September 12, 2024: Accepted abstract notification
 * September 15, 2024: Participant submissions
 * November 19, 2024: Event day
 
