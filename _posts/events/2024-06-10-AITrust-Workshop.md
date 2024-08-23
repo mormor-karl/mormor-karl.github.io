@@ -87,7 +87,7 @@ Internal deadlines (TBA):
 |  |
 |--|
 |**General chair**|
-|* [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university, Sweden|
+|* [Xuan-Son Vu](https://people.cs.umu.se/sonvx/), Umeå university and DeepTensor AB, Sweden|
 |**General co-chairs**|
 |* [Lili Jiang](https://people.cs.umu.se/lili.jiang/), Umeå university, Sweden<br>* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>* [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden <br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>* [Johanna Björklund](https://www.umu.se/personal/johanna-bjorklund/), Umeå university, Sweden|
 |**Organizing co-chairs**|
