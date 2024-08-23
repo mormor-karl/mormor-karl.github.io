@@ -57,6 +57,8 @@ big data, and all other relevant areas.
 * Secure learning from data having high missing values, incompleteness, noisy
 * Private learning from sensitive and protected data
 
+**Submission template**: [https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp)
+
 <!--  
 Internal deadlines (TBA):
 * June 21, 2024: First call for workshop one-page abstracts
