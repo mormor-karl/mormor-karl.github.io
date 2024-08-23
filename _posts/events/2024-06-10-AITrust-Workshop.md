@@ -77,7 +77,7 @@ Internal deadlines (TBA):
 * Johanna Björklund, Umeå university, Sweden
 * Simon Dobnik, University of Gothenburg, Sweden
 * Lili Jiang, Umeå university, Sweden
-* Xuan-Son Vu, Umeå university, Sweden
+* Xuan-Son Vu, Umeå university and DeepTensor AB, Sweden
 * Therese Lindström Tiedemann, University of Helsinki, Finland
 * Ricardo Muñoz Sánchez, University of Gothenburg, Sweden
 * Maria Irena Szawerna, University of Gothenburg, Sweden
