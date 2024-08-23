@@ -51,7 +51,7 @@ adversarial inputs; to handle model misspecification, corrupted training data, a
 * Comparative studies with competing methods without reliable/robust certified
 properties.
 * Applications of reliable/robust machine learning algorithms in domains such as
-healthcare, biomedical, finance, computer vision, natural language processing,
+healthcare, biomedical, finance, computer vision, natural language processing (LLMs/LVMs),
 big data, and all other relevant areas.
 * Unique societal and legal challenges facing reliability for trustworthy AI systems.
 * Secure learning from data having high missing values, incompleteness, noisy
