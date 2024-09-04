@@ -21,9 +21,10 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 * September 6, 2024: One-page abstract submission deadline
 * September 12, 2024: Accepted abstract notification
 * September 15, 2024: Participant submissions
-* November 19, 2024: Event day
+* November 19, 2024: Event day (9:00 - 12:00)
 
-<!-- # Program -->
+# Registration
+Please register for the main event [WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) and kindly select our workshop "Privacy and AI: Towards a Trustworthy Ecosystem" in the form.
 
 
 <!-- [Program](#program) -->
@@ -60,6 +61,8 @@ big data, and all other relevant areas.
 **Submission Information**
 - Template: [https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp)
 - Submission Page (Google Form): [https://forms.gle/cfgKqjV71M6Y6naMA](https://forms.gle/cfgKqjV71M6Y6naMA)
+- Page limit: 1 page for main abstract with unlimited additional pages for references.
+- Note: anonymity is not required for the abstract submission.
 
 <!--  
 Internal deadlines (TBA):
@@ -96,7 +99,7 @@ Internal deadlines (TBA):
 |* [Lili Jiang](https://people.cs.umu.se/lili.jiang/), Umeå university, Sweden<br>* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden <br>* [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik), University of Gothenburg, Sweden <br> * [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann), University of Helsinki, Finland <br>* [Johanna Björklund](https://www.umu.se/personal/johanna-bjorklund/), Umeå university, Sweden|
 |**Organizing co-chairs**|
 |* [Ricardo Muñoz Sánchez](https://rimusa.github.io/), University of Gothenburg, Sweden <br>* [Maria Irena Szawerna](https://spraakbanken.gu.se/en/about/staff/maria-szawerna), University of Gothenburg, Sweden <br>* [Lisa Södergård](https://researchportal.helsinki.fi/en/persons/greta-lisa-s%C3%B6derg%C3%A5rd) University of Helsinki, Finland. <!-- <br>-->|
-|**Contact** mormor.karl@svenska.gu.se|
+|**Contact** mormor.karl@svenska.gu.se or aitrust-research@googlegroups.com|
 
 | Anti-harassment policy |
 |--|
