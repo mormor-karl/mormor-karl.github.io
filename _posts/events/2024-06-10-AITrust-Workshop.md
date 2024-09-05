@@ -59,7 +59,7 @@ big data, and all other relevant areas.
 * Private learning from sensitive and protected data
 
 **Submission Information**
-- Template: [https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp)
+- Suggested Template: [https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp](https://www.overleaf.com/latex/templates/acl-2023-proceedings-template/qjdgcrdwcnwp) (MS Word or other similar tools are also acceptable).
 - Submission Page (Google Form): [https://forms.gle/cfgKqjV71M6Y6naMA](https://forms.gle/cfgKqjV71M6Y6naMA)
 - Page limit: 1 page for main abstract with unlimited additional pages for references.
 - Note: anonymity is not required for the abstract submission.
