@@ -24,8 +24,11 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 * November 19, 2024: Event day (9:00 - 12:00)
 
 # Registration
-Please register for the main event [WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) and kindly select our workshop "Privacy and AI: Towards a Trustworthy Ecosystem" in the form.
+(Updated on Sep 14, 2024)
+Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosystem,' using form [1], and for the main event using form [2].
 
+[1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
+[2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) 
 
 <!-- [Program](#program) -->
 
