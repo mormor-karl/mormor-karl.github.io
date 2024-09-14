@@ -27,8 +27,8 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 (Updated on Sep 14, 2024)
 Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosystem,' using form [1], and for the main event using form [2].
 
-[1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
-[2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) 
+* [1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
+* [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) 
 
 <!-- [Program](#program) -->
 
