@@ -28,7 +28,7 @@ Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosyst
 * [1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
 * [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/)
 
-The Zoom Webinar to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
+The Zoom Webinar link to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 <!-- [Program](#program) -->
 
