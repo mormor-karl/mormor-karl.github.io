@@ -13,8 +13,6 @@ tags:
 
 _a cross-disciplinary forum for advancing the designing, developing and deploying of reliable and trustworthy AI applications._
 
-
-
 ## Dates and venue
 ### Important dates
 * Aug 23, 2024: First call for workshop one-page abstracts
@@ -28,7 +26,9 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosystem,' using form [1], and for the main event using form [2].
 
 * [1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
-* [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) 
+* [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/)
+
+The Zoom Webinar to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 <!-- [Program](#program) -->
 
