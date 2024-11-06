@@ -30,7 +30,25 @@ Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosyst
 
 The Zoom Webinar link to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
-<!-- [Program](#program) -->
+[Program](#program)
+
+| No. | Event                                                                                  | Time            |
+|-----|----------------------------------------------------------------------------------------|-----------------|
+| 1   | Opening Remarks                                                                        | 09:00 - 09:05   |
+| 2   | Invited Speaker 1: Assoc. Prof. Krister Lindén, Research Director, Department of Digital Humanities | 09:05 - 09:35   |
+| 3   | Responsible design of financial robo-advisors - a multidisciplinary approach (Application) | 09:35 - 10:00   |
+| 4   | An Extensible Framework for Real-Time Conversational Avatars (Application)            | 09:35 - 10:00   |
+| 5   | Transformer-assisted Hate Crime Classification and Estimation in Sweden (Application) | 09:35 - 10:00   |
+| 6   | Trustworthy AI in the public sector: Insights and recommendations grounded in a case study (Application) | 09:35 - 10:00   |
+|     | **COFFEE BREAK**                                                                       | 10:00 - 10:20   |
+| 7   | AI for open research data with Grandma Karl (Theoretical / CoreNLP)                   | 10:20 - 10:50   |
+| 8   | Intersectional Hallucinations in Structured Synthetic Data (Theoretical / CoreNLP)    | 10:50 - 11:20   |
+| 9   | Mitigate Unfairness in Adversarial Robustness of Deep Neural Networks (Theoretical / CoreNLP) | 10:50 - 11:20   |
+| 10  | Trustworthy AI and Misplaced Trust: Ethical Implications from the Philosophy and Moral Psychology of Trust (Theo+Linguistic) | 10:50 - 11:20   |
+| 11  | AI’s truth is not my truth and what language has to do with it (Theo+Linguistic)      | 11:20 - 11:50   |
+| 12  | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse (Theo+Linguistic) | 11:20 - 11:50   |
+| 13  | Invited Speaker 2: Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body | 11:20 - 11:50   |
+| 14  | Closing Remarks                                                                       | 11:50 - 12:00   |
 
 
 [Back to top](#dates-and-venue)
