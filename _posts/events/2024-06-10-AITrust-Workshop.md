@@ -30,7 +30,7 @@ Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosyst
 
 The Zoom Webinar link to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
-[Program](#program)
+## Program
 
 | Order | Title                                                                                          | Time Frame         | Chair                                                                                  |
 |-------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------|
