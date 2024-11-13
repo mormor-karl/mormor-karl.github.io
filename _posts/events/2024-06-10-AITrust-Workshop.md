@@ -20,6 +20,8 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 * September 12, 2024: Accepted abstract notification
 * September 15, 2024: Participant submissions
 * November 19, 2024: Event day (9:00 - 12:00)
+### Venue
+* Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6.
 
 # Registration
 (Updated on Sep 14, 2024)
