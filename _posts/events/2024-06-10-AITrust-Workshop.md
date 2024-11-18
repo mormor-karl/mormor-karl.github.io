@@ -13,21 +13,15 @@ tags:
 
 _a cross-disciplinary forum for advancing the designing, developing and deploying of reliable and trustworthy AI applications._
 
-## Dates and venue
+# Venue
 
-### Important dates
-* Aug 23, 2024: First call for workshop one-page abstracts
-* September 6, 2024: One-page abstract submission deadline
-* September 12, 2024: Accepted abstract notification
-* September 15, 2024: Participant submissions
-* November 19, 2024: Event day (9:00 - 12:00)
-
-### Venue
 * **Offline Participants**: Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6.
 * **Online Participants**: *The Zoom Webinar link* to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 
 # Program
+
+Full program of the event on Nov 19, 2024 (8:15 - 12:00)
 
 | Order | Title | Authors | Time Frame | Chair |
 |-------|--------|----------|------------|--------|
@@ -47,9 +41,6 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 | 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse | Signe Skov | | |
 | 14    | Invited Speaker 2: The AI paradoxes | Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body| 11:20 - 11:50 | Chair: Lili Jiang |
 | 15    | Closing Remarks | | 11:50 - 12:00 | Sonny Vu |
-
-
-[Back to top](#dates-and-venue)
 
 
 ## Call for one-page abstracts
@@ -107,6 +98,16 @@ Internal deadlines (TBA):
 
 [Back to top](#dates-and-venue)
 
+# Dates
+
+## Important dates
+* Aug 23, 2024: First call for workshop one-page abstracts
+* September 6, 2024: One-page abstract submission deadline
+* September 12, 2024: Accepted abstract notification
+* September 15, 2024: Participant submissions
+* November 19, 2024: Event day (9:00 - 12:00)
+
+  
 # Registration
 (Updated on Sep 14, 2024)
 Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosystem,' using form [1], and for the main event using form [2].
