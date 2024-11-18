@@ -14,12 +14,14 @@ tags:
 _a cross-disciplinary forum for advancing the designing, developing and deploying of reliable and trustworthy AI applications._
 
 ## Dates and venue
+
 ### Important dates
 * Aug 23, 2024: First call for workshop one-page abstracts
 * September 6, 2024: One-page abstract submission deadline
 * September 12, 2024: Accepted abstract notification
 * September 15, 2024: Participant submissions
 * November 19, 2024: Event day (9:00 - 12:00)
+
 ### Venue
 * Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6.
 
@@ -30,29 +32,27 @@ Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosyst
 * [1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
 * [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/)
 
-The Zoom Webinar link to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
+* **The Zoom Webinar link** to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 # Program
-
-| Order | Title                                                                                          | Time Frame         | Chair                                                                                  |
-|-------|------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------|
-| 1     | Workshop Registration                                                                                | 08:15 - 09:00      |                                                 
-| 2     | Opening Remarks                                                                                | 09:00 - 09:05      | Sonny Vu                                                                              |
-| 3     | Invited Speaker 1: Dr. Krister Lindén, Research Director, Department of Digital Humanities | 09:05 - 09:35      | Chair: Elena                                                                         |
-| 4     | Responsible design of financial robo-advisors - a multidisciplinary approach                   | 09:35 - 10:00      | Session 1: Applications <br> Session Chair: Simon                                    |
-| 5     | An Extensible Framework for Real-Time Conversational Avatars                                   |                    |                                                                                        |
-| 6     | Transformer-assisted Hate Crime Classification and Estimation in Sweden                        |                    |                                                                                        |
-| 7     | Trustworthy AI in the public sector: Insights and recommendations grounded in a case study     |                    |                                                                                        |
-|       | **COFFEE BREAK**                                                                               | 10:00 - 10:20      |                                                                                        |
-| 8     | AI for open research data with Grandma Karl                                                    | 10:20 - 10:50      | Session 2: Theoretical / CoreNLP <br> Session Chair: Lili Jiang                         |
-| 9     | Intersectional Hallucinations in Structured Synthetic Data                                     |                    |                                                                                        |
-| 10     | Mitigate Unfairness in Adversarial Robustness of Deep Neural Networks                          |                    |                                                                                        |
-| 11    | Trustworthy AI and Misplaced Trust Ethical Implications from the Philosophy and Moral Psychology of Trust | 10:50 - 11:20 | Session 3: Theory + Linguistics <br> Session Chair: Therese                          |
-| 12    | AI’s truth is not my truth and what language has to do with it                                 |                    |                                                                                        |
-| 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse              |                    |                                                                                        |
-| 14    | Invited Speaker 2: Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body | 11:20 - 11:50 | Chair: Lili Jiang                                                                   |
-| 15    | Closing Remarks                                                                                | 11:50 - 12:00      | Sonny Vu                                                                              |
-
+| Order | Title | Authors | Time Frame | Chair |
+|-------|--------|----------|------------|--------|
+| 1     | Workshop Registration | | 08:15 - 09:00 | |
+| 2     | Opening Remarks | | 09:00 - 09:05 | Sonny Vu |
+| 3     | Invited Speaker 1: Dr. Krister Lindén, Research Director, Department of Digital Humanities | | 09:05 - 09:35 | Chair: Elena Volodina  |
+| 4     | Responsible design of financial robo-advisors - a multidisciplinary approach | Esteban Guerrero, Gökhan Buturak, Panu Kalmi | 09:35 - 10:00 | Session 1: Applications <br> Session Chair: Simon Dobnik |
+| 5     | An Extensible Framework for Real-Time Conversational Avatars | Somayeh Jafaritazehjani, Khanh-Tung Tran, Xuan-Son Vu, Johanna Björklund | | |
+| 6     | Transformer-assisted Hate Crime Classification and Estimation in Sweden | Hollis Sargeant, Hannes Waldetoft, Måns Magnusson | | |
+| 7     | Trustworthy AI in the public sector: Insights and recommendations grounded in a case study | Alexander Berman, Karl de Fine Licht, Vanja Carlsson | | |
+|       | **COFFEE BREAK** | | 10:00 - 10:20 | |
+| 8     | AI for open research data with Grandma Karl | Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, Lisa Södergård, Ricardo Muñoz Sánchez, Xuan-Son Vu, Elena Volodina | 10:20 - 10:50 | Session 2: Theoretical / CoreNLP <br> Session Chair: Lili Jiang |
+| 9     | Intersectional Hallucinations in Structured Synthetic Data | Ericka Johnson, Saghi Hajisharif | | |
+| 10    | Mitigate Unfairness in Adversarial Robustness of Deep Neural Networks | Seyedhamidreza Mousavi, Seyedali Mousavi, Masoud Daneshtalab | | |
+| 11    | Trustworthy AI and Misplaced Trust Ethical Implications from the Philosophy and Moral Psychology of Trust | Dorna Behdadi | 10:50 - 11:20 | Session 3: Theory + Linguistics <br> Session Chair: Therese Lindström Tiedemann |
+| 12    | AI's truth is not my truth and what language has to do with it | Martina Wiltschko & Preeti Kumari | | |
+| 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse | Signe Skov | | |
+| 14    | Invited Speaker 2: Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body | | 11:20 - 11:50 | Chair: Lili Jiang |
+| 15    | Closing Remarks | | 11:50 - 12:00 | Sonny Vu |
 
 [Back to top](#dates-and-venue)
 
