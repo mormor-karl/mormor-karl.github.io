@@ -33,7 +33,7 @@ Full program of the event on Nov 19, 2024 (8:15 - 12:00)
 | 2     | Opening Remarks | | 09:00 - 09:05 | Sonny Vu |
 | 3     | Invited Speaker 1: Processing Personal or Sensitive Data in the Language Bank of Finland | Dr. Krister Lindén, Research Director, Department of Digital Humanities | 09:05 - 09:35 | Chair: Elena Volodina  |
 | 4     | Responsible design of financial robo-advisors - a multidisciplinary approach | Esteban Guerrero, Gökhan Buturak, Panu Kalmi | 09:35 - 10:00 | Session 1: Applications <br> Session Chair: Simon Dobnik |
-| 5     | An Extensible Framework for Real-Time Conversational Avatars | Somayeh Jafaritazehjani, Khanh-Tung Tran, Quan Nguyen, Xuan-Son Vu, Johanna Björklund | | |
+| 5     | An Extensible Framework for Real-Time Conversational Avatars | Somayeh Jafaritazehjani, Khanh-Tung Tran, Hoang Quan Nguyen, Xuan-Son Vu, Johanna Björklund | | |
 | 6     | Transformer-assisted Hate Crime Classification and Estimation in Sweden | Hollis Sargeant, Hannes Waldetoft, Måns Magnusson | | |
 | 7     | Trustworthy AI in the public sector: Insights and recommendations grounded in a case study | Alexander Berman, Karl de Fine Licht, Vanja Carlsson | | |
 |       | **COFFEE BREAK** | | 10:00 - 10:20 | |
