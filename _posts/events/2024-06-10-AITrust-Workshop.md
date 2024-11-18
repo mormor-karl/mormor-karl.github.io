@@ -35,6 +35,7 @@ Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosyst
 * **The Zoom Webinar link** to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 # Program
+
 | Order | Title | Authors | Time Frame | Chair |
 |-------|--------|----------|------------|--------|
 | 1     | Workshop Registration | | 08:15 - 09:00 | |
@@ -53,6 +54,7 @@ Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosyst
 | 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse | Signe Skov | | |
 | 14    | Invited Speaker 2: Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body | | 11:20 - 11:50 | Chair: Lili Jiang |
 | 15    | Closing Remarks | | 11:50 - 12:00 | Sonny Vu |
+
 
 [Back to top](#dates-and-venue)
 
