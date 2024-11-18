@@ -23,16 +23,9 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 * November 19, 2024: Event day (9:00 - 12:00)
 
 ### Venue
-* Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6.
+* **Offline Participants**: Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6.
+* **Online Participants**: *The Zoom Webinar link* to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
-# Registration
-(Updated on Sep 14, 2024)
-Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosystem,' using form [1], and for the main event using form [2].
-
-* [1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7)
-* [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/)
-
-* **The Zoom Webinar link** to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 # Program
 
@@ -113,6 +106,13 @@ Internal deadlines (TBA):
 * Lisa, Södergård, University of Helsinki, Finland
 
 [Back to top](#dates-and-venue)
+
+# Registration
+(Updated on Sep 14, 2024)
+Please register for our workshop, 'Privacy and AI: Towards a Trustworthy Ecosystem,' using form [1], and for the main event using form [2].
+
+* [1] [Registration form of AITrust workshop](https://forms.gle/GGG2a3rBa1YMjJZH7) (expired)
+* [2] [Registration form of the main WASP-HS 2024 Event](https://wasp-hs.org/event/ai-for-humanity-and-society-2024/) (expired)
 
 
 ## Organizers
