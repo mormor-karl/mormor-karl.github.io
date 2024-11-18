@@ -33,7 +33,7 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 |-------|--------|----------|------------|--------|
 | 1     | Workshop Registration | | 08:15 - 09:00 | |
 | 2     | Opening Remarks | | 09:00 - 09:05 | Sonny Vu |
-| 3     | Invited Speaker 1: Dr. Krister Lindén, Research Director, Department of Digital Humanities | | 09:05 - 09:35 | Chair: Elena Volodina  |
+| 3     | Invited Speaker 1: Processing Personal or Sensitive Data in the Language Brank of Finland | Dr. Krister Lindén, Research Director, Department of Digital Humanities | 09:05 - 09:35 | Chair: Elena Volodina  |
 | 4     | Responsible design of financial robo-advisors - a multidisciplinary approach | Esteban Guerrero, Gökhan Buturak, Panu Kalmi | 09:35 - 10:00 | Session 1: Applications <br> Session Chair: Simon Dobnik |
 | 5     | An Extensible Framework for Real-Time Conversational Avatars | Somayeh Jafaritazehjani, Khanh-Tung Tran, Xuan-Son Vu, Johanna Björklund | | |
 | 6     | Transformer-assisted Hate Crime Classification and Estimation in Sweden | Hollis Sargeant, Hannes Waldetoft, Måns Magnusson | | |
@@ -45,7 +45,7 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 | 11    | Trustworthy AI and Misplaced Trust Ethical Implications from the Philosophy and Moral Psychology of Trust | Dorna Behdadi | 10:50 - 11:20 | Session 3: Theory + Linguistics <br> Session Chair: Therese Lindström Tiedemann |
 | 12    | AI's truth is not my truth and what language has to do with it | Martina Wiltschko & Preeti Kumari | | |
 | 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse | Signe Skov | | |
-| 14    | Invited Speaker 2: Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body | | 11:20 - 11:50 | Chair: Lili Jiang |
+| 14    | Invited Speaker 2: The AI paradoxes | Prof. Virginia Dignum, Umeå University and a member of the United Nation's AI Body| 11:20 - 11:50 | Chair: Lili Jiang |
 | 15    | Closing Remarks | | 11:50 - 12:00 | Sonny Vu |
 
 
