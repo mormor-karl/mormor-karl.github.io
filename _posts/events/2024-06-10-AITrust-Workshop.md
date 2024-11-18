@@ -42,8 +42,8 @@ Full program of the event on Nov 19, 2024 (8:15 - 12:00)
 | 10    | Mitigate Unfairness in Adversarial Robustness of Deep Neural Networks | Seyedhamidreza Mousavi, Seyedali Mousavi, Masoud Daneshtalab | | |
 | 11    | Trustworthy AI and Misplaced Trust Ethical Implications from the Philosophy and Moral Psychology of Trust | Dorna Behdadi | 10:50 - 11:15 | Session 3: Theory + Linguistics <br> Session Chair: Therese Lindström Tiedemann |
 | 12    | AI's truth is not my truth and what language has to do with it | Martina Wiltschko & Preeti Kumari | | |
-|       | **SHORT BREAK** | | 11:15 - 11:20 | |
 | 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse | Signe Skov | | |
+|       | **SHORT BREAK** | | 11:15 - 11:20 | |
 | 14    | **Invited Speaker: The AI paradoxes** | [Prof. Virginia Dignum](#invited-speakers), Umeå University and a member of the United Nation's AI Body| 11:20 - 11:50 | Chair: Lili Jiang |
 | 15    | Closing Remarks | | 11:50 - 12:00 | Xuan-Son (Sonny) Vu |
 
