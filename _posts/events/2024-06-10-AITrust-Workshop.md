@@ -32,16 +32,17 @@ Full program of the event on Nov 19, 2024 (8:15 - 12:00)
 | 1     | Workshop Registration | | 08:15 - 09:00 | |
 | 2     | Opening Remarks | | 09:00 - 09:05 | Xuan-Son (Sonny) Vu |
 | 3     | **Invited Speaker: Processing Personal or Sensitive Data in the Language Bank of Finland** | Dr. [Krister Lindén](#invited-speakers), Research Director, Department of Digital Humanities | 09:05 - 09:35 | Chair: Elena Volodina  |
-| 4     | Responsible design of financial robo-advisors - a multidisciplinary approach | **Esteban Guerrero**, Gökhan Buturak, Panu Kalmi | 09:35 - 10:00 | Session 1: Applications <br> Session Chair: Simon Dobnik |
-| 5     | An Extensible Framework for Real-Time Conversational Avatars | Somayeh Jafaritazehjani, Khanh-Tung Tran, **Hoang Quan Nguyen, Xuan-Son Vu**, Johanna Björklund | | |
+| 4     | Responsible design of financial robo-advisors - a multidisciplinary approach | Esteban Guerrero, Gökhan Buturak, Panu Kalmi | 09:35 - 10:05 | Session 1: Applications <br> Session Chair: Simon Dobnik |
+| 5     | An Extensible Framework for Real-Time Conversational Avatars | Somayeh Jafaritazehjani, Khanh-Tung Tran, Hoang Quan Nguyen, Xuan-Son Vu, Johanna Björklund | | |
 | 6     | Transformer-assisted Hate Crime Classification and Estimation in Sweden | Hollis Sargeant, Hannes Waldetoft, Måns Magnusson | | |
 | 7     | Trustworthy AI in the public sector: Insights and recommendations grounded in a case study | Alexander Berman, Karl de Fine Licht, Vanja Carlsson | | |
-|       | **COFFEE BREAK** | | 10:00 - 10:20 | |
-| 8     | AI for open research data with Grandma Karl | Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, Lisa Södergård, Ricardo Muñoz Sánchez, Xuan-Son Vu, Elena Volodina | 10:20 - 10:50 | Session 2: Theoretical / CoreNLP <br> Session Chair: Lili Jiang |
+|       | **COFFEE BREAK** | | 10:05 - 10:25 | |
+| 8     | AI for open research data with Grandma Karl | Maria Irena Szawerna, Simon Dobnik, Therese Lindström Tiedemann, Lisa Södergård, Ricardo Muñoz Sánchez, Xuan-Son Vu, Elena Volodina | 10:25 - 10:50 | Session 2: Theoretical / CoreNLP <br> Session Chair: Lili Jiang |
 | 9     | Intersectional Hallucinations in Structured Synthetic Data | Ericka Johnson, Saghi Hajisharif | | |
 | 10    | Mitigate Unfairness in Adversarial Robustness of Deep Neural Networks | Seyedhamidreza Mousavi, Seyedali Mousavi, Masoud Daneshtalab | | |
-| 11    | Trustworthy AI and Misplaced Trust Ethical Implications from the Philosophy and Moral Psychology of Trust | Dorna Behdadi | 10:50 - 11:20 | Session 3: Theory + Linguistics <br> Session Chair: Therese Lindström Tiedemann |
+| 11    | Trustworthy AI and Misplaced Trust Ethical Implications from the Philosophy and Moral Psychology of Trust | Dorna Behdadi | 10:50 - 11:15 | Session 3: Theory + Linguistics <br> Session Chair: Therese Lindström Tiedemann |
 | 12    | AI's truth is not my truth and what language has to do with it | Martina Wiltschko & Preeti Kumari | | |
+|       | **SHORT BREAK** | | 11:15 - 11:20 | |
 | 13    | Explainability of Artificial Intelligence Systems: Mapping the Academic Discourse | Signe Skov | | |
 | 14    | **Invited Speaker: The AI paradoxes** | [Prof. Virginia Dignum](#invited-speakers), Umeå University and a member of the United Nation's AI Body| 11:20 - 11:50 | Chair: Lili Jiang |
 | 15    | Closing Remarks | | 11:50 - 12:00 | Xuan-Son (Sonny) Vu |
