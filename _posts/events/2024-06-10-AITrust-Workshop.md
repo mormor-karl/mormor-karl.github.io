@@ -15,7 +15,7 @@ _a cross-disciplinary forum for advancing the designing, developing and deployin
 
 # Venue
 
-* **Offline Participants**: Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6.
+* **Offline Participants**: Exact address of workshop place: University of Gothenburg, Gothenburg, Sweden. Hus Patricia. Forskningsgången 6, Torg Blå (Floor 4)
 * **Online Participants**: *The Zoom Webinar link* to join the event can be found [here](https://gu-se.zoom.us/j/65062336597).
 
 | Quick links |
