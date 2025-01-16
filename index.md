@@ -6,7 +6,7 @@ permalink: /
 
 <!--![Mormor-team-2023](/assets/images/IMG_7235.jpeg)-->
 
-![Mormor-team-2023](/assets/images/2023-nov-mormor.JPG)
+![Mormor-team-2023](/assets/images/Group-2024.JPG)
 
 
 
