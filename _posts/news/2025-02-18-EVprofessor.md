@@ -15,7 +15,7 @@ Den 13 februari utnämndes Elena Volodina till professor i språkteknologi vid G
 
 ------
 
-[Full news item and an interview (in Swedish)]([https://jobs.helsinki.fi/job/Helsinki-Doctoral-Researcher-in-Scandinavian-languages-or-general-linguistics/783336602/?feedId=350602&utm_source=CareerSite_UniversityOfHelsinki](https://www.gu.se/nyheter/ny-professor-vill-arbeta-for-en-saker-och-etisk-anvandning-av-ai))
+[Full news item and an interview (in Swedish)](https://www.gu.se/nyheter/ny-professor-vill-arbeta-for-en-saker-och-etisk-anvandning-av-ai)
 
 ------
 
