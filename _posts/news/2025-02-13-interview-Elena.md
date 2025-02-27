@@ -1,5 +1,5 @@
 ---
-title: "En intervju med Elena Volodina"
+title: "En intervju med Elena Volodina: Ny professor vill arbeta för en säker och etisk användning av AI"
 excerpt_separator: "<!--more-->"
 categories:
   - news
