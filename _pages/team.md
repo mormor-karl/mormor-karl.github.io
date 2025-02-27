@@ -23,7 +23,7 @@ author_profile: true
 
 | <img src="../assets/images/Ricardo-2024.JPG" alt="Ricardo" width="100"/> | [Ricardo Muñoz Sánchez](https://rimusa.github.io/) <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, biases in learner datasets and models|
 | <img src="../assets/images/Maria-2024.JPG" alt="Maria" width="100"/> | [Maria Irena Szawerna](https://sites.google.com/view/mariaszawerna/home) <br> [Språkbanken](https://spraakbanken.gu.se/en), University of Gothenburg, Sweden <br> NLP, automatic methods for pseudonymization |
-| <img src="../assets/images/Lisa-2024.JPG" alt="Lisa" width="100"/> | [Lisa Södergård](https://www.helsinki.fi/en/about-us/people/people-finder/lisa-soderg%C3%A5rd-9119204) <br> [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Applied linguistics, effects of pseudonymization on research data |
+| <img src="../assets/images/Lisa-2024.JPG" alt="Lisa" width="100"/> | [Lisa Södergård](https://www.helsinki.fi/en/about-us/people/people-finder/lisa-soderg%C3%A5rd-9119204) <br> [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Scandinavian languages, effects of pseudonymization on research data |
 
 --------
 
