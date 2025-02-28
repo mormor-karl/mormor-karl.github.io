@@ -11,7 +11,7 @@ tags:
 
 # Workshop om pseudonymisering inom språkvetenskap [Svenskans Beskrivning 26 maj 2025](https://www.su.se/institutionen-for-svenska-och-flersprakighet/forskning/konferenser-och-seminarier/konferens-2025-svenskans-beskrivning-40-1.730200)
 
-We are sorry that this information is currently in Swedish only. The workshop we are arranging on pseudonymisation in linguistics is being arranged at a conference for the Swedish language. 
+_We are sorry that this information is currently in Swedish only. The workshop we are arranging on pseudonymisation in linguistics is being arranged at a conference for the Swedish language._
  
 Vetenskaplig forskning ska göras på ett sådant sätt att vi skyddar forskningsdeltagare och deras personuppgifter (Vetenskapsrådet 2024; Forskningsetiska delegationen 2019). I koppling till införandet av EU:s allmänna dataskyddsförordning (GDPR, EU 2016/679) har det här mer och mer kommit att tolkas som att forskningsdata ska pseudonymiseras, i betydelsen att inte bara namn utan också annan information som kan peka ut individer direkt eller indirekt ersätts med en pseudonym. Det kan alltså både vara ett påhittat egennamn för en person, plats, organisation eller liknande, eller ett annat ord för något annat som kan ses som identifierande: t.ex. ålder, yrke, förstaspråk, nationalitet, bostadsort osv. Men alternativa metoder som ersättande koder eller epitet är också möjliga att använda för att dölja personuppgifter (jfr Heaton 2022, Volodina m.fl. 2023). En fördel med pseudonymer är dock att de är mindre märkbara i texten och kan antas störa förståelsen och användningen av datan mindre (jfr Szawerna m.fl. 2024a).  
   
