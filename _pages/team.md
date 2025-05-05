@@ -43,7 +43,7 @@ author_profile: true
 <br><br>
 <img src="../assets/images/HY__LD02_LogoFV_EN_B3____BW.jpg" alt="University of Helsinki" width="100%"/>
 <br><br>
-<img src="../assets/images/LundUniversity_C2line_RGB.png" alt="Lund University " width="100%"/>
+<img src="../assets/images/Lund_university_L_BLACK.png" alt="Lund University " width="100%"/>
 
 </div>
 
