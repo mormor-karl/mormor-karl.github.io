@@ -15,7 +15,7 @@ author_profile: true
 
 | <img src="../assets/images/Simon-2024.JPG" alt="Simon" width="100"/> | [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik)<br> [CLASP](https://gu-clasp.github.io/), University of Gothenburg, Sweden <br> NLP, Computational modeling, Machine learning |
 | <img src="../assets/images/Therese-2024.JPG" alt="Therese" width="100"/> | [Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann) <br>  [University of Helsinki](https://researchportal.helsinki.fi/en/), Finland <br> Scandinavian languages, Applied linguistics, Second language acquisition, Learner corpus research|
-| <img src="../assets/images/Sonny-2024.JPG" alt="Sonny" width="100"/> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) <br>  [Umeå University](https://www.umu.se/institutionen-for-datavetenskap/), Sweden <br> Data Science, Computational privacy techniques|
+| <img src="../assets/images/Sonny-2024.JPG" alt="Sonny" width="100"/> | [Xuan-Son Vu](https://people.cs.umu.se/sonvx/) <br>  [Lund University](https://portal.research.lu.se/sv/organisations/department-of-computer-science), Sweden <br> Data Science, Computational privacy techniques|
 
 --------
 
@@ -29,7 +29,7 @@ author_profile: true
 
 ## Other contributors
 
-| [Nikolai Ilynykh](https://gu-clasp.github.io/people/nikolai-ilinykh/) |  |  |
+| [Nikolai Ilinykh](https://gu-clasp.github.io/people/nikolai-ilinykh/) |  |  |
 
 --------
 
@@ -43,7 +43,7 @@ author_profile: true
 <br><br>
 <img src="../assets/images/HY__LD02_LogoFV_EN_B3____BW.jpg" alt="University of Helsinki" width="100%"/>
 <br><br>
-<img src="../assets/images/UmU-logo.png" alt="Umeå University " width="100%"/>
+<img src="../assets/images/LundUniversity_C2line_RGB.png" alt="Lund University " width="100%"/>
 
 </div>
 
