@@ -8,8 +8,8 @@ author_profile: true
 ## Articles
 
 **2025**
-* Nikolai Ilinykh, Maria Irena Szawerna. 2025. [“I Need More Context and an English Translation”: Analysing How LLMs Identify Personal Information in Komi, Polish, and English.](https://hdl.handle.net/10062/107129) In Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025).
-* Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, and Elena Volodina. 2025. [The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling](https://hdl.handle.net/10062/107263). In Proceedings of the The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025).
+* Nikolai Ilinykh, Maria Irena Szawerna. 2025. [“I Need More Context and an English Translation”: Analysing How LLMs Identify Personal Information in Komi, Polish, and English.](https://aclanthology.org/2025.resourceful-1.32/) In Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025).
+* Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, and Elena Volodina. 2025. [The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling](https://aclanthology.org/2025.nodalida-1.70/). In Proceedings of the The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025).
 
 
 **2024**
