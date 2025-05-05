@@ -28,9 +28,16 @@ author_profile: true
 
 ## Presentations
 
+**2025**
+
+* **Maria Irena Szawerna**,  Simon Dobnik, Ricardo Muñoz Sánchez, Elena Volodina. (3. March, 2025) The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling. NoDaLiDa/Baltic-HLT 2025, Tallinn, Estonia.
+
+* **Nikolai Ilinykh, Maria Irena Szawerna**. (2. March) “I Need More Context and an English Translation”: Analysing How LLMs Identify Personal Information in Komi, Polish, and English. A poster at RESOURCEFUL 2025 @ NoDaLiDa/Baltic-HLT 2025, Tallinn, Estonia.
+
+
 **2024**
 
-* **Lisa Södergård, Therese Lindström Tiedemann**. (11 December, 2024) Mormor Karl och personuppgifterna i språkvetenskapen. Nordiska forskarseminariet, Helsingfors universitet. (onsite and on zoom)
+* **Lisa Södergård, Therese Lindström Tiedemann**. (11. December, 2024) Mormor Karl och personuppgifterna i språkvetenskapen. Nordiska forskarseminariet, Helsingfors universitet. (onsite and on zoom)
 
 * **Maria Irena Szawerna**, Simon Dobnik, Ricardo Muñoz Sánchez, Elena Volodina. (27. November, 2024). Swedish Learner Essays Revisited: Further Insights into Detecting Personal Information.
 The Tenth Swedish Language Technology Conference (SLTC), 27-29 November, 2024, Linköping, Sweden .
