@@ -19,12 +19,12 @@ Under den här workshopen vill vi samla språkvetare för att samtala och utbyta
 2. hur pseudonymisering av våra data påverkar möjligheten att använda datan samt  
 3. hur pseudonymisering av våra data påverkar våra potentiella forskningsresultat.  
 
-# Tid och Plats
+# Tid och plats
 
 26 maj 2025, kl. 14–17.30, sal Kungsstenen, Stockholms universitet, Sverige under konferensen Svenskans beskrivning 40.
 
 # Program och abstrakt
-Obs! Eventuella ändringar kan förekomma, se konferensens webbplats för uppdaterad version.
+Obs! Eventuella ändringar kan förekomma, se konferensens webbplats för uppdaterad version: [Svenskans Beskrivning 26 maj 2025](https://www.su.se/institutionen-for-svenska-och-flersprakighet/forskning/konferenser-och-seminarier/konferens-2025-svenskans-beskrivning-40-1.730200)
 
 | Ordning | Titel | Författare | Tid | Ordförande |
 |-------|--------|----------|------------|--------|
