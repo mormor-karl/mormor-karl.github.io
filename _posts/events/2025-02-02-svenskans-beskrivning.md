@@ -28,12 +28,12 @@ Obs! Eventuella ändringar kan förekomma, se konferensens webbplats för uppdat
 
 | Ordning | Titel | Författare | Tid | Ordförande |
 |-------|--------|----------|------------|--------|
-| 1     | En presentation om att ersätta identifierande element i språkvetenskapliga forskningsdata |Therese Lindström Tiedemann, Lisa Södergård, Elena Volodina, Simon Dobnik, Maria Szawerna, Ricardo Muñoz Sánchez och Xuan-Son Vu | 14.10 - 14.40 | Therese Lindström Tiedemann |
+| 1     | En presentation om att ersätta identifierande element i språkvetenskapliga forskningsdata |Therese Lindström Tiedemann m.fl. | 14.10 - 14.40 | Therese Lindström Tiedemann |
 | 2     | Att pseudonymisera personnamn |Emilia Aldrin & Linnea Gustafsson  | 14.40 - 15.10 | |
 | 3     | Om avväganden vid pseudonymisering i elevers berättande texter |Theres Bellander & Saga Bendegard | 15.10 - 15.40 |   |
 | 4     | Fikapaus  | | 15.40 - 16.00 |  |
 | 5     | Så öppet som möjligt och så slutet som nödvändigt – var går gränsen? | Åsa Palviainen | 16.00 - 16.30 | Lisa Södergård |
-| 6     | Pseudonymisering/anonymisering når språkdatamaterialet er samtaler om familie og personleg bakgrunn | Åshild Søfteland, Linda Evenstad Emilsen och Ann-Kristin Helland Gujord | 16.30 - 17.00 | |
+| 6     | Pseudonymisering/anonymisering når språkdatamaterialet er samtaler om familie og personleg bakgrunn | Åshild Søfteland m.fl. | 16.30 - 17.00 | |
 | 7     | Anonymisering, förtryck och interpersonligt ansvar | Jan-Ola Östman | 17.00 - 17.30 | |
 
 ## Abstrakt
