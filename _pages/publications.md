@@ -30,7 +30,13 @@ author_profile: true
 
 **2025**
 
-* **Lisa Södergård, Therese Lindström Tiedemann**. (12/5, 2025) Att ansvarsfullt skydda och dölja identitet i språkforskning. Språkvetenskapsdagarna 2025, Helsingfors universitet.
+* **Lisa Södergård, Therese Lindström Tiedemann**, Elena Volodina, Simon Dobnik, Maria Szawerna, Ricardo Muñoz Sánchez och Xuan-Son Vu. (26/5 2025) Om mormor Karl sägs vara 27 år gammal, vad säger det om skribenten? En presentation
+om att identifiera och ersätta identifierande element i språkvetenskapliga forskningsdata. Svenskans beskrivning 40, Stockholms universitet.
+
+* **Lisa Södergård**. (28/5 2025) Pseudonymisering av orter, skolor och organisationer – hur gör språkforskare i
+praktiken?. Svenskans beskrivning 40, Stockholms universitet.
+
+* **Lisa Södergård, Therese Lindström Tiedemann**. (12/5 2025) Att ansvarsfullt skydda och dölja identitet i språkforskning. Språkvetenskapsdagarna 2025, Helsingfors universitet.
 
 * **Maria Irena Szawerna**,  Simon Dobnik, Ricardo Muñoz Sánchez, Elena Volodina. (3. March, 2025) The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling. NoDaLiDa/Baltic-HLT 2025, Tallinn, Estonia.
 
