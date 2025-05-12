@@ -30,6 +30,8 @@ author_profile: true
 
 **2025**
 
+* **Lisa Södergård, Therese Lindström Tiedemann**. (12/5, 2025) Att ansvarsfullt skydda och dölja identitet i språkforskning. Språkvetenskapsdagarna 2025, Helsingfors universitet.
+
 * **Maria Irena Szawerna**,  Simon Dobnik, Ricardo Muñoz Sánchez, Elena Volodina. (3. March, 2025) The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling. NoDaLiDa/Baltic-HLT 2025, Tallinn, Estonia.
 
 * **Nikolai Ilinykh, Maria Irena Szawerna**. (2. March, 2025) “I Need More Context and an English Translation”: Analysing How LLMs Identify Personal Information in Komi, Polish, and English. A poster at RESOURCEFUL 2025 @ NoDaLiDa/Baltic-HLT 2025, Tallinn, Estonia.
