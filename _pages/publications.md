@@ -31,7 +31,7 @@ author_profile: true
 **2025**
 
 * **Lisa Södergård, Therese Lindström Tiedemann**, Elena Volodina, Simon Dobnik, Maria Szawerna, Ricardo Muñoz Sánchez och Xuan-Son Vu. (26/5 2025) Om mormor Karl sägs vara 27 år gammal, vad säger det om skribenten? En presentation
-om att identifiera och ersätta identifierande element i språkvetenskapliga forskningsdata. Svenskans beskrivning 40, Stockholms universitet.
+om att identifiera och ersätta identifierande element i språkvetenskapliga forskningsdata. Ingår i workshoppen [Pseudonymisering inom språkvetenskap.](https://mormor-karl.github.io/events/svenskans-beskrivning/) Svenskans beskrivning 40, Stockholms universitet.
 
 * **Lisa Södergård**. (28/5 2025) Pseudonymisering av orter, skolor och organisationer – hur gör språkforskare i
 praktiken?. Svenskans beskrivning 40, Stockholms universitet.
