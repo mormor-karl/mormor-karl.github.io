@@ -10,7 +10,7 @@ tags:
 
 ------
 
-Elena Volodina at Bokmässan 2025 in a panel discussion about learner data and privacy issues. 
+Elena Volodina will be at Bokmässan 2025 as part of a panel discussion about learner data and privacy issues. 
 
 <!--more-->
 
