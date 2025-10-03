@@ -15,13 +15,13 @@ _a cross-disciplinary forum for advancing privacy protection of unstructured tex
 
 ## Proceedings
 
-EACL workshop proceedings is out: [https://aclanthology.org/volumes/2024.caldpseudo-1/](https://aclanthology.org/volumes/2024.caldpseudo-1/)
+EACL workshop proceedings are out: [https://aclanthology.org/volumes/2024.caldpseudo-1/](https://aclanthology.org/volumes/2024.caldpseudo-1/)
 
 ## Video and photos
 
 Watch [live recordings](https://us06web.zoom.us/rec/share/o0xtO28YKrF2wy1S5AhRvnv6obl0hdFji6DLS4bgnT1ZoVkUrAHS6q8Vbu8NJz_7.-kIyQjWP80g3JfTK) from the workshop.
 
-Here are [slides and pre-redcorded videos](https://underline.io/events/441/sessions?eventSessionId=17286&searchGroup=lecture) provided by Underline. 
+Here are [slides and pre-recorded videos](https://underline.io/events/441/sessions?eventSessionId=17286&searchGroup=lecture) provided by Underline. 
 
 
 
