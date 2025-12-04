@@ -8,7 +8,9 @@ author_profile: true
 ## Articles
 
 **2025**
-* Nikolai Ilinykh, Maria Irena Szawerna. 2025. [“I Need More Context and an English Translation”: Analysing How LLMs Identify Personal Information in Komi, Polish, and English.](https://aclanthology.org/2025.resourceful-1.32/) In Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025).
+* Maria Irena Szawerna, David Alfter, Elena Volodina. 2025. [Annotating Personal Information in Swedish Texts with SPARV](https://acl-bg.org/proceedings/2025/LM4DH%202025/pdf/2025.lm4dh-1.15.pdf). In Proceedings of the First Workshop on Natural Language Processing and Language Models for Digital Humanities, pages 155-163
+* Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, Ricardo Muñoz Sánchez, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. 2025. [Towards shared standards for pseudonymization of research data](https://www.huminfra.se/resources/humevents/hic-2025_proceedings.pdf). In Proceedings of the Huminfra Conference (HiC 2025), Stockholm, 12-13 November 2025
+* Nikolai Ilinykh, Maria Irena Szawerna. 2025. [“I Need More Context and an English Translation”: Analysing How LLMs Identify Personal Information in Komi, Polish, and English.](https://aclanthology.org/2025.resourceful-1.32/). In Proceedings of the Third Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025).
 * Maria Irena Szawerna, Simon Dobnik, Ricardo Muñoz Sánchez, and Elena Volodina. 2025. [The Devil’s in the Details: the Detailedness of Classes Influences Personal Information Detection and Labeling](https://aclanthology.org/2025.nodalida-1.70/). In Proceedings of the The Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025).
 
 
