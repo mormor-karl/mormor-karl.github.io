@@ -26,7 +26,9 @@ Under den här workshopen vill vi samla språkvetare för att samtala och utbyta
 # Program och abstrakt
 Obs! Eventuella ändringar kan förekomma, se konferensens webbplats för uppdaterad version: [Svenskans Beskrivning 26 maj 2025](https://www.su.se/institutionen-for-svenska-och-flersprakighet/forskning/konferenser-och-seminarier/konferens-2025-svenskans-beskrivning-40-1.730200)
 
-| Ordning | Titel | Författare | Tid | Ordförande |
+Program och abstrakt är tillfälligt gömda medan granskningen av texter i postproceedings pågår.
+
+<!-- | Ordning | Titel | Författare | Tid | Ordförande |
 |-------|--------|----------|------------|--------|
 | 1     | En presentation om att ersätta identifierande element i språkvetenskapliga forskningsdata |Therese Lindström Tiedemann m.fl. | 14.10 - 14.40 | Therese Lindström Tiedemann |
 | 2     | Att pseudonymisera personnamn |Emilia Aldrin & Linnea Gustafsson  | 14.40 - 15.10 | |
@@ -60,7 +62,7 @@ Obs! Eventuella ändringar kan förekomma, se konferensens webbplats för uppdat
 
 | Jan-Ola Östman (Helsingfors universitet) |
 |--|
-|**Anonymisering, förtryck och interpersonligt ansvar** <br>När NORMS var normen inom dialektforskning, var det dem som byborna ansåg vara byns mest kunniga dialekttalare som anlitades; det var förmodligen en hedersam uppgift att bli tillfrågad och identifierad som god dialekttalare. Till följd av GDPR har forskare (bl.a. dialektologer) blivit osäkra på om det alls är tillåtet att uppge meddelares identitet. I detta något emancipatoriska inlägg vill jag diskutera i vilken mån anonymisering kan uppfattas som stöld av (minoriteters) immateriella egendom och därvid som ett indirekt förtryck. Jag diskuterar vidare varför anonymisering och pseudonymisering bör analyseras med hjälp av olika typer av ansvar som verktyg: kollektivt, juridiskt, interpersonligt, moraliskt, fogligt. Jag belyser olika aspekter av detta med exempel från dialektologi, från vykortsdiskurs och från arbete med teckenspråk och med ursprungsbefolkningens språk i USA.|
+|**Anonymisering, förtryck och interpersonligt ansvar** <br>När NORMS var normen inom dialektforskning, var det dem som byborna ansåg vara byns mest kunniga dialekttalare som anlitades; det var förmodligen en hedersam uppgift att bli tillfrågad och identifierad som god dialekttalare. Till följd av GDPR har forskare (bl.a. dialektologer) blivit osäkra på om det alls är tillåtet att uppge meddelares identitet. I detta något emancipatoriska inlägg vill jag diskutera i vilken mån anonymisering kan uppfattas som stöld av (minoriteters) immateriella egendom och därvid som ett indirekt förtryck. Jag diskuterar vidare varför anonymisering och pseudonymisering bör analyseras med hjälp av olika typer av ansvar som verktyg: kollektivt, juridiskt, interpersonligt, moraliskt, fogligt. Jag belyser olika aspekter av detta med exempel från dialektologi, från vykortsdiskurs och från arbete med teckenspråk och med ursprungsbefolkningens språk i USA.|-->
 
 
 # Organisatörer
