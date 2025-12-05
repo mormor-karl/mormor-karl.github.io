@@ -44,6 +44,13 @@ It is also important to consider whether and how you should indicate what has be
 
 We invite contributions in English which discuss these issues and others related to the topic of privacy, identity and linguistics. We are particularly interested in discussions which concern languages, including dialects and minority languages, in northern Europe, but also invite chapters on other languages and on general linguistics. We suggest that contributions could concern the following or similar issues:  
 
+* Which information you are currently replacing, but also how and why this is done,  
+* How personal information in data and metadata has been treated in your area of linguistics historically, 
+* How replacements of personal and/or sensitive information affect the usability of data in your area of linguistics and the validity of any conclusions,  
+* How replacements of personal and/or sensitive information might affect results in your area of linguistics.  
+* How replacements of personal and/or sensitive information might affect the participants in research in your area of linguistics, including pro’s and con’s of letting participants choose whether and how their personal information should be obscured in the data.  
+* How researchers can navigate between their different responsibilities: protecting individuals from harm, while also acknowledging their contributions to the research, and doing reliable linguistic research that can be important to society.  
+
 | Acknowledgments |
 |--|
 |The cfp is organized within the research environment project [Grandma Karl is 27 years old](https://mormor-karl.github.io/) and is supported by a research grant on pseudonymization from the [Swedish Research Council](https://www.vr.se/english/swecris.html#/project/2022-02311_VR).|
