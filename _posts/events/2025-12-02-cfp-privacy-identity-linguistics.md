@@ -22,6 +22,13 @@ We invite contributions in English which discuss these issues and others related
 
 For a chance to contribute to the volume please submit a title by the **30th January 2026**, and a 500-word abstract (excluding references) plus an outline of your proposed chapter by the **30th March 2026**. First chapter drafts **30th September 2026**. Abstracts will be peer-reviewed. We are currently primarily considering one of De Gruyter Brill's series as a publication venue.  
 
+**Contact information**
+
+Editors:
+
+Therese Lindström Tiedemann, senior university lecturer, University of Helsinki, Finland
+
+Lisa Södergård, PhD student, University of Helsinki, Finland  
 
 | Acknowledgments |
 |--|
