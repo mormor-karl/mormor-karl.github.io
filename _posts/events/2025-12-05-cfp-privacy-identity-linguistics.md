@@ -1,5 +1,5 @@
 ---
-title: "Privacy, identity and linguistics - deidentification, pseudonymisation, anonymisation in linguistics"
+title: "Call for papers: Privacy, identity and linguistics - deidentification, pseudonymisation, anonymisation in linguistics"
 excerpt_separator: "<!--more-->"
 categories:
   - publications
