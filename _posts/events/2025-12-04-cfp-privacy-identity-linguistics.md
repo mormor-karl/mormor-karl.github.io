@@ -21,7 +21,7 @@ We invite contributions in English which discuss these issues and others related
 * How replacements of personal and/or sensitive information might affect the participants in research in your area of linguistics, including pro’s and con’s of letting participants choose whether and how their personal information should be obscured in the data
 * How researchers can navigate between their different responsibilities: protecting individuals from harm, while also acknowledging their contributions to the research, and doing reliable linguistic research that can be important to society.
 
-For a chance to contribute to the volume please submit a title by the **30th January 2026**, and a 500-word abstract (excluding references) plus an outline of your proposed chapter by the **30th March 2026**. First chapter drafts **30th September 2026**. Abstracts and chapters will be peer-reviewed. We are currently primarily considering one of De Gruyter Brill's series as a publication venue.  
+For a chance to contribute to the volume please submit a title by the **30th January 2026**, and a 500-word abstract (excluding references) plus an outline of your proposed chapter by the **31st March 2026**. First chapter drafts **30th September 2026**. Abstracts and chapters will be peer-reviewed. We are currently primarily considering one of De Gruyter Brill's series as a publication venue.  
 
 **Contact information**
 
