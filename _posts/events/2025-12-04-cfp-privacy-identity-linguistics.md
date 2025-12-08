@@ -56,7 +56,7 @@ We invite contributions in English which discuss these issues and others related
 # Important dates
 
 Preliminary:
-  * 30th January, 2026: deadline for expression of interest. [SUBMIT HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=WXWumNwQiEKOLkWT5i_j7glQcGy6XvxKgkv71CRzyxRUQzBVOTM0TkxIT1BQQ1pZTjZZWkdHVE9CNS4u) 
+  * 30th January, 2026: deadline for expression of interest [SUBMIT HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=WXWumNwQiEKOLkWT5i_j7glQcGy6XvxKgkv71CRzyxRUQzBVOTM0TkxIT1BQQ1pZTjZZWkdHVE9CNS4u) 
   * 31st March, 2026: 500-word abstract plus chapter outline  
   * 30th September, 2026: chapter submission deadline (preliminary length max 9 000 words including everything) 
   * February, 2027: notification from the first round of reviews  
