@@ -16,7 +16,8 @@ We invite contributions in English which discuss these issues and others related
 * Which information you are currently replacing, but also how and why this is done,  
 * How personal information in data and metadata has been treated in your area of linguistics historically, 
 * How replacements of personal and/or sensitive information affect the usability of data in your area of linguistics and the validity of any conclusions,  
-* How replacements of personal and/or sensitive information might affect results in your area of linguistics, e.g. effects on semantics, pragmatics.  
+* How replacements of personal and/or sensitive information might affect results in your area of linguistics, e.g. effects on semantics, pragmatics, applied linguistics.
+* How replacements affect the semantics or pragmatics of the linguistic data and possibly the perception and readability of the data 
 * How replacements of personal and/or sensitive information might affect the participants in research in your area of linguistics, including pro’s and con’s of letting participants choose whether and how their personal information should be obscured in the data.  
 * How researchers can navigate between their different responsibilities: protecting individuals from harm, while also acknowledging their contributions to the research, and doing reliable linguistic research that can be important to society.
 
@@ -26,9 +27,9 @@ For a chance to contribute to the volume please submit a title by the **30th Jan
 
 Editors:
 
-Therese Lindström Tiedemann, senior university lecturer, University of Helsinki, Finland
+[Therese Lindström Tiedemann](https://researchportal.helsinki.fi/en/persons/therese-lindstr%C3%B6m-tiedemann/) , senior university lecturer, University of Helsinki, Finland
 
-Lisa Södergård, PhD student, University of Helsinki, Finland  
+[Lisa Södergård](https://researchportal.helsinki.fi/en/persons/greta-lisa-s%C3%B6derg%C3%A5rd/) , PhD student, University of Helsinki, Finland  
 
 # Full call: Privacy, identity and linguistics - deidentification, pseudonymisation, anonymisation in linguistics 
 
