@@ -19,8 +19,8 @@ Namn är på samma gång personliga och generella. Namnet identifierar en viss p
 ------
 **Besvara frågelistan**
 
-Vill du att ditt svar arkiveras av Isof i Sverige -  [delta här! ](https://www.isof.se/namn/insamling/namn-och-associationer).
-Vill du att ditt svar arkiveras av SLS i FInland -  [delta här! ](https://www.lyyti.fi/reg/Namn_och_associationer_7557).
+Vill du att ditt svar arkiveras av Isof i Sverige - [delta här](https://www.isof.se/namn/insamling/namn-och-associationer).
+Vill du att ditt svar arkiveras av SLS i FInland -  [delta här](https://www.lyyti.fi/reg/Namn_och_associationer_7557).
 
 ------
  
