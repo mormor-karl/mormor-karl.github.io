@@ -12,7 +12,7 @@ tags:
 
 Är Theo och Torsten lika gamla? Vilka språk talar Elina? Jobbar Philip på en bank eller på en skola? Kommer Layla Virta från Tornedalen eller Tunisien?
 
-Namn är på samma gång personliga och generella. Namnet identifierar en viss person, men kan samtidigt ge ledtrådar om personens ålder, bakgrund och språkkunskaper. Vilka slutsatser drar du om en person enbart utgående från hens förnamn och efternamn? Vilka slutsatser tror du andra drar om dig utgående från ditt namn? Insamlingen görs på initiativ av forskare vid Helsingfors universitet: Lisa Södergård, doktorand, och Therese Lindström Tiedemann, docent och handledare. Forskningen utförs inom forskningsmiljön Mormor Karl är 27 år, med finansiering av Vetenskapsrådet. Frågelistan publiceras i Sverige av Institutet för språk och folkminnen, Isof, och i Finland av Svenska litteratursällskapet i Finland, SLS. 
+Namn är på samma gång personliga och generella. Namnet identifierar en viss person, men kan samtidigt ge ledtrådar om personens ålder, bakgrund och språkkunskaper. Vilka slutsatser drar du om en person enbart utgående från hens förnamn och efternamn? Vilka slutsatser tror du andra drar om dig utgående från ditt namn? Insamlingen görs på initiativ av forskare vid Helsingfors universitet: Lisa Södergård, doktorand, och Therese Lindström Tiedemann, docent och handledare. Forskningen utförs inom forskningsmiljön Mormor Karl är 27 år, med finansiering av Vetenskapsrådet. Frågelistan publiceras i Sverige i samarbete med Institutet för språk och folkminnen, Isof, och i Finland i samarbete med Svenska litteratursällskapet i Finland, SLS. 
 
 <!--more-->
 
