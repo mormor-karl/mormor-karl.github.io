@@ -17,7 +17,7 @@ permalink: /
 The three collaborating universities are: 
 * ![]() University of Gothenburg, Sweden
 * ![]() University of Helsinki, Finland
-* ![]() Umeå university, Sweden
+* ![]() Lund university, Sweden
 
 More on the team see [here](https://mormor-karl.github.io/team/).
 
