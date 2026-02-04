@@ -47,6 +47,8 @@ The models available in that plugin are available on [HuggingFace](https://huggi
 
 We have collaborated with InfraVis to develop a [visualization tool](https://github.com/spraakbanken/impersonaldata) for comparing personal information detection and labeling from different systems. 
 
+The three previously mentioned tools and models are described in [this article](https://aclanthology.org/2025.lm4dh-1.15.pdf).
+
 As more tools and algorithms will be developed in the project, they will appear here. 
 
 ------
