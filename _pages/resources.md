@@ -21,6 +21,10 @@ The resources used in Mormor Karl project ('Grandma Karl' in English) consist of
 
 ------
 
+### Texts with fictive personal information
+
+We are conducting a collection of texts (legal texts and personal stories) written by real people about fictive characters.
+
 
 ### Data from other domains (in Swedish)
 
@@ -37,7 +41,13 @@ The resources used in Mormor Karl project ('Grandma Karl' in English) consist of
 
 We start from the [SVALA tool](https://spraakbanken.gu.se/swell/dev/), where rule-based automatic pseudonymizer service is available in the menu for tesing, see an [article on SVALA](http://www.ep.liu.se/ecp/159/023/ecp18159023.pdf).
 
-As new tools and algorithms will be developed in the project, they will appear here. 
+We have developed a [SPARV plugin](https://spraakbanken.gu.se/analyser/sbx-swe-pi_detection-sparv) for personal information detection and labelling. 
+
+The models available in that plugin are available on [HuggingFace](https://huggingface.co/collections/Turtilla/pi-detection-and-labeling).
+
+We have collaborated with InfraVis to develop a [visualization tool](https://github.com/spraakbanken/impersonaldata) for comparing personal information detection and labeling from different systems. 
+
+As more tools and algorithms will be developed in the project, they will appear here. 
 
 ------
 
