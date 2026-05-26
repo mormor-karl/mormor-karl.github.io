@@ -36,6 +36,15 @@ author_profile: true
 ## Presentations
 
 **2025**
+* **Maria Irena Szawerna, Jacob Lee Suchardt**. (13. May, 2026) Fill-in-the-Blanks: Automatic Generation and Evaluation of Language Models' Pseudonyms for English and Swedish Texts, a poster at LREC 2026. Palma de Mallorca, Spain.
+
+* **Maria Irena Szawerna**, Simon Dobnik. (12. May, 2026) Birds of a Feather: Do Embedding Representations of Personal Information Flock Together?, LEGAL2026 and CALD-pseudo 2026 @ LREC 2026. Palma de Mallorca, Spain.
+
+* **Maria Irena Szawerna**. (20. April, 2026) Sense and sensitivity: insights into detecting and replacing personal information in Swedish texts. Mid-seminar in the Higher Seminar series @ the Department of Swedish, Multilingualism, Language Technology, University of Gothenburg. Gothenburg, Sweden.
+
+**2025**
+
+* **Maria Irena Szawerna**, David Alfter, Elena Volodina. (1. October, 2025) Annotating Personal Information in Swedish Texts with SPARV. Poster presentation at the Bazaar of the CLARIN Annual Conference 2025, Vienna, Austria.
 
 * **Lisa Södergård, Therese Lindström Tiedemann**, Elena Volodina, Simon Dobnik, Maria Szawerna, Ricardo Muñoz Sánchez och Xuan-Son Vu. (26/5 2025) Om mormor Karl sägs vara 27 år gammal, vad säger det om skribenten? En presentation
 om att identifiera och ersätta identifierande element i språkvetenskapliga forskningsdata. Ingår i workshoppen [Pseudonymisering inom språkvetenskap.](https://mormor-karl.github.io/events/svenskans-beskrivning/) Svenskans beskrivning 40, Stockholms universitet.
