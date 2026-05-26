@@ -35,7 +35,7 @@ author_profile: true
 
 ## Presentations
 
-**2025**
+**2026**
 * **Maria Irena Szawerna, Jacob Lee Suchardt**. (13. May, 2026) Fill-in-the-Blanks: Automatic Generation and Evaluation of Language Models' Pseudonyms for English and Swedish Texts, a poster at LREC 2026. Palma de Mallorca, Spain.
 
 * **Maria Irena Szawerna**, Simon Dobnik. (12. May, 2026) Birds of a Feather: Do Embedding Representations of Personal Information Flock Together?, LEGAL2026 and CALD-pseudo 2026 @ LREC 2026. Palma de Mallorca, Spain.
