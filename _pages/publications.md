@@ -7,6 +7,11 @@ author_profile: true
 ------
 ## Articles
 
+**2026**
+* Maria Irena Szawerna, Simon Dobnik. 2026. [Birds of a Feather: Do Embedding Representations of Personal Information Flock Together?](http://lrec-conf.org/proceedings/lrec2026/workshops/legal/2026.legal-1.0.pdf), in Proceedings of the Joint Workshop on Legal and Ethical Issues in Human Language Technologies and Computational Approaches to Language Data Pseudonymization, Anonymization, De-identification, and Data Privacy (LEGAL2026 and CALD-pseudo 2026) @ LREC 2026, pages 62-72.  Palma de Mallorca, Spain. ELRA.
+* Ingo Siegert, Maria Irena Szawerna, Khalid Choukri, Simon Dobnik, Paweł Kamocki, Therese Lindström Tiedemann, Pierre Lison, Ricardo Muñoz Sánchez, Ildikó Pilán, Lisa Södergård, Kossay Talmoudi, Elena Volodina, Xuan-Son Vu. 2026. [Proceedings of the Joint Workshop on Legal and Ethical Issues in Human Language Technologies and Computational Approaches to Language Data Pseudonymization, Anonymization, De-identification, and Data Privacy (LEGAL2026 and CALD-pseudo 2026) @ LREC 2026](http://lrec-conf.org/proceedings/lrec2026/workshops/legal/2026.legal-1.0.pdf), Editors. LREC, Palma de Mallorca, Spain, 2026. ELRA.
+* Maria Irena Szawerna, Jacob Lee Suchardt 2026. [Fill-in-the-Blanks: Automatic Generation and Evaluation of Language Models' Pseudonyms for English and Swedish Texts](https://doi.org/10.63317/42gh3j2hfmca), in Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026), pages 1155-1169. Palma de Mallorca, Spain. ELRA.
+
 **2025**
 * Maria Irena Szawerna, David Alfter, Elena Volodina. 2025. [Annotating Personal Information in Swedish Texts with SPARV](https://acl-bg.org/proceedings/2025/LM4DH%202025/pdf/2025.lm4dh-1.15.pdf). In Proceedings of the First Workshop on Natural Language Processing and Language Models for Digital Humanities, pages 155-163
 * Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, Ricardo Muñoz Sánchez, Maria Irena Szawerna, Lisa Södergård, Xuan-Son Vu. 2025. [Towards shared standards for pseudonymization of research data](https://www.huminfra.se/resources/humevents/hic-2025_proceedings.pdf). In Proceedings of the Huminfra Conference (HiC 2025), Stockholm, 12-13 November 2025
