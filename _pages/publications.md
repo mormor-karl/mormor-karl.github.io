@@ -37,6 +37,8 @@ author_profile: true
 ## Presentations
 
 **2026**
+* **Lisa Södergård, Therese Lindström Tiedemann** (19. May, 2026) Autentiska och syntetiska ortnamn – associationer till språk och kulturarv. /Authentic and synthethic place names - associations to language and cultural heritage. NORNA-symposium on Names and cultural heritage, Reykjavik, Iceland.
+
 * **Maria Irena Szawerna, Jacob Lee Suchardt**. (13. May, 2026) Fill-in-the-Blanks: Automatic Generation and Evaluation of Language Models' Pseudonyms for English and Swedish Texts, a poster at LREC 2026. Palma de Mallorca, Spain.
 
 * **Maria Irena Szawerna**, Simon Dobnik. (12. May, 2026) Birds of a Feather: Do Embedding Representations of Personal Information Flock Together?, LEGAL2026 and CALD-pseudo 2026 @ LREC 2026. Palma de Mallorca, Spain.
