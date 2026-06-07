@@ -43,6 +43,9 @@ author_profile: true
 
 * **Maria Irena Szawerna**. (20. April, 2026) Sense and sensitivity: insights into detecting and replacing personal information in Swedish texts. Mid-seminar in the Higher Seminar series @ the Department of Swedish, Multilingualism, Language Technology, University of Gothenburg. Gothenburg, Sweden.
 
+* **Therese Lindström Tiedemann, Lisa Södergård**. (13. March, 2026) “Hen är en bra kille”. Pronomen i pseudonymisering av forskningsdata /"Hen is a good guy". Pronouns in pseudonymisation of research data. Svenskan i Finland 22, Tampere, Finland. 
+
+
 **2025**
 
 * **Maria Irena Szawerna**, David Alfter, Elena Volodina. (1. October, 2025) Annotating Personal Information in Swedish Texts with SPARV. Poster presentation at the Bazaar of the CLARIN Annual Conference 2025, Vienna, Austria.
