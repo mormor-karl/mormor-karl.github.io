@@ -7,7 +7,8 @@ tags:
   - outreach
 ---
 
-#Cfp: Anonymisation and pseudonymisation – challenges with privacy protection in linguistics. Panel at IPC20
+# Cfp: Anonymisation and pseudonymisation – challenges with privacy protection in linguistics. Panel at [IPC20,27 June--2 July 2027] (https://pragmatics.international/page/CfP2027)
+
 We are thrilled to announce that our panel at the International Pragmatics Conference in Helsinki 2027 entitled **Anonymisation and pseudonymisation – challenges with privacy protection in linguistics** is now accepting submissions [IPC20, 2027] (https://pragmatics.international/page/CfP2027)!  
 
 We encourage those interested in the panel to read more on the main pages for the International Pragmatics Conference (see above). The deadline for submissions is 15 October 2026.
