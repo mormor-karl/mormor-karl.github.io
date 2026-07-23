@@ -14,5 +14,5 @@ A paper written by Elena Volodina, Simon Dobnik, Therese Lindström Tiedemann, R
 Therese Lindström Tiedemann presented the paper on behalf of the whole Mormor Karl team.
 
 
-## Read the paper in the [published proceedings] (https://doi.org/10.58009/aere-perennius0190)
+## Read the paper in the [published proceedings](https://doi.org/10.58009/aere-perennius0190)
 
