@@ -16,9 +16,9 @@ The Mormor Karl project members, Lisa Södergård and Therese Lindström Tiedema
 
 Lisa Södergård was interviewed in *Morgonen i P4 Kristianstad*, P4 Kristianstad, Sveriges radio (23rd January, 2026).
 
-*Göteborgsposten* wrote an article about the collection about names and associations which Isof were doing, published on the 23rd January 2026.
+*Göteborgsposten* wrote an article about the collection about names and associations which Isof was doing (23rd January, 2026).
 
-*Västerbottenskuriren* published a brief news item about the collection (22nd January 2026) followed by an article and coverage in social media with interviews with people on the streets of Umeå (16 February 2026).
+*Västerbottenskuriren* published a brief news item about the collection (22nd January, 2026) followed by an article and coverage in social media with interviews with people on the streets of Umeå (16 February, 2026).
 
 Leila Mattfolk, Isof, was interviewed on Radio Vega, Yle (Finland), in connection with the collection (March 2026).
 
