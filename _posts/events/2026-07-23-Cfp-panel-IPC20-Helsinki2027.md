@@ -18,7 +18,7 @@ The main organisers of the panel are Lisa Södergård and Therese Lindström Tie
 ## Panel description
 Anonymisation and pseudonymisation – challenges with privacy protection in linguistics
 
-(organized by Lisa Södergård & Therese Lindström Tiedemann, University of Helsinki)
+(organised by Lisa Södergård & Therese Lindström Tiedemann, University of Helsinki)
 
 
 Researchers have an ethical responsibility to protect and respect research participants, their
