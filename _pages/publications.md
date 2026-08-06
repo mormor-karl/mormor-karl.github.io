@@ -45,7 +45,7 @@ author_profile: true
 
 * **Maria Irena Szawerna**. (20. April, 2026) Sense and sensitivity: insights into detecting and replacing personal information in Swedish texts. Mid-seminar in the Higher Seminar series @ the Department of Swedish, Multilingualism, Language Technology, University of Gothenburg. Gothenburg, Sweden.
 
-* **Elena Volodina, Lisa Södergård, Therese Lindström Tiedemann**. (9. April, 2026) Anonymisering, pseudonymisering och inverkan på texter och språkvetenskaplig forskning = Anonymisation, pseudonymisation and the effect on texts and linguistic research. Invited Presentation at Namnforum, Uppsala University (Sweden) 
+* **Elena Volodina, Lisa Södergård, Therese Lindström Tiedemann**. (9. April, 2026) Anonymisering, pseudonymisering och inverkan på texter och språkvetenskaplig forskning = Anonymisation, pseudonymisation and the effect on texts and linguistic research. Invited Presentation at Namnforum, Uppsala University, Sweden. 
 
 * **Therese Lindström Tiedemann, Lisa Södergård**. (13. March, 2026) “Hen är en bra kille”. Pronomen i pseudonymisering av forskningsdata /"Hen is a good guy". Pronouns in pseudonymisation of research data. Svenskan i Finland 22, Tampere, Finland. 
 
