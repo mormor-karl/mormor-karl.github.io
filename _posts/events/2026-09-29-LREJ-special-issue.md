@@ -48,7 +48,7 @@ In the age of GDPR and heightened awareness about data privacy, incorporating de
 
 ## AI disclosure statement
 
-Please, include in your submission (alongside the abstract) the following table/list, based on [Kamocki and Witt (2026)](https://aclanthology.org/2026.legal-1.pdf#page=47). For each use category in the table (except the first and the last ones), please indicate "yes", "no", or "partially". For "Generation from prompt", provide more details. Note that articles generated from prompt and polished afterwards cannot legally be assigned authorship to humans and will therefore be excluded from reviewing and publication in the special issue. 
+Please, include in your submission (alongside the abstract) the following table/list, based on [Kamocki and Witt (2026)](https://aclanthology.org/2026.legal-1.pdf#page=47). For each use category in the table (except the first and the last ones), please indicate "yes" or "no". For "Generation from prompt", provide more details. Note that articles generated from prompt and polished afterwards cannot legally be assigned authorship to humans and will therefore be excluded from reviewing and publication in the special issue. 
 
 Read more about policy regarding the use of AI for article writing (and other related policies) at the [Springer Nature Link](https://link.springer.com/brands/springer/journal-policies) website.
 
