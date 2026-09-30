@@ -37,6 +37,8 @@ author_profile: true
 ## Presentations
 
 **2026**
+* **Maria Irena Szawerna**. (24. September, 2026) NN eller Svensson? Pseudonymer och det offentliga samtalet, a presentation at Bokmässan 2026. Gothenburg, Sweden.
+
 * **Lisa Södergård, Therese Lindström Tiedemann** (19. May, 2026) Autentiska och syntetiska ortnamn – associationer till språk och kulturarv. /Authentic and synthethic place names - associations to language and cultural heritage. NORNA-symposium on Names and cultural heritage, Reykjavik, Iceland.
 
 * **Maria Irena Szawerna, Jacob Lee Suchardt**. (13. May, 2026) Fill-in-the-Blanks: Automatic Generation and Evaluation of Language Models' Pseudonyms for English and Swedish Texts, a poster at LREC 2026. Palma de Mallorca, Spain.
