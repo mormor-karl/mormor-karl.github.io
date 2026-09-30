@@ -8,7 +8,7 @@ tags:
   - blog
 ---
 
-## A special issue @ [Language Resources and Evaluation Journal](https://link.springer.com/journal/10579) 
+## A special issue @ [Language Resources and Evaluation](https://link.springer.com/journal/10579) Journal 
 
 | Quick links |
 |--|
