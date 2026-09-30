@@ -12,7 +12,7 @@ tags:
 
 | Quick links |
 |--|
-|- [Guest editors and contact information](#guest-editors-and-contact-information) <br> - [Call for submissions](#call-for-submissions) <br> - [Important dates](#important-dates) <br> - [Submission information](#submission-information) <br> - [AI disclosure statement](#ai-disclosure-statement)
+|- [Guest editors and contact information](#guest-editors-and-contact-information) <br> - [Call for submissions](#call-for-submissions) <br> - [Important dates](#important-dates) <br> - [Submission information](#submission-information) <br> - [AI disclosure statement](#ai-disclosure-statement) <br> - [References](#references)
 
 ## Guest editors and contact information
 
