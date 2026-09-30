@@ -33,11 +33,11 @@ In the age of GDPR and heightened awareness about data privacy, incorporating de
 
 ## Important dates
 
-- October, 1, 2026: 1st call submissions 
-- November, 2, 2026: Expressions of interest due
-- November, 30, 2026: Notifications of abstract acceptance and invitation for full paper submission
+- October, 1, 2026: Call for abstracts 
+- November, 2, 2026: Abstracts due
+- November, 30, 2026: Notifications on abstract acceptance and invitation for full paper submission
 - March, 1, 2027: Full paper submissions due 
-- August 2027: Notification of full paper acceptance 
+- August 2027: Notifications on full paper acceptance 
 - December 2027: Final manuscripts submitted 
 
 ## Submission information
