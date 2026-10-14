@@ -37,6 +37,10 @@ author_profile: true
 ## Presentations
 
 **2026**
+* **Lisa Södergård, Therese Lindström Tiedemann** (7. October, 2026) Eget namn, en pseudonym eller det spelar ingen roll – när deltagaren själv får välja. /Own name, a pseudonym or it doesn't matter. Svenskans beskrivning 41, Umeå, Sweden.
+  
+*  **Lisa Södergård** (7. October, 2026) Anonymisera, pseudonymisera och andra dataskyddstermer och - begrepp. /Anonymisation, pseudonymisation and other data protection terms and concepts. Svenskans beskrivning 41, Umeå, Sweden.
+   
 * **Maria Irena Szawerna**. (24. September, 2026) NN eller Svensson? Pseudonymer och det offentliga samtalet, a presentation at Bokmässan 2026. Gothenburg, Sweden.
 
 * **Lisa Södergård, Therese Lindström Tiedemann** (19. May, 2026) Autentiska och syntetiska ortnamn – associationer till språk och kulturarv. /Authentic and synthethic place names - associations to language and cultural heritage. NORNA-symposium on Names and cultural heritage, Reykjavik, Iceland.
